@@ -1,0 +1,10 @@
+{
+  "version": "1.21.11",
+  "type": "fabric",
+  "ram_min": "2G",
+  "ram_max": "7G",
+  "auto_backup": true,
+  "auto_restart": true,
+  "use_playit": true,
+  "playit_path": "./playit-linux-amd64"
+}

@@ -1,0 +1,8 @@
+a op
+give
+tp
+gamemode
+summon
+setblock
+fill
+clone
