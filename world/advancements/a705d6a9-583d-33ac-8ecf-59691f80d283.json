@@ -324,16 +324,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2026-04-27 04:22:55 +0000",
-      "apple": "2026-04-27 04:22:12 +0000",
       "bread": "2026-04-27 03:18:38 +0000",
-      "cooked_chicken": "2026-04-28 04:55:52 +0000",
       "rotten_flesh": "2026-05-01 00:20:08 +0000",
       "suspicious_stew": "2026-05-02 04:23:34 +0000",
       "cooked_mutton": "2026-04-27 05:00:01 +0000",
-      "potato": "2026-04-30 18:19:11 +0000",
       "sweet_berries": "2026-04-28 04:21:19 +0000",
       "cooked_beef": "2026-04-27 04:30:37 +0000",
       "baked_potato": "2026-04-30 18:27:58 +0000",
+      "apple": "2026-04-27 04:22:12 +0000",
+      "cooked_chicken": "2026-04-28 04:55:52 +0000",
+      "potato": "2026-04-30 18:19:11 +0000",
+      "cooked_cod": "2026-05-08 23:00:29 +0000",
       "pumpkin_pie": "2026-04-27 04:08:18 +0000"
     },
     "done": false
@@ -1051,6 +1052,7 @@
       "minecraft:pillager": "2026-05-01 06:10:36 +0000",
       "minecraft:blaze": "2026-05-06 05:03:21 +0000",
       "minecraft:skeleton": "2026-04-27 04:22:36 +0000",
+      "minecraft:zombified_piglin": "2026-05-10 04:54:34 +0000",
       "minecraft:witch": "2026-05-04 22:30:47 +0000",
       "minecraft:wither_skeleton": "2026-05-06 05:07:08 +0000",
       "minecraft:ravager": "2026-05-04 22:28:36 +0000",
@@ -4001,6 +4003,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2026-05-02 05:13:21 +0000",
+      "minecraft:soul_sand_valley": "2026-05-10 04:38:28 +0000",
       "minecraft:basalt_deltas": "2026-05-02 05:11:16 +0000",
       "minecraft:warped_forest": "2026-05-02 04:18:27 +0000"
     },
@@ -5652,12 +5655,17 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2026-05-08 18:12:13 +0000",
       "potato": "2026-05-08 04:47:02 +0000",
       "red_mushroom": "2026-05-08 05:30:30 +0000",
       "sweet_berries": "2026-05-08 04:45:09 +0000",
       "nether_wart": "2026-05-08 04:43:24 +0000",
       "wheat": "2026-05-08 04:45:29 +0000",
+      "tomato": "2026-05-08 18:12:09 +0000",
+      "melon": "2026-05-08 17:47:01 +0000",
+      "pumpkin": "2026-05-08 18:12:47 +0000",
       "beetroot": "2026-05-08 04:45:57 +0000",
+      "brown_mushroom": "2026-05-08 18:24:48 +0000",
       "carrot": "2026-05-08 04:46:55 +0000"
     },
     "done": false
@@ -5758,135 +5766,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2026-05-08 05:28:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_banner": {
-    "criteria": {
-      "has_brown_wool": "2026-05-08 05:26:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/straw_bale": {
-    "criteria": {
-      "has_straw": "2026-05-08 05:28:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2026-05-08 05:26:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2026-05-08 05:26:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2026-05-08 05:28:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/tools/lead_from_straw": {
-    "criteria": {
-      "has_straw": "2026-05-08 05:28:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
-    "criteria": {
-      "beef_patty": "2026-05-08 05:33:49 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
     "criteria": {
       "has_light_gray_wool": "2026-05-08 05:21:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2026-05-08 05:23:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/canvas": {
-    "criteria": {
-      "has_straw": "2026-05-08 05:28:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2026-05-08 05:35:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/hamburger": {
-    "criteria": {
-      "has_beef_patty": "2026-05-08 05:34:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2026-05-08 05:21:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
-    "criteria": {
-      "beef_patty": "2026-05-08 05:33:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty": {
-    "criteria": {
-      "beef_patty": "2026-05-08 05:33:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2026-05-08 05:23:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
-    "criteria": {
-      "has_straw": "2026-05-08 05:28:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/master_chef": {
-    "criteria": {
-      "beef_stew": "2026-05-08 05:35:28 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2026-05-08 05:33:49 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
-    "criteria": {
-      "has_brown_wool": "2026-05-08 05:26:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/harvest_straw": {
-    "criteria": {
-      "harvest_straw": "2026-05-08 05:28:27 +0000"
     },
     "done": true
   },
@@ -5902,6 +5790,84 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-05-08 05:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2026-05-08 05:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2026-05-08 05:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2026-05-08 05:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2026-05-08 05:26:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2026-05-08 05:26:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-08 05:28:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2026-05-08 05:28:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-08 05:28:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2026-05-08 05:28:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2026-05-08 05:28:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2026-05-08 05:28:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2026-05-08 05:28:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/rope": {
     "criteria": {
       "has_straw": "2026-05-08 05:28:27 +0000"
@@ -5911,6 +5877,444 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
     "criteria": {
       "has_straw": "2026-05-08 05:28:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2026-05-08 05:33:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2026-05-08 05:33:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2026-05-08 05:33:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2026-05-08 05:33:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2026-05-08 05:34:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2026-05-08 05:35:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "beef_stew": "2026-05-08 05:35:28 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2026-05-08 17:46:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2026-05-08 17:46:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2026-05-08 18:02:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2026-05-08 18:02:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2026-05-08 18:02:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2026-05-08 18:03:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2026-05-08 18:03:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2026-05-08 18:03:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2026-05-08 18:10:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2026-05-08 18:10:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2026-05-08 18:10:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_mushroom_colony": {
+    "criteria": {
+      "brown_mushroom_colony": "2026-05-08 18:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/magenta_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/yellow_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2026-05-10 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2026-05-10 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/blue_bundle": {
+    "criteria": {
+      "has_blue_dye": "2026-05-10 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-10 04:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/red_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2026-05-10 04:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/green_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2026-05-10 04:29:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2026-05-10 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_blue_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-10 04:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2026-05-10 05:13:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/purple_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/white_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-10 04:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2026-05-10 04:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_blue_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:hose_suck": {
+    "criteria": {
+      "hose_suck": "2026-05-10 05:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/place_dried_ghast_in_water": {
+    "criteria": {
+      "place_dried_ghast_in_water": "2026-05-10 05:32:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-05-10 04:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2026-05-10 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/black_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither_smithing": {
+    "criteria": {
+      "has_wither": "2026-05-10 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2026-05-10 04:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2026-05-10 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:hose_drink": {
+    "criteria": {
+      "hose_drink": "2026-05-10 05:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2026-05-10 05:37:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:hose": {
+    "criteria": {
+      "hose": "2026-05-10 05:46:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-10 04:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/pink_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/orange_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-05-10 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2026-05-10 05:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/cyan_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2026-05-10 04:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2026-05-10 05:45:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2026-05-10 04:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/brown_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2026-05-10 05:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2026-05-10 05:37:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2026-05-10 04:29:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2026-05-10 04:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2026-05-10 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/lime_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2026-05-10 04:40:36 +0000"
     },
     "done": true
   },
