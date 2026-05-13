@@ -380,28 +380,70 @@ class ServerManager:
             
             if is_interactive:
                 # Modo interactivo: aceptar comandos
+                # ✅ LISTA NEGRA DE COMANDOS PELIGROSOS
+                dangerous_commands = [
+                    "op",
+                    "deop",
+                    "gamemode",
+                    "give",
+                    "stop",
+                    "reload",
+                    "pex",
+                    "lp",
+                    "luckperms",
+                    "minecraft:op",
+                    "minecraft:deop",
+                    "minecraft:gamemode",
+                    "minecraft:give",
+                    "minecraft:stop",
+                    "minecraft:reload"
+                ]
+                
+                # ✅ CARACTERES PELIGROSOS
+                dangerous_chars = ["|", ";", "&", ">", "<"]
+                
                 try:
                     while True:
                         try:
                             cmd = input()
+
                             if self.process.poll() is None:
-                                # Filtrar comandos bloqueados
-                                try:
-                                    with open('config/commands.txt', 'r') as f:
-                                        blocked_commands = [line.strip() for line in f if line.strip()]
-                                except FileNotFoundError:
-                                    blocked_commands = ["op", "give"]
-                                if any(cmd.strip().startswith("/" + bc) or cmd.strip().startswith(bc) for bc in blocked_commands) or "|" in cmd:
-                                    UI.warning("Comando bloqueado")
-                                else:
+                                # ✅ LIMPIAR COMANDO
+                                clean_cmd = cmd.strip().lower()
+                                blocked = False
+
+                                # ------------------------------------
+                                # BLOQUEAR CARACTERES PELIGROSOS
+                                # ------------------------------------
+                                for char in dangerous_chars:
+                                    if char in clean_cmd:
+                                        blocked = True
+                                        UI.warning(f"⛔ Caracter peligroso detectado: {char}")
+                                        break
+
+                                # ------------------------------------
+                                # BLOQUEAR COMANDOS PELIGROSOS
+                                # ------------------------------------
+                                if not blocked:
+                                    for dc in dangerous_commands:
+                                        if (
+                                            clean_cmd == dc or
+                                            clean_cmd.startswith(dc + " ") or
+                                            clean_cmd == "/" + dc or
+                                            clean_cmd.startswith("/" + dc + " ")
+                                        ):
+                                            blocked = True
+                                            UI.warning(f"⛔ Comando bloqueado: {cmd}")
+                                            break
+
+                                # ------------------------------------
+                                # ENVIAR COMANDO AL SERVIDOR
+                                # ------------------------------------
+                                if not blocked:
                                     self.process.stdin.write(cmd + "\n")
                                     self.process.stdin.flush()
-                                    if cmd.strip() == "stop":
-                                        UI.info("🛑 Deteniendo servidor...")
-                                        auto_restart = False
-                                        raise KeyboardInterrupt()
                             else:
-                                UI.warning("El servidor ya no está corriendo")
+                                UI.warning("⚠ El servidor ya no está corriendo")
                                 break
                         except EOFError:
                             UI.warning("Terminal cerrada")
@@ -413,6 +455,7 @@ class ServerManager:
                 # Apagado graceful del servidor (modo interactivo)
                 if self.process and self.process.poll() is None:
                     try:
+                        UI.info("🛑 Deteniendo servidor...")
                         self.process.stdin.write("stop\n")
                         self.process.stdin.flush()
                     except:

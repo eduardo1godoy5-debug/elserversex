@@ -1,10 +1,10 @@
-[17:03:54] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.19.2
-[17:03:56] [main/WARN]: Warnings were found!
+[17:56:39] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.19.2
+[17:56:41] [main/WARN]: Warnings were found!
  - Mod 'Dynamic Lights' (dynamiclights) 1.9.2+mod recommends any version of midnightlib, which is missing!
 	 - You should install any version of midnightlib for the optimal experience.
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.11.1 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[17:03:56] [main/INFO]: Loading 102 mods:
+[17:56:41] [main/INFO]: Loading 103 mods:
 	- antixray 1.4.14
 	   |-- com_moandjiezana_toml_toml4j 0.7.2
 	   \-- fabric-permissions-api-v0 0.6.1
@@ -14,6 +14,7 @@
 	- chisel 2.2.0+mc1.21.11
 	- cloth-config 21.11.153
 	   \-- cloth-basic-math 0.6.1
+	- commandblocker 1.0.0
 	- cryonicconfig 1.0.0+mc1.21.11
 	- dynamiclights 1.9.2+mod
 	- essential_commands 0.38.6-mc1.21.11
@@ -124,123 +125,107 @@
 	- waystones 21.11.9
 	- xaerominimap 25.3.10
 	   \-- xaerolib 1.1.0
-[17:03:56] [main/WARN]: Found 1 non-fabric mod:
+[17:56:41] [main/WARN]: Found 1 non-fabric mod:
 	- LuckPerms-Bukkit-5.5.17.jar
-[17:03:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/elserversex/libraries/net/fabricmc/sponge-mixin/0.17.2+mixin.0.8.7/sponge-mixin-0.17.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[17:03:57] [main/INFO]: Compatibility level set to JAVA_17
-[17:03:57] [main/INFO]: Compatibility level set to JAVA_21
-[17:03:57] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'balm.refmap.json' for balm.api.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'balm.refmap.json' for balm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'globalxp.refmap.json' for globalxp.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'hardcorerevival.refmap.json' for hardcorerevival.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/INFO]: Loaded configuration file for Lithium: 171 options available, 0 override(s) found.
-[17:03:57] [main/WARN]: Reference map 'nemos_woodcutter.refmap.json' for nemos_woodcutter.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'nemos_woodcutter.refmap.json' for nemos_woodcutter.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'skinrestorer.refmap.json' for skinrestorer.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:57] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerominimap.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:03:59] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
-[17:03:59] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
-[17:03:59] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[17:04:00] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
-[17:04:13] [main/INFO]: Successfully initialized antixray for fabric
-[17:04:14] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[17:04:14] [main/INFO]: [EssentialCommands]: Mod Load Initiated.
-[17:04:15] [main/INFO]: [EssentialCommands]: Mod Load Complete.
-[17:04:15] [main/INFO]: Loaded config farmersdelight-common.json
-[17:04:15] [ForkJoinPool.commonPool-worker-1/INFO]: Essential Commands is up to date!
-[17:04:16] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 3.x.x (Linux x86_64)
-[17:04:16] [main/INFO]: Definitely not up to no good
-[17:04:16] [main/INFO]: Thank you for using Nemo's Woodcutter!
-[17:04:16] [main/INFO]: Registering creative mode tabs
-[17:04:16] [main/INFO]: Registering recipe serializer
-[17:04:16] [main/INFO]: Register recipe types
-[17:04:16] [main/INFO]: Registering recipe book categories
-[17:04:16] [main/INFO]: Registering recipe displays
-[17:04:16] [main/INFO]: Registering menu types
-[17:04:16] [main/INFO]: [ServerCore] Loaded V1.5.15+1.21.11!
-[17:04:17] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[17:04:17] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[17:04:17] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[17:04:17] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[17:04:17] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[17:04:17] [main/INFO]: Registering common data for channel xaerolib:main!
-[17:04:17] [main/INFO]: Loading primary common config for channel xaerolib:main!
-[17:04:17] [main/INFO]: Loading server config profiles for channel xaerolib:main!
-[17:04:17] [main/INFO]: Loading XaeroLib common 1/2!
-[17:04:17] [main/INFO]: Loading XaeroLib server 1/2!
-[17:04:17] [main/INFO]: Registering common data for channel xaerominimap:main!
-[17:04:18] [main/INFO]: Loading primary common config for channel xaerominimap:main!
-[17:04:18] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
-[17:04:18] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[17:04:18] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[17:04:23] [main/INFO]: Loaded 2316 recipes
-[17:04:23] [main/INFO]: Loaded 2312 advancements
-[17:04:23] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
-[17:04:24] [main/INFO]: Applied 144 biome modifications to 64 of 65 new biomes in 17.41 ms
-[17:04:24] [Server thread/INFO]: Loading XaeroLib common 2/2!
-[17:04:24] [Server thread/INFO]: Loading XaeroLib server 2/2!
-[17:04:24] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[17:04:24] [Server thread/INFO]: Loading properties
-[17:04:24] [Server thread/INFO]: Default game type: SURVIVAL
-[17:04:24] [Server thread/INFO]: Generating keypair
-[17:04:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:04:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:04:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:04:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:04:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:04:24] [Server thread/INFO]: Preparing level "world"
-[17:04:26] [Server thread/INFO]: Loading 0 persistent chunks...
-[17:04:26] [Server thread/INFO]: Preparing spawn area: 100%
-[17:04:26] [Server thread/INFO]: Time elapsed: 17 ms
-[17:04:26] [Server thread/INFO]: Done (1.330s)! For help, type "help"
-[17:04:26] [Server thread/INFO]: Possible world ids: minecraft:overworld,minecraft:the_end,minecraft:the_nether
-[17:04:26] [Server thread/INFO]: Configured `rtp_enabled_worlds` world ids: minecraft:overworld
-[17:04:26] [Server thread/INFO]: All configured `rtp_enabled_worlds` world ids are valid.
-[17:04:26] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[17:15:26] [Server thread/INFO]: alkeys[/127.51.148.55:45505] logged in with entity id 82 at (-8210.970921771019, 69.0, 2292.279024147274)
-[17:15:26] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[17:15:27] [Server thread/INFO]: alkeys joined the game
-[17:15:27] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[17:15:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[17:18:07] [Server thread/INFO]: [alkeys: Killed 20 entities]
-[17:18:13] [Server thread/INFO]: [alkeys: Killed Spruce Fence]
-[17:21:27] [Server thread/INFO]: [alkeys: Killed 13 entities]
-[17:27:58] [Server thread/INFO]: Tree reached max size of 100
-[18:04:24] [Server thread/INFO]: [alkeys: Killed 41 entities]
-[18:04:44] [Server thread/INFO]: [alkeys: Killed 10 entities]
-[18:21:48] [Server thread/INFO]: [alkeys: Set the time to 1000]
-[18:37:07] [Server thread/INFO]: alkeys has completed the challenge [Centennial]
-[18:41:29] [Server thread/WARN]: alkeys moved too quickly! -338.7681240244856,98.5,-61.97087056868395
-[18:55:57] [Server thread/INFO]: [alkeys: Killed 37 entities]
-[19:04:48] [Server thread/INFO]: [alkeys: Killed 125 entities]
-[19:04:57] [Server thread/INFO]: [alkeys: Killed 5 entities]
-[19:05:11] [Server thread/INFO]: [alkeys: Killed 89 entities]
-[19:05:20] [Server thread/INFO]: [alkeys: Killed 6 entities]
-[19:05:47] [Server thread/INFO]: [alkeys: Killed 47 entities]
-[19:08:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
-[19:11:38] [Server thread/INFO]: [alkeys: Set own game mode to Creative Mode]
-[19:11:58] [Server thread/INFO]: [alkeys: Set own game mode to Survival Mode]
-[19:12:16] [Server thread/WARN]: alkeys moved too quickly! -56.96880483330767,2.5,3.175267076992668
-[19:14:33] [Server thread/INFO]: alkeys lost connection: Disconnected
-[19:14:33] [Server thread/INFO]: alkeys left the game
-[19:14:45] [Server thread/INFO]: Stopping the server
-[19:14:45] [Server thread/INFO]: Stopping server
-[19:14:45] [Server thread/INFO]: Saving players
-[19:14:45] [Server thread/INFO]: Saving worlds
-[19:14:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:14:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:14:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:14:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:14:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:14:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:14:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:56:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/elserversex/libraries/net/fabricmc/sponge-mixin/0.17.2+mixin.0.8.7/sponge-mixin-0.17.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:56:42] [main/INFO]: Compatibility level set to JAVA_17
+[17:56:42] [main/INFO]: Compatibility level set to JAVA_21
+[17:56:42] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:42] [main/WARN]: Reference map 'balm.refmap.json' for balm.api.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:42] [main/WARN]: Reference map 'balm.refmap.json' for balm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:42] [main/WARN]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:42] [main/WARN]: Reference map 'globalxp.refmap.json' for globalxp.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:42] [main/WARN]: Reference map 'hardcorerevival.refmap.json' for hardcorerevival.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:42] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:42] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:42] [main/INFO]: Loaded configuration file for Lithium: 171 options available, 0 override(s) found.
+[17:56:42] [main/WARN]: Reference map 'nemos_woodcutter.refmap.json' for nemos_woodcutter.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:42] [main/WARN]: Reference map 'nemos_woodcutter.refmap.json' for nemos_woodcutter.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:43] [main/WARN]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:43] [main/WARN]: Reference map 'skinrestorer.refmap.json' for skinrestorer.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:43] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:43] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:43] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:43] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:43] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:43] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerominimap.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:56:44] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[17:56:44] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[17:56:45] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[17:56:45] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[17:57:00] [main/INFO]: Successfully initialized antixray for fabric
+[17:57:01] [main/INFO]: [CommandBlocker] Mod cargado! Comandos bloqueados: [op, give, gm, teleport, xp, experience, tp, gamemode]
+[17:57:01] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[17:57:01] [main/INFO]: [EssentialCommands]: Mod Load Initiated.
+[17:57:02] [main/INFO]: [EssentialCommands]: Mod Load Complete.
+[17:57:03] [main/INFO]: Loaded config farmersdelight-common.json
+[17:57:03] [ForkJoinPool.commonPool-worker-1/INFO]: Essential Commands is up to date!
+[17:57:03] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 3.x.x (Linux x86_64)
+[17:57:04] [main/INFO]: Definitely not up to no good
+[17:57:04] [main/INFO]: Thank you for using Nemo's Woodcutter!
+[17:57:04] [main/INFO]: Registering creative mode tabs
+[17:57:04] [main/INFO]: Registering recipe serializer
+[17:57:04] [main/INFO]: Register recipe types
+[17:57:04] [main/INFO]: Registering recipe book categories
+[17:57:04] [main/INFO]: Registering recipe displays
+[17:57:04] [main/INFO]: Registering menu types
+[17:57:04] [main/INFO]: [ServerCore] Loaded V1.5.15+1.21.11!
+[17:57:05] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[17:57:05] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[17:57:05] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[17:57:05] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[17:57:05] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[17:57:05] [main/INFO]: Registering common data for channel xaerolib:main!
+[17:57:05] [main/INFO]: Loading primary common config for channel xaerolib:main!
+[17:57:05] [main/INFO]: Loading server config profiles for channel xaerolib:main!
+[17:57:05] [main/INFO]: Loading XaeroLib common 1/2!
+[17:57:05] [main/INFO]: Loading XaeroLib server 1/2!
+[17:57:05] [main/INFO]: Registering common data for channel xaerominimap:main!
+[17:57:05] [main/INFO]: Loading primary common config for channel xaerominimap:main!
+[17:57:05] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
+[17:57:05] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[17:57:06] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:57:11] [main/INFO]: Loaded 2316 recipes
+[17:57:11] [main/INFO]: Loaded 2312 advancements
+[17:57:11] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
+[17:57:12] [main/INFO]: Applied 144 biome modifications to 64 of 65 new biomes in 33.25 ms
+[17:57:12] [Server thread/INFO]: Loading XaeroLib common 2/2!
+[17:57:12] [Server thread/INFO]: Loading XaeroLib server 2/2!
+[17:57:12] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[17:57:13] [Server thread/INFO]: Loading properties
+[17:57:13] [Server thread/INFO]: Default game type: SURVIVAL
+[17:57:13] [Server thread/INFO]: Generating keypair
+[17:57:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:57:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:57:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:57:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:57:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:57:13] [Server thread/INFO]: Preparing level "world"
+[17:57:14] [Server thread/INFO]: Loading 0 persistent chunks...
+[17:57:14] [Server thread/INFO]: Preparing spawn area: 100%
+[17:57:14] [Server thread/INFO]: Time elapsed: 16 ms
+[17:57:14] [Server thread/INFO]: Done (1.261s)! For help, type "help"
+[17:57:14] [Server thread/INFO]: Possible world ids: minecraft:overworld,minecraft:the_end,minecraft:the_nether
+[17:57:14] [Server thread/INFO]: Configured `rtp_enabled_worlds` world ids: minecraft:overworld
+[17:57:14] [Server thread/INFO]: All configured `rtp_enabled_worlds` world ids are valid.
+[17:57:14] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[17:57:38] [Server thread/INFO]: alkeys[/127.51.148.55:38429] logged in with entity id 68 at (-8206.607673457473, 64.0, 2290.218585684724)
+[17:57:38] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[17:57:38] [Server thread/INFO]: alkeys joined the game
+[17:57:38] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[17:57:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[18:17:13] [Server thread/INFO]: Villager class_1646['Fletcher'/199, l='ServerLevel[world]', x=-8122.49, y=64.05, z=2159.70] was struck by lightning class_1538['Lightning Bolt'/10258, l='ServerLevel[world]', x=-8125.50, y=63.00, z=2161.50].
+[18:22:51] [Server thread/WARN]: alkeys moved too quickly! -10.02535560490469,0.14443158375070198,-0.6171333298816535
+[18:30:51] [Server thread/INFO]: alkeys lost connection: Disconnected
+[18:30:51] [Server thread/INFO]: alkeys left the game
+[18:32:20] [Server thread/INFO]: alkeys[/127.51.148.55:50117] logged in with entity id 19058 at (-8399.899817458923, 68.0, 2244.237867751387)
+[18:32:20] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[18:32:20] [Server thread/INFO]: alkeys joined the game
+[18:32:20] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[19:06:51] [Server thread/INFO]: alkeys died
+[19:06:53] [Server thread/INFO]: alkeys was not rescued in time
+[19:06:53] [Server thread/INFO]: Created new backpack backup file for alkeys with unique ID travelersbackpack.fox_12.05.2026-19.06.53.dat
+[19:07:44] [Server thread/INFO]: Villager class_1646['Fletcher'/41495, l='ServerLevel[world]', x=-8122.30, y=63.28, z=2159.70] died, message: 'Fletcher was burned to a crisp while fighting alkeys'
+[19:07:59] [Server thread/INFO]: Villager class_1646['Fletcher'/41497, l='ServerLevel[world]', x=-8122.93, y=63.56, z=2159.70] died, message: 'Fletcher was slain by alkeys'
+[19:37:55] [Server thread/INFO]: alkeys lost connection: Disconnected
+[19:37:55] [Server thread/INFO]: alkeys left the game

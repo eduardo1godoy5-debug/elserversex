@@ -335,7 +335,8 @@
       "cooked_chicken": "2026-04-28 04:55:52 +0000",
       "potato": "2026-04-30 18:19:11 +0000",
       "cooked_cod": "2026-05-08 23:00:29 +0000",
-      "pumpkin_pie": "2026-04-27 04:08:18 +0000"
+      "pumpkin_pie": "2026-04-27 04:08:18 +0000",
+      "carrot": "2026-05-12 05:01:45 +0000"
     },
     "done": false
   },
@@ -1052,26 +1053,28 @@
       "minecraft:pillager": "2026-05-01 06:10:36 +0000",
       "minecraft:blaze": "2026-05-06 05:03:21 +0000",
       "minecraft:skeleton": "2026-04-27 04:22:36 +0000",
-      "minecraft:zombified_piglin": "2026-05-10 04:54:34 +0000",
-      "minecraft:witch": "2026-05-04 22:30:47 +0000",
-      "minecraft:wither_skeleton": "2026-05-06 05:07:08 +0000",
       "minecraft:ravager": "2026-05-04 22:28:36 +0000",
-      "minecraft:husk": "2026-05-07 06:01:41 +0000",
-      "minecraft:cave_spider": "2026-04-27 03:50:37 +0000",
-      "minecraft:piglin": "2026-05-05 05:20:59 +0000",
       "minecraft:vindicator": "2026-05-04 22:24:26 +0000",
       "minecraft:breeze": "2026-05-07 06:03:40 +0000",
-      "minecraft:enderman": "2026-05-02 05:06:42 +0000",
+      "minecraft:zombie_horse": "2026-05-12 04:03:27 +0000",
       "minecraft:magma_cube": "2026-05-06 05:06:45 +0000",
       "minecraft:spider": "2026-04-27 03:50:53 +0000",
       "minecraft:piglin_brute": "2026-05-07 05:45:09 +0000",
+      "minecraft:creeper": "2026-04-27 04:00:12 +0000",
+      "minecraft:wither": "2026-05-11 03:51:59 +0000",
+      "minecraft:evoker": "2026-05-04 22:32:12 +0000",
+      "minecraft:slime": "2026-05-07 05:56:59 +0000",
+      "minecraft:zombified_piglin": "2026-05-10 04:54:34 +0000",
+      "minecraft:witch": "2026-05-04 22:30:47 +0000",
+      "minecraft:wither_skeleton": "2026-05-06 05:07:08 +0000",
+      "minecraft:husk": "2026-05-07 06:01:41 +0000",
+      "minecraft:cave_spider": "2026-04-27 03:50:37 +0000",
+      "minecraft:piglin": "2026-05-05 05:20:59 +0000",
+      "minecraft:enderman": "2026-05-02 05:06:42 +0000",
       "minecraft:vex": "2026-05-06 04:25:30 +0000",
       "minecraft:zombie": "2026-04-27 03:53:40 +0000",
-      "minecraft:creeper": "2026-04-27 04:00:12 +0000",
       "minecraft:drowned": "2026-05-04 05:28:31 +0000",
-      "minecraft:zombie_villager": "2026-04-27 04:18:03 +0000",
-      "minecraft:evoker": "2026-05-04 22:32:12 +0000",
-      "minecraft:slime": "2026-05-07 05:56:59 +0000"
+      "minecraft:zombie_villager": "2026-04-27 04:18:03 +0000"
     },
     "done": false
   },
@@ -6318,9 +6321,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2026-05-10 17:29:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper_slab": "2026-05-10 18:25:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2026-05-10 18:36:30 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "opened_100": "2026-05-10 18:37:07 +0000"
     },
     "done": true
   },
@@ -6348,27 +6369,93 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2026-05-10 17:29:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper": {
-    "criteria": {
-      "has_waxed_oxidized_cut_copper_slab": "2026-05-10 18:25:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2026-05-10 18:42:13 +0000"
     },
     "done": true
   },
-  "lootr:100loot": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "opened_100": "2026-05-10 18:37:07 +0000"
+      "summoned": "2026-05-11 03:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2026-05-11 03:52:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:hose_spill": {
+    "criteria": {
+      "hose_spill": "2026-05-12 05:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-05-12 05:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-05-12 05:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-05-12 05:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-05-12 05:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-05-12 05:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-05-12 05:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-05-12 05:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2026-05-12 05:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2026-05-12 05:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-05-12 19:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2026-05-12 19:37:23 +0000"
     },
     "done": true
   },

@@ -920,6 +920,7 @@
       "minecraft:pillager": "2026-05-04 22:28:46 +0000",
       "minecraft:blaze": "2026-05-10 05:02:27 +0000",
       "minecraft:skeleton": "2026-04-27 04:14:40 +0000",
+      "minecraft:phantom": "2026-05-11 03:22:59 +0000",
       "minecraft:witch": "2026-05-04 22:29:12 +0000",
       "minecraft:wither_skeleton": "2026-05-10 04:56:51 +0000",
       "minecraft:husk": "2026-05-07 05:40:44 +0000",
@@ -929,6 +930,7 @@
       "minecraft:spider": "2026-04-27 04:09:46 +0000",
       "minecraft:zombie": "2026-05-04 04:29:44 +0000",
       "minecraft:creeper": "2026-04-27 04:09:08 +0000",
+      "minecraft:drowned": "2026-05-11 04:38:16 +0000",
       "minecraft:evoker": "2026-05-04 22:31:08 +0000",
       "minecraft:slime": "2026-05-07 05:45:03 +0000"
     },
@@ -5450,60 +5452,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2026-05-10 04:51:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/magenta_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/cyan_dye": {
-    "criteria": {
-      "has_blue_dye": "2026-05-10 05:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/yellow_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_candle": {
-    "criteria": {
-      "has_blue_dye": "2026-05-10 05:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_blue_dye": "2026-05-10 05:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2026-05-10 05:27:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_blue_dye": "2026-05-10 05:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2026-05-10 04:54:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2026-05-10 04:46:58 +0000"
@@ -5516,63 +5464,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/blue_bundle": {
-    "criteria": {
-      "has_blue_dye": "2026-05-10 05:50:08 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/snow": {
-    "criteria": {
-      "has_snowball": "2026-05-10 05:27:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/red_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2026-05-10 04:46:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/green_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-05-10 05:50:08 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/building_blocks/dye_blue_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2026-05-10 05:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2026-05-10 05:13:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/purple_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/white_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
     },
     "done": true
   },
@@ -5582,87 +5476,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/dye_blue_harness": {
-    "criteria": {
-      "has_needed_dye": "2026-05-10 05:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/light_gray_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-05-10 05:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-05-10 05:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/gray_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/place_dried_ghast_in_water": {
-    "criteria": {
-      "place_dried_ghast_in_water": "2026-05-10 05:36:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2026-05-10 04:46:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_blue_dye": "2026-05-10 05:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/black_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_blue_dye": "2026-05-10 05:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2026-05-10 05:50:31 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:hose": {
-    "criteria": {
-      "hose": "2026-05-10 05:52:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/pink_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/orange_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
     },
     "done": true
   },
@@ -5672,27 +5488,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/light_blue_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_carpet": {
-    "criteria": {
-      "has_blue_wool": "2026-05-10 05:50:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/cyan_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2026-05-10 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-10 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-10 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-05-10 04:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2026-05-10 04:51:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2026-05-10 04:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-05-10 04:54:18 +0000"
     },
     "done": true
   },
@@ -5708,45 +5542,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/brown_harness": {
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2026-05-10 04:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2026-05-10 05:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/magenta_harness": {
     "criteria": {
       "has_dried_ghast": "2026-05-10 05:13:47 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/magma_cube": {
+  "minecraft:recipes/combat/yellow_harness": {
     "criteria": {
-      "has_magma_cream": "2026-05-10 04:51:57 +0000"
+      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+  "minecraft:recipes/combat/red_harness": {
     "criteria": {
-      "has_nether_bricks": "2026-05-10 04:46:58 +0000"
+      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+  "minecraft:recipes/combat/green_harness": {
     "criteria": {
-      "has_blue_wool": "2026-05-10 05:50:31 +0000"
+      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_banner": {
+  "minecraft:recipes/combat/purple_harness": {
     "criteria": {
-      "has_blue_wool": "2026-05-10 05:50:31 +0000"
+      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_wall": {
+  "minecraft:recipes/combat/white_harness": {
     "criteria": {
-      "has_nether_bricks": "2026-05-10 04:46:58 +0000"
+      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+  "minecraft:recipes/combat/light_gray_harness": {
     "criteria": {
-      "has_blue_dye": "2026-05-10 05:50:08 +0000"
+      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/black_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/pink_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/orange_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/cyan_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/brown_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-10 05:13:47 +0000"
     },
     "done": true
   },
@@ -5762,21 +5650,215 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "fortress": "2026-05-10 04:49:21 +0000"
+      "has_snowball": "2026-05-10 05:27:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "travelersbackpack:recipes/misc/snow": {
     "criteria": {
-      "has_blaze_rod": "2026-05-10 04:54:18 +0000"
+      "has_snowball": "2026-05-10 05:27:03 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2026-05-10 05:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/place_dried_ghast_in_water": {
+    "criteria": {
+      "place_dried_ghast_in_water": "2026-05-10 05:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2026-05-10 05:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2026-05-10 05:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2026-05-10 05:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2026-05-10 05:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/blue_bundle": {
+    "criteria": {
+      "has_blue_dye": "2026-05-10 05:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 05:50:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_blue_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 05:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_blue_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 05:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 05:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-05-10 05:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2026-05-10 05:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2026-05-10 05:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2026-05-10 05:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2026-05-10 05:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2026-05-10 05:50:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2026-05-10 05:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2026-05-10 05:50:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:hose": {
+    "criteria": {
+      "hose": "2026-05-10 05:52:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/pale_oak_cabinet": {
+    "criteria": {
+      "has_pale_oak_trapdoor": "2026-05-11 03:44:09 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_plate": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-11 04:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-11 04:09:11 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/dormant_shard": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-11 04:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-11 04:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-11 04:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-11 04:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2026-05-11 04:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2026-05-11 04:31:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2026-05-12 04:31:39 +0000",
+      "wheat": "2026-05-11 06:21:21 +0000",
+      "carrot": "2026-05-12 04:31:04 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-12 04:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2026-05-12 04:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2026-05-12 04:03:32 +0000"
     },
     "done": true
   },
