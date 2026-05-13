@@ -385,8 +385,7 @@ class ServerManager:
                     "op",
                     "deop",
                     "gamemode",
-                    "give",
-                    "stop",
+                    "give",                    
                     "reload",
                     "pex",
                     "lp",
@@ -395,7 +394,6 @@ class ServerManager:
                     "minecraft:deop",
                     "minecraft:gamemode",
                     "minecraft:give",
-                    "minecraft:stop",
                     "minecraft:reload"
                 ]
                 

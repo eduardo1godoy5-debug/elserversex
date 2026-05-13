@@ -927,6 +927,7 @@
       "minecraft:vindicator": "2026-05-04 22:30:47 +0000",
       "minecraft:breeze": "2026-05-07 06:00:51 +0000",
       "minecraft:enderman": "2026-05-02 05:12:44 +0000",
+      "minecraft:magma_cube": "2026-05-13 04:56:00 +0000",
       "minecraft:spider": "2026-04-27 04:09:46 +0000",
       "minecraft:zombie": "2026-05-04 04:29:44 +0000",
       "minecraft:creeper": "2026-04-27 04:09:08 +0000",
@@ -5859,6 +5860,36 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2026-05-12 04:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2026-05-13 04:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2026-05-13 04:31:47 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "opened_100": "2026-05-13 05:30:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2026-05-13 04:31:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube_smithing": {
+    "criteria": {
+      "has_magma_cube": "2026-05-13 03:58:51 +0000"
     },
     "done": true
   },
