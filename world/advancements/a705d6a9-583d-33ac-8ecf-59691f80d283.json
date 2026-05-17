@@ -6606,5 +6606,269 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_dropper": "2026-05-17 18:57:35 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/jungle_trapdoor_from_jungle_logs_woodcutting": {
+    "criteria": {
+      "jungle_logs": "2026-05-17 18:29:17 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/birch_stairs_from_birch_logs_woodcutting": {
+    "criteria": {
+      "birch_logs": "2026-05-17 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2026-05-17 18:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2026-05-17 18:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2026-05-17 18:03:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/birch_trapdoor_from_birch_logs_woodcutting": {
+    "criteria": {
+      "birch_logs": "2026-05-17 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2026-05-17 17:40:45 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/birch_button_from_birch_logs_woodcutting": {
+    "criteria": {
+      "birch_logs": "2026-05-17 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/birch_slab_from_birch_logs_woodcutting": {
+    "criteria": {
+      "birch_logs": "2026-05-17 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/birch_door_from_birch_logs_woodcutting": {
+    "criteria": {
+      "birch_logs": "2026-05-17 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/jungle_planks_from_jungle_logs_woodcutting": {
+    "criteria": {
+      "jungle_logs": "2026-05-17 18:29:17 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/jungle_fence_gate_from_jungle_logs_woodcutting": {
+    "criteria": {
+      "jungle_logs": "2026-05-17 18:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2026-05-17 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-05-17 18:03:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/birch_fence_gate_from_birch_logs_woodcutting": {
+    "criteria": {
+      "birch_logs": "2026-05-17 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2026-05-17 18:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-05-17 18:03:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/birch_sign_from_birch_logs_woodcutting": {
+    "criteria": {
+      "birch_logs": "2026-05-17 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/birch_fence_from_birch_logs_woodcutting": {
+    "criteria": {
+      "birch_logs": "2026-05-17 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2026-05-17 18:55:55 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/jungle_slab_from_jungle_logs_woodcutting": {
+    "criteria": {
+      "jungle_logs": "2026-05-17 18:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2026-05-17 18:03:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/jungle_stairs_from_jungle_logs_woodcutting": {
+    "criteria": {
+      "jungle_logs": "2026-05-17 18:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2026-05-17 18:03:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/jungle_button_from_jungle_logs_woodcutting": {
+    "criteria": {
+      "jungle_logs": "2026-05-17 18:29:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/copper_knife": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-17 17:39:29 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/transportation/birch_boat_from_birch_logs_woodcutting": {
+    "criteria": {
+      "birch_logs": "2026-05-17 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2026-05-17 18:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-05-17 18:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2026-05-17 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/jungle_fence_from_jungle_logs_woodcutting": {
+    "criteria": {
+      "jungle_logs": "2026-05-17 18:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-05-17 18:03:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/transportation/jungle_boat_from_jungle_logs_woodcutting": {
+    "criteria": {
+      "jungle_logs": "2026-05-17 18:29:17 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/stripped_birch_log_from_birch_log_woodcutting": {
+    "criteria": {
+      "has_birch_log": "2026-05-17 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2026-05-17 18:40:59 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/birch_pressure_plate_from_birch_logs_woodcutting": {
+    "criteria": {
+      "birch_logs": "2026-05-17 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-05-17 18:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-05-17 18:03:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/jungle_pressure_plate_from_jungle_logs_woodcutting": {
+    "criteria": {
+      "jungle_logs": "2026-05-17 18:29:17 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/stripped_jungle_log_from_jungle_log_woodcutting": {
+    "criteria": {
+      "has_jungle_log": "2026-05-17 18:29:17 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/jungle_door_from_jungle_logs_woodcutting": {
+    "criteria": {
+      "jungle_logs": "2026-05-17 18:29:17 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/jungle_sign_from_jungle_logs_woodcutting": {
+    "criteria": {
+      "jungle_logs": "2026-05-17 18:29:17 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/birch_planks_from_birch_logs_woodcutting": {
+    "criteria": {
+      "birch_logs": "2026-05-17 19:59:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
