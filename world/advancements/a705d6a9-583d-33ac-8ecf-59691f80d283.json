@@ -51,6 +51,7 @@
       "minecraft:stony_shore": "2026-04-28 03:39:05 +0000",
       "minecraft:snowy_plains": "2026-04-28 03:59:49 +0000",
       "minecraft:snowy_taiga": "2026-04-28 04:00:45 +0000",
+      "minecraft:dripstone_caves": "2026-05-17 03:37:43 +0000",
       "minecraft:frozen_peaks": "2026-04-28 04:14:17 +0000",
       "minecraft:old_growth_birch_forest": "2026-04-27 03:21:34 +0000",
       "minecraft:grove": "2026-04-28 04:13:43 +0000",
@@ -4005,12 +4006,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2026-05-17 02:13:56 +0000",
       "minecraft:nether_wastes": "2026-05-02 05:13:21 +0000",
       "minecraft:soul_sand_valley": "2026-05-10 04:38:28 +0000",
       "minecraft:basalt_deltas": "2026-05-02 05:11:16 +0000",
       "minecraft:warped_forest": "2026-05-02 04:18:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
@@ -5659,16 +5661,17 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2026-05-08 18:12:13 +0000",
-      "potato": "2026-05-08 04:47:02 +0000",
-      "red_mushroom": "2026-05-08 05:30:30 +0000",
       "sweet_berries": "2026-05-08 04:45:09 +0000",
-      "nether_wart": "2026-05-08 04:43:24 +0000",
-      "wheat": "2026-05-08 04:45:29 +0000",
       "tomato": "2026-05-08 18:12:09 +0000",
-      "melon": "2026-05-08 17:47:01 +0000",
-      "pumpkin": "2026-05-08 18:12:47 +0000",
       "beetroot": "2026-05-08 04:45:57 +0000",
       "brown_mushroom": "2026-05-08 18:24:48 +0000",
+      "sugar_cane": "2026-05-14 02:28:06 +0000",
+      "potato": "2026-05-08 04:47:02 +0000",
+      "red_mushroom": "2026-05-08 05:30:30 +0000",
+      "nether_wart": "2026-05-08 04:43:24 +0000",
+      "wheat": "2026-05-08 04:45:29 +0000",
+      "melon": "2026-05-08 17:47:01 +0000",
+      "pumpkin": "2026-05-08 18:12:47 +0000",
       "carrot": "2026-05-08 04:46:55 +0000"
     },
     "done": false
@@ -6459,13 +6462,19 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_pumpkin": "2026-05-13 04:58:50 +0000"
+      "has_blaze_powder": "2026-05-13 03:51:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2026-05-13 03:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2026-05-13 03:51:46 +0000"
     },
@@ -6477,15 +6486,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/summon_iron_golem": {
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
-      "summoned_golem": "2026-05-13 04:59:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2026-05-13 03:51:46 +0000"
+      "has_pumpkin": "2026-05-13 04:58:50 +0000"
     },
     "done": true
   },
@@ -6495,9 +6498,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
+  "minecraft:adventure/summon_iron_golem": {
     "criteria": {
-      "has_blaze_powder": "2026-05-13 03:51:46 +0000"
+      "summoned_golem": "2026-05-13 04:59:19 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/stripped_spruce_wood_from_spruce_wood_woodcutting": {
+    "criteria": {
+      "has_spruce_wood": "2026-05-14 02:54:01 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/stripped_dark_oak_wood_from_dark_oak_wood_woodcutting": {
+    "criteria": {
+      "has_dark_oak_wood": "2026-05-14 03:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2026-05-14 05:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2026-05-14 05:54:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2026-05-14 05:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2026-05-14 05:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2026-05-14 06:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2026-05-14 06:10:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2026-05-14 06:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2026-05-14 06:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-05-15 04:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2026-05-15 04:53:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2026-05-15 05:03:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:netherite_upgrade": {
+    "criteria": {
+      "netherite_upgrade": "2026-05-17 02:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2026-05-17 04:02:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2026-05-17 04:09:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-17 04:15:14 +0000"
     },
     "done": true
   },
