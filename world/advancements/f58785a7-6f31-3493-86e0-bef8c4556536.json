@@ -925,6 +925,7 @@
       "minecraft:wither_skeleton": "2026-05-10 04:56:51 +0000",
       "minecraft:ravager": "2026-05-15 05:36:07 +0000",
       "minecraft:husk": "2026-05-07 05:40:44 +0000",
+      "minecraft:cave_spider": "2026-05-17 04:36:38 +0000",
       "minecraft:piglin": "2026-05-15 04:08:18 +0000",
       "minecraft:vindicator": "2026-05-04 22:30:47 +0000",
       "minecraft:breeze": "2026-05-07 06:00:51 +0000",
@@ -6190,15 +6191,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2026-05-15 05:21:12 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blaze_smithing": {
     "criteria": {
       "has_blaze": "2026-05-15 05:21:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
+  "farmersdelight:main/place_cooking_pot": {
     "criteria": {
-      "has_blaze_powder": "2026-05-15 05:21:12 +0000"
+      "cooking_pot": "2026-05-17 04:38:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-17 04:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2026-05-17 04:08:49 +0000"
     },
     "done": true
   },

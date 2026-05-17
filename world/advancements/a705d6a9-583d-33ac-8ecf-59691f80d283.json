@@ -51,6 +51,7 @@
       "minecraft:stony_shore": "2026-04-28 03:39:05 +0000",
       "minecraft:snowy_plains": "2026-04-28 03:59:49 +0000",
       "minecraft:snowy_taiga": "2026-04-28 04:00:45 +0000",
+      "minecraft:dripstone_caves": "2026-05-17 03:37:43 +0000",
       "minecraft:frozen_peaks": "2026-04-28 04:14:17 +0000",
       "minecraft:old_growth_birch_forest": "2026-04-27 03:21:34 +0000",
       "minecraft:grove": "2026-04-28 04:13:43 +0000",
@@ -4005,12 +4006,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2026-05-17 02:13:56 +0000",
       "minecraft:nether_wastes": "2026-05-02 05:13:21 +0000",
       "minecraft:soul_sand_valley": "2026-05-10 04:38:28 +0000",
       "minecraft:basalt_deltas": "2026-05-02 05:11:16 +0000",
       "minecraft:warped_forest": "2026-05-02 04:18:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
@@ -6577,6 +6579,30 @@
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2026-05-15 05:03:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:netherite_upgrade": {
+    "criteria": {
+      "netherite_upgrade": "2026-05-17 02:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2026-05-17 04:02:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2026-05-17 04:09:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-17 04:15:14 +0000"
     },
     "done": true
   },
