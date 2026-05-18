@@ -55,6 +55,7 @@
       "minecraft:dripstone_caves": "2026-04-30 18:35:30 +0000",
       "minecraft:frozen_peaks": "2026-04-28 04:14:21 +0000",
       "minecraft:old_growth_birch_forest": "2026-04-27 03:39:38 +0000",
+      "minecraft:deep_dark": "2026-05-18 06:18:45 +0000",
       "minecraft:grove": "2026-04-28 04:13:50 +0000",
       "minecraft:swamp": "2026-05-08 04:54:48 +0000",
       "minecraft:meadow": "2026-04-27 04:39:15 +0000",
@@ -921,6 +922,7 @@
       "minecraft:blaze": "2026-05-10 05:02:27 +0000",
       "minecraft:skeleton": "2026-04-27 04:14:40 +0000",
       "minecraft:phantom": "2026-05-11 03:22:59 +0000",
+      "minecraft:zombified_piglin": "2026-05-18 06:38:02 +0000",
       "minecraft:witch": "2026-05-04 22:29:12 +0000",
       "minecraft:wither_skeleton": "2026-05-10 04:56:51 +0000",
       "minecraft:ravager": "2026-05-15 05:36:07 +0000",
@@ -6203,9 +6205,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_cooking_pot": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "cooking_pot": "2026-05-17 04:38:18 +0000"
+      "has_glow_ink_sac": "2026-05-17 04:08:49 +0000"
     },
     "done": true
   },
@@ -6215,9 +6217,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
+  "farmersdelight:main/place_cooking_pot": {
     "criteria": {
-      "has_glow_ink_sac": "2026-05-17 04:08:49 +0000"
+      "cooking_pot": "2026-05-17 04:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2026-05-18 04:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2026-05-18 04:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2026-05-18 04:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2026-05-18 04:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2026-05-18 06:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2026-05-18 04:20:16 +0000"
     },
     "done": true
   },

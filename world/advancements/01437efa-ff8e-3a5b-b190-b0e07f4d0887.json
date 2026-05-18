@@ -4571,39 +4571,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2026-05-15 04:56:30 +0000"
+      "has_netherite_scrap": "2026-05-15 04:49:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
-      "has_magma_cream": "2026-05-15 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/egg_sandwich": {
-    "criteria": {
-      "has_fried_egg": "2026-05-15 05:28:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2026-05-15 04:56:30 +0000"
+      "has_gold_ingot": "2026-05-15 04:49:51 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2026-05-15 04:50:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2026-05-15 04:54:01 +0000"
     },
     "done": true
   },
@@ -4619,27 +4601,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+  "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2026-05-15 04:56:30 +0000"
+      "has_any_ingredient": "2026-05-15 04:50:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
+  "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
-      "has_netherite_scrap": "2026-05-15 04:49:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/golden_knife": {
-    "criteria": {
-      "has_gold_ingot": "2026-05-15 04:49:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2026-05-15 04:56:30 +0000"
+      "has_any_ingredient": "2026-05-15 04:50:16 +0000"
     },
     "done": true
   },
@@ -4649,27 +4619,51 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "has_basalt": "2026-05-15 04:57:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/copper_knife": {
-    "criteria": {
-      "has_copper_ingot": "2026-05-15 05:06:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2026-05-15 04:50:16 +0000"
+      "bastion": "2026-05-15 04:52:43 +0000"
     },
     "done": true
   },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_treasure": "2026-05-15 04:53:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2026-05-15 04:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2026-05-15 04:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-15 04:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-15 04:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-15 04:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-15 04:56:30 +0000"
     },
     "done": true
   },
@@ -4685,15 +4679,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2026-05-15 04:57:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2026-05-15 04:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2026-05-15 04:56:35 +0000"
     },
     "done": true
   },
@@ -4703,33 +4697,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2026-05-15 04:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2026-05-15 04:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2026-05-15 04:57:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2026-05-15 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2026-05-15 04:52:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2026-05-15 05:21:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "diamond_knife": "2026-05-15 04:54:00 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/magma_cube_smithing": {
-    "criteria": {
-      "has_magma_cube": "2026-05-15 05:14:58 +0000"
     },
     "done": true
   },
@@ -4739,15 +4727,105 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
+  "farmersdelight:recipes/combat/copper_knife": {
     "criteria": {
-      "has_any_ingredient": "2026-05-15 04:50:16 +0000"
+      "has_copper_ingot": "2026-05-15 05:06:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
+  "travelersbackpack:recipes/misc/magma_cube_smithing": {
     "criteria": {
-      "has_basalt": "2026-05-15 04:57:05 +0000"
+      "has_magma_cube": "2026-05-15 05:14:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2026-05-15 05:21:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2026-05-15 05:28:12 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/spruce_trapdoor_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-18 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/spruce_fence_gate_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-18 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/transportation/spruce_boat_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-18 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/spruce_pressure_plate_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-18 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/spruce_fence_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-18 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/spruce_slab_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-18 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/spruce_door_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-18 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/spruce_sign_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-18 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/spruce_stairs_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-18 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/spruce_button_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-18 04:16:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2026-05-18 05:46:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2026-05-18 05:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2026-05-18 06:28:30 +0000"
     },
     "done": true
   },
