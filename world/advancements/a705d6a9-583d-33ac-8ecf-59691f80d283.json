@@ -6871,24 +6871,6 @@
     },
     "done": true
   },
-  "nemos_woodcutter:recipes/building_blocks/pale_oak_stairs_from_pale_oak_planks_woodcutting": {
-    "criteria": {
-      "has_pale_oak_planks": "2026-05-18 05:34:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/pale_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-05-18 05:34:13 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/pale_oak_pressure_plate_from_pale_oak_planks_woodcutting": {
-    "criteria": {
-      "has_pale_oak_planks": "2026-05-18 05:34:13 +0000"
-    },
-    "done": true
-  },
   "nemos_woodcutter:recipes/building_blocks/jungle_stairs_from_jungle_planks_woodcutting": {
     "criteria": {
       "has_jungle_planks": "2026-05-18 04:17:45 +0000"
@@ -6919,39 +6901,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pale_oak_fence": {
-    "criteria": {
-      "has_planks": "2026-05-18 05:34:13 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/decorations/pale_oak_sign_from_pale_oak_planks_woodcutting": {
-    "criteria": {
-      "has_pale_oak_planks": "2026-05-18 05:34:13 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/pale_oak_trapdoor_from_pale_oak_planks_woodcutting": {
-    "criteria": {
-      "has_pale_oak_planks": "2026-05-18 05:34:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2026-05-18 04:17:45 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/building_blocks/pale_oak_slab_from_pale_oak_planks_woodcutting": {
-    "criteria": {
-      "has_pale_oak_planks": "2026-05-18 05:34:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2026-05-18 05:59:32 +0000"
     },
     "done": true
   },
@@ -6979,6 +6931,102 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-18 04:17:45 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/jungle_trapdoor_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "has_jungle_planks": "2026-05-18 04:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2026-05-18 04:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2026-05-18 04:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2026-05-18 04:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-18 04:17:45 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/jungle_button_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "has_jungle_planks": "2026-05-18 04:17:45 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/jungle_sign_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "has_jungle_planks": "2026-05-18 04:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2026-05-18 04:17:45 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/pale_oak_stairs_from_pale_oak_planks_woodcutting": {
+    "criteria": {
+      "has_pale_oak_planks": "2026-05-18 05:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-18 05:34:13 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/pale_oak_pressure_plate_from_pale_oak_planks_woodcutting": {
+    "criteria": {
+      "has_pale_oak_planks": "2026-05-18 05:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_fence": {
+    "criteria": {
+      "has_planks": "2026-05-18 05:34:13 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/pale_oak_sign_from_pale_oak_planks_woodcutting": {
+    "criteria": {
+      "has_pale_oak_planks": "2026-05-18 05:34:13 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/pale_oak_trapdoor_from_pale_oak_planks_woodcutting": {
+    "criteria": {
+      "has_pale_oak_planks": "2026-05-18 05:34:13 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/pale_oak_slab_from_pale_oak_planks_woodcutting": {
+    "criteria": {
+      "has_pale_oak_planks": "2026-05-18 05:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pale_oak_slab": {
     "criteria": {
       "has_planks": "2026-05-18 05:34:13 +0000"
@@ -7003,21 +7051,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2026-05-18 06:19:40 +0000"
-    },
-    "done": true
-  },
   "nemos_woodcutter:recipes/transportation/pale_oak_boat_from_pale_oak_planks_woodcutting": {
     "criteria": {
       "has_pale_oak_planks": "2026-05-18 05:34:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-05-18 04:17:45 +0000"
     },
     "done": true
   },
@@ -7033,27 +7069,9 @@
     },
     "done": true
   },
-  "nemos_woodcutter:recipes/redstone/jungle_trapdoor_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "has_jungle_planks": "2026-05-18 04:17:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2026-05-18 04:17:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pale_oak_stairs": {
     "criteria": {
       "has_planks": "2026-05-18 05:34:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2026-05-18 04:17:45 +0000"
     },
     "done": true
   },
@@ -7063,45 +7081,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2026-05-18 06:19:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2026-05-18 04:17:45 +0000"
-    },
-    "done": true
-  },
   "nemos_woodcutter:recipes/redstone/pale_oak_button_from_pale_oak_planks_woodcutting": {
     "criteria": {
       "has_pale_oak_planks": "2026-05-18 05:34:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2026-05-18 04:17:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2026-05-18 05:59:32 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/jungle_button_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "has_jungle_planks": "2026-05-18 04:17:45 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/decorations/jungle_sign_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "has_jungle_planks": "2026-05-18 04:17:45 +0000"
     },
     "done": true
   },
@@ -7117,15 +7099,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2026-05-18 05:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2026-05-18 05:59:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2026-05-18 05:59:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_slab": {
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
-      "has_planks": "2026-05-18 04:17:45 +0000"
+      "kill_mob_near_sculk_catalyst": "2026-05-18 06:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2026-05-18 06:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-05-19 05:05:57 +0000"
     },
     "done": true
   },
