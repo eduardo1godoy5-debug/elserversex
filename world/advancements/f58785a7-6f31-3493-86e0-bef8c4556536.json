@@ -6325,5 +6325,149 @@
     },
     "done": true
   },
+  "nemos_woodcutter:recipes/redstone/dark_oak_door_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2026-05-21 06:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/transportation/dark_oak_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/dark_oak_pressure_plate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/dark_oak_fence_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/dark_oak_stairs_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2026-05-21 06:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-05-21 05:28:20 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/dark_oak_sign_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_shelf": {
+    "criteria": {
+      "has_stripped_oak_log": "2026-05-21 05:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/dark_oak_slab_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2026-05-21 05:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/dark_oak_button_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "has_dark_oak_planks": "2026-05-21 05:34:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
