@@ -7135,5 +7135,119 @@
     },
     "done": true
   },
+  "nemos_woodcutter:recipes/redstone/bamboo_pressure_plate_from_bamboo_blocks_woodcutting": {
+    "criteria": {
+      "bamboo_blocks": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/bamboo_mosaic_slab_from_bamboo_blocks_woodcutting": {
+    "criteria": {
+      "bamboo_blocks": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/bamboo_button_from_bamboo_blocks_woodcutting": {
+    "criteria": {
+      "bamboo_blocks": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/bamboo_mosaic_from_bamboo_blocks_woodcutting": {
+    "criteria": {
+      "bamboo_blocks": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/stripped_bamboo_block_from_bamboo_block_woodcutting": {
+    "criteria": {
+      "has_bamboo_block": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/bamboo_planks_from_bamboo_blocks_woodcutting": {
+    "criteria": {
+      "bamboo_blocks": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/bamboo_mosaic_stairs_from_bamboo_blocks_woodcutting": {
+    "criteria": {
+      "bamboo_blocks": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/bamboo_door_from_bamboo_blocks_woodcutting": {
+    "criteria": {
+      "bamboo_blocks": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/bamboo_slab_from_bamboo_blocks_woodcutting": {
+    "criteria": {
+      "bamboo_blocks": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/bamboo_stairs_from_bamboo_blocks_woodcutting": {
+    "criteria": {
+      "bamboo_blocks": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/bamboo_fence_from_bamboo_blocks_woodcutting": {
+    "criteria": {
+      "bamboo_blocks": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/bamboo_sign_from_bamboo_blocks_woodcutting": {
+    "criteria": {
+      "bamboo_blocks": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/bamboo_fence_gate_from_bamboo_blocks_woodcutting": {
+    "criteria": {
+      "bamboo_blocks": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/transportation/bamboo_raft_from_bamboo_blocks_woodcutting": {
+    "criteria": {
+      "bamboo_blocks": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/bamboo_trapdoor_from_bamboo_blocks_woodcutting": {
+    "criteria": {
+      "bamboo_blocks": "2026-05-21 17:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-05-21 18:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-05-21 18:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-05-21 18:01:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
