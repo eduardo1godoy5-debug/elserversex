@@ -34,6 +34,7 @@
       "minecraft:ocean": "2026-04-27 04:31:35 +0000",
       "minecraft:jungle": "2026-05-02 04:46:40 +0000",
       "minecraft:cherry_grove": "2026-04-28 03:34:15 +0000",
+      "minecraft:sunflower_plains": "2026-05-24 16:33:26 +0000",
       "minecraft:birch_forest": "2026-04-27 04:30:51 +0000",
       "minecraft:windswept_hills": "2026-04-28 04:05:29 +0000",
       "minecraft:old_growth_spruce_taiga": "2026-05-02 04:30:27 +0000",
@@ -58,6 +59,7 @@
       "minecraft:grove": "2026-04-28 04:13:43 +0000",
       "minecraft:meadow": "2026-04-27 04:42:52 +0000",
       "minecraft:windswept_gravelly_hills": "2026-04-28 04:03:52 +0000",
+      "minecraft:savanna": "2026-05-25 03:08:05 +0000",
       "minecraft:plains": "2026-04-27 03:22:40 +0000",
       "minecraft:pale_garden": "2026-05-02 04:43:35 +0000"
     },
@@ -330,6 +332,7 @@
       "rotten_flesh": "2026-05-01 00:20:08 +0000",
       "suspicious_stew": "2026-05-02 04:23:34 +0000",
       "cooked_mutton": "2026-04-27 05:00:01 +0000",
+      "glow_berries": "2026-05-25 04:43:42 +0000",
       "sweet_berries": "2026-04-28 04:21:19 +0000",
       "cooked_beef": "2026-04-27 04:30:37 +0000",
       "baked_potato": "2026-04-30 18:27:58 +0000",
@@ -3857,6 +3860,7 @@
   },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
+      "minecraft:chestnut": "2026-05-24 16:35:25 +0000",
       "minecraft:woods": "2026-05-01 04:57:15 +0000"
     },
     "done": false
@@ -7246,6 +7250,364 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2026-05-21 18:01:47 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "tavern_dark_oak": "2026-05-25 05:24:02 +0000",
+      "pillager_outpost": "2026-05-24 16:43:40 +0000",
+      "illager_camp": "2026-05-22 20:32:55 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "dnt_discover_structure": "2026-05-22 20:32:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-24 16:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_allium": {
+    "criteria": {
+      "has_allium": "2026-05-24 16:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2026-05-24 16:28:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2026-05-24 16:28:59 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2026-05-24 16:31:05 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_taverns": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2026-05-24 16:31:05 +0000",
+      "nova_structures:tavern_dark_oak": "2026-05-25 05:24:02 +0000",
+      "nova_structures:tavern_spruce": "2026-05-25 05:02:08 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2026-05-24 16:43:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2026-05-24 16:50:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2026-05-24 16:50:55 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/acacia_pressure_plate_from_acacia_logs_woodcutting": {
+    "criteria": {
+      "acacia_logs": "2026-05-25 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/acacia_fence_gate_from_acacia_logs_woodcutting": {
+    "criteria": {
+      "acacia_logs": "2026-05-25 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/acacia_button_from_acacia_logs_woodcutting": {
+    "criteria": {
+      "acacia_logs": "2026-05-25 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/stripped_acacia_log_from_acacia_log_woodcutting": {
+    "criteria": {
+      "has_acacia_log": "2026-05-25 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/acacia_slab_from_acacia_logs_woodcutting": {
+    "criteria": {
+      "acacia_logs": "2026-05-25 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/transportation/acacia_boat_from_acacia_logs_woodcutting": {
+    "criteria": {
+      "acacia_logs": "2026-05-25 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2026-05-25 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/acacia_fence_from_acacia_logs_woodcutting": {
+    "criteria": {
+      "acacia_logs": "2026-05-25 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/acacia_sign_from_acacia_logs_woodcutting": {
+    "criteria": {
+      "acacia_logs": "2026-05-25 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/acacia_door_from_acacia_logs_woodcutting": {
+    "criteria": {
+      "acacia_logs": "2026-05-25 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/acacia_trapdoor_from_acacia_logs_woodcutting": {
+    "criteria": {
+      "acacia_logs": "2026-05-25 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/acacia_stairs_from_acacia_logs_woodcutting": {
+    "criteria": {
+      "acacia_logs": "2026-05-25 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2026-05-25 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/acacia_planks_from_acacia_logs_woodcutting": {
+    "criteria": {
+      "acacia_logs": "2026-05-25 03:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/acacia_pressure_plate_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "has_acacia_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/acacia_fence_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "has_acacia_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/acacia_sign_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "has_acacia_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/acacia_stairs_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "has_acacia_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/acacia_trapdoor_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "has_acacia_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/transportation/acacia_boat_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "has_acacia_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/acacia_slab_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "has_acacia_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/acacia_fence_gate_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "has_acacia_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/acacia_button_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "has_acacia_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/acacia_door_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "has_acacia_planks": "2026-05-25 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2026-05-25 04:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2026-05-25 04:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2026-05-25 04:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2026-05-25 04:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2026-05-25 04:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2026-05-25 04:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
+    "criteria": {
+      "has_vines": "2026-05-25 04:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-05-25 04:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-05-25 04:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-05-25 04:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-05-25 04:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-05-25 04:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-05-25 04:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_wildflowers": "2026-05-25 05:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2026-05-25 05:57:27 +0000"
     },
     "done": true
   },
