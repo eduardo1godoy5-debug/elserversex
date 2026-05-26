@@ -283,6 +283,7 @@
       "glow_berries": "2026-04-28 04:00:42 +0000",
       "cooked_beef": "2026-04-27 04:24:41 +0000",
       "baked_potato": "2026-05-02 04:52:29 +0000",
+      "tropical_fish": "2026-05-26 03:53:46 +0000",
       "apple": "2026-05-21 18:28:59 +0000",
       "cooked_chicken": "2026-05-04 19:02:24 +0000",
       "potato": "2026-04-27 04:18:22 +0000",
@@ -6785,6 +6786,90 @@
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2026-05-25 05:59:11 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/dark_oak_pressure_plate_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/dark_oak_trapdoor_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/dark_oak_slab_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/dark_oak_sign_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/dark_oak_stairs_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/dark_oak_door_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/dark_oak_planks_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/stripped_dark_oak_log_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "has_dark_oak_log": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/dark_oak_fence_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/transportation/dark_oak_boat_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/dark_oak_button_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/dark_oak_fence_gate_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
     },
     "done": true
   },
