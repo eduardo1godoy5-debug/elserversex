@@ -283,8 +283,10 @@
       "glow_berries": "2026-04-28 04:00:42 +0000",
       "cooked_beef": "2026-04-27 04:24:41 +0000",
       "baked_potato": "2026-05-02 04:52:29 +0000",
+      "tropical_fish": "2026-05-26 03:53:46 +0000",
       "apple": "2026-05-21 18:28:59 +0000",
       "cooked_chicken": "2026-05-04 19:02:24 +0000",
+      "enchanted_golden_apple": "2026-05-28 04:04:49 +0000",
       "potato": "2026-04-27 04:18:22 +0000",
       "carrot": "2026-04-30 18:21:03 +0000"
     },
@@ -940,6 +942,7 @@
       "minecraft:magma_cube": "2026-05-13 04:56:00 +0000",
       "minecraft:spider": "2026-04-27 04:09:46 +0000",
       "minecraft:piglin_brute": "2026-05-14 04:10:13 +0000",
+      "minecraft:vex": "2026-05-28 04:28:48 +0000",
       "minecraft:zombie": "2026-05-04 04:29:44 +0000",
       "minecraft:creeper": "2026-04-27 04:09:08 +0000",
       "minecraft:drowned": "2026-05-11 04:38:16 +0000",
@@ -6785,6 +6788,318 @@
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2026-05-25 05:59:11 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/dark_oak_pressure_plate_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/dark_oak_trapdoor_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/dark_oak_slab_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/dark_oak_sign_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/dark_oak_stairs_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/dark_oak_door_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/dark_oak_planks_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/stripped_dark_oak_log_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "has_dark_oak_log": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/dark_oak_fence_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/transportation/dark_oak_boat_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/dark_oak_button_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/dark_oak_fence_gate_from_dark_oak_logs_woodcutting": {
+    "criteria": {
+      "dark_oak_logs": "2026-05-26 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2026-05-26 16:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2026-05-27 05:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-05-27 05:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2026-05-27 05:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-05-27 05:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2026-05-27 05:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2026-05-27 05:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2026-05-27 05:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2026-05-27 05:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-05-27 05:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-05-27 05:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-05-27 05:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-05-27 05:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-05-27 05:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2026-05-27 05:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2026-05-27 05:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2026-05-27 15:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_dropper": "2026-05-27 15:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_trapdoor_from_honeycomb": {
+    "criteria": {
+      "has_copper_trapdoor": "2026-05-27 16:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-05-27 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-05-27 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-05-27 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-05-27 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-05-27 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-05-27 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-05-27 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-05-27 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-05-27 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-05-27 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-05-27 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-05-27 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-05-27 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2026-05-27 17:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-05-28 03:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2026-05-28 03:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2026-05-28 03:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2026-05-28 03:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2026-05-28 03:56:34 +0000"
     },
     "done": true
   },
