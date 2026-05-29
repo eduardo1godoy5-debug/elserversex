@@ -23,6 +23,7 @@
       "minecraft:old_growth_pine_taiga": "2026-04-28 04:27:01 +0000",
       "minecraft:mushroom_fields": "2026-05-02 04:20:45 +0000",
       "minecraft:taiga": "2026-04-27 03:23:56 +0000",
+      "minecraft:eroded_badlands": "2026-05-29 18:16:27 +0000",
       "minecraft:frozen_river": "2026-04-28 03:58:34 +0000",
       "minecraft:cherry_grove": "2026-04-30 04:28:11 +0000",
       "minecraft:sunflower_plains": "2026-04-30 04:28:55 +0000",
@@ -30,9 +31,11 @@
       "minecraft:windswept_hills": "2026-04-30 04:11:16 +0000",
       "minecraft:wooded_badlands": "2026-05-02 04:54:57 +0000",
       "minecraft:bamboo_jungle": "2026-05-02 04:53:15 +0000",
+      "minecraft:badlands": "2026-05-29 18:20:00 +0000",
       "minecraft:savanna_plateau": "2026-05-29 05:34:11 +0000",
       "minecraft:beach": "2026-04-27 04:33:55 +0000",
       "minecraft:dark_forest": "2026-04-30 04:42:13 +0000",
+      "minecraft:stony_peaks": "2026-05-29 18:07:47 +0000",
       "minecraft:mangrove_swamp": "2026-05-29 04:46:07 +0000",
       "minecraft:sparse_jungle": "2026-05-02 04:51:29 +0000",
       "minecraft:river": "2026-04-27 03:47:30 +0000",
@@ -6630,7 +6633,8 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "tavern_dark_oak": "2026-05-25 05:24:26 +0000",
-      "illager_camp": "2026-05-25 03:39:13 +0000"
+      "illager_camp": "2026-05-25 03:39:13 +0000",
+      "mangrove_witch_hut": "2026-05-29 18:34:39 +0000"
     },
     "done": false
   },
@@ -6649,6 +6653,7 @@
   "nova_structures:adventure/find_all_taverns": {
     "criteria": {
       "nova_structures:tavern_oak": "2026-05-25 03:41:26 +0000",
+      "nova_structures:tavern_acacia": "2026-05-29 18:09:29 +0000",
       "nova_structures:tavern_dark_oak": "2026-05-25 05:24:26 +0000",
       "nova_structures:tavern_desert": "2026-05-29 04:51:53 +0000"
     },
@@ -7116,159 +7121,21 @@
     },
     "done": true
   },
-  "lootr:all_gravel": {
-    "criteria": {
-      "brushed_sand": "2026-05-29 05:16:38 +0000"
-    },
-    "done": false
-  },
   "nova_structures:adventure/find_shrine": {
     "criteria": {
       "shrine_combat": "2026-05-29 03:58:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oxidized_copper_bulb": {
+  "minecraft:recipes/redstone/waxed_oxidized_copper_door_from_honeycomb": {
     "criteria": {
-      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_rich_soil": {
-    "criteria": {
-      "get_rich_soil": "2026-05-29 06:08:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2026-05-29 05:46:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_chiseled_copper_from_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2026-05-29 05:46:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_copper_grate": {
-    "criteria": {
-      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2026-05-29 04:44:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
-    "criteria": {
-      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2026-05-29 06:33:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
+      "has_oxidized_copper_door": "2026-05-29 03:58:42 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_sandstone_slab": "2026-05-29 04:09:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2026-05-29 05:33:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2026-05-29 04:17:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/prismarine_wall": {
-    "criteria": {
-      "has_prismarine": "2026-05-29 05:46:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2026-05-29 05:46:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2026-05-29 05:46:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_mud": {
-    "criteria": {
-      "has_mud": "2026-05-29 04:46:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
-    "criteria": {
-      "has_smooth_sandstone": "2026-05-29 04:44:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2026-05-29 05:46:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_copper_grate_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_cut_copper_stairs": "2026-05-29 05:47:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2026-05-29 05:46:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2026-05-29 04:44:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
     },
     "done": true
   },
@@ -7284,21 +7151,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2026-05-29 04:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2026-05-29 04:21:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
-      "has_oxidized_cut_copper": "2026-05-29 05:46:58 +0000"
+      "has_smooth_sandstone": "2026-05-29 04:44:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
-      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
+      "has_smooth_sandstone": "2026-05-29 04:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-05-29 04:44:17 +0000"
     },
     "done": true
   },
@@ -7308,15 +7187,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2026-05-29 04:46:03 +0000"
+    },
+    "done": true
+  },
+  "lootr:all_gravel": {
+    "criteria": {
+      "brushed_sand": "2026-05-29 05:16:38 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2026-05-29 05:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2026-05-29 05:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2026-05-29 05:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2026-05-29 05:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2026-05-29 05:46:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2026-05-29 05:46:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/waxed_oxidized_copper_door_from_honeycomb": {
+  "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
-      "has_oxidized_copper_door": "2026-05-29 03:58:42 +0000"
+      "has_prismarine": "2026-05-29 05:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oxidized_copper_bulb": {
+    "criteria": {
+      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_copper_grate": {
+    "criteria": {
+      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_copper_grate_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2026-05-29 05:46:11 +0000"
     },
     "done": true
   },
@@ -7326,15 +7295,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "minecraft:recipes/building_blocks/oxidized_chiseled_copper_from_oxidized_cut_copper_stonecutting": {
     "criteria": {
-      "has_hay_block": "2026-05-29 06:05:28 +0000"
+      "has_oxidized_cut_copper": "2026-05-29 05:46:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_slab": {
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
     "criteria": {
-      "has_prismarine": "2026-05-29 05:46:08 +0000"
+      "has_oxidized_cut_copper": "2026-05-29 05:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2026-05-29 05:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2026-05-29 05:46:58 +0000"
     },
     "done": true
   },
@@ -7347,6 +7328,168 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
     "criteria": {
       "has_oxidized_cut_copper": "2026-05-29 05:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_stairs": "2026-05-29 05:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2026-05-29 06:05:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2026-05-29 06:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2026-05-29 06:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2026-05-29 17:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2026-05-29 18:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2026-05-29 18:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wayfinder_armor_trim_smithing_template": "2026-05-29 18:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2026-05-29 18:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bat_smithing": {
+    "criteria": {
+      "has_bat": "2026-05-29 18:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-05-29 18:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
     },
     "done": true
   },
