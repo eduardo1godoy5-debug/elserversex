@@ -7361,21 +7361,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_terracotta": {
+  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template": {
     "criteria": {
-      "has_terracotta": "2026-05-29 18:16:25 +0000"
+      "has_wayfinder_armor_trim_smithing_template": "2026-05-29 18:02:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_terracotta": "2026-05-29 18:16:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
-    "criteria": {
-      "has_yellow_terracotta": "2026-05-29 18:10:41 +0000"
+      "has_smithing_trim_template": "2026-05-29 18:02:41 +0000"
     },
     "done": true
   },
@@ -7385,9 +7379,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template": {
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
-      "has_wayfinder_armor_trim_smithing_template": "2026-05-29 18:02:41 +0000"
+      "has_yellow_terracotta": "2026-05-29 18:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-05-29 18:16:25 +0000"
     },
     "done": true
   },
@@ -7403,21 +7409,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2026-05-29 18:20:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2026-05-29 18:16:25 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/bat_smithing": {
-    "criteria": {
-      "has_bat": "2026-05-29 18:20:11 +0000"
     },
     "done": true
   },
@@ -7442,12 +7436,6 @@
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2026-05-29 18:16:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2026-05-29 18:02:41 +0000"
     },
     "done": true
   },
@@ -7490,6 +7478,36 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2026-05-29 18:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2026-05-29 18:20:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bat_smithing": {
+    "criteria": {
+      "has_bat": "2026-05-29 18:20:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2026-05-30 04:56:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2026-05-30 05:01:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_jungle_trapdoor": "2026-05-30 05:08:32 +0000"
     },
     "done": true
   },
