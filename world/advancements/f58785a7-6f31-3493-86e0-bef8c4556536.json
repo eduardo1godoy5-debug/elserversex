@@ -7614,5 +7614,59 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/white_bundle": {
+    "criteria": {
+      "has_white_dye": "2026-06-01 14:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-06-01 14:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2026-06-01 14:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2026-06-01 14:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_white_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-06-01 14:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2026-06-01 14:50:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2026-06-01 14:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-06-01 14:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-06-01 14:50:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
