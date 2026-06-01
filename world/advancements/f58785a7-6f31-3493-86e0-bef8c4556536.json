@@ -7608,5 +7608,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-01 05:10:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
