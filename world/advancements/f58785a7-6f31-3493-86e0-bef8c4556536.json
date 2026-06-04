@@ -23,6 +23,7 @@
       "minecraft:old_growth_pine_taiga": "2026-04-28 04:27:01 +0000",
       "minecraft:mushroom_fields": "2026-05-02 04:20:45 +0000",
       "minecraft:taiga": "2026-04-27 03:23:56 +0000",
+      "minecraft:deep_ocean": "2026-06-04 05:11:52 +0000",
       "minecraft:eroded_badlands": "2026-05-29 18:16:27 +0000",
       "minecraft:frozen_river": "2026-04-28 03:58:34 +0000",
       "minecraft:cherry_grove": "2026-04-30 04:28:11 +0000",
@@ -73,7 +74,7 @@
       "minecraft:plains": "2026-04-27 03:50:22 +0000",
       "minecraft:pale_garden": "2026-04-30 04:35:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
@@ -292,6 +293,7 @@
       "glow_berries": "2026-04-28 04:00:42 +0000",
       "cooked_beef": "2026-04-27 04:24:41 +0000",
       "baked_potato": "2026-05-02 04:52:29 +0000",
+      "porkchop": "2026-06-04 04:34:56 +0000",
       "tropical_fish": "2026-05-26 03:53:46 +0000",
       "apple": "2026-05-21 18:28:59 +0000",
       "cooked_chicken": "2026-05-04 19:02:24 +0000",
@@ -6656,7 +6658,8 @@
       "nova_structures:tavern_oak": "2026-05-25 03:41:26 +0000",
       "nova_structures:tavern_acacia": "2026-05-29 18:09:29 +0000",
       "nova_structures:tavern_dark_oak": "2026-05-25 05:24:26 +0000",
-      "nova_structures:tavern_desert": "2026-05-29 04:51:53 +0000"
+      "nova_structures:tavern_desert": "2026-05-29 04:51:53 +0000",
+      "nova_structures:tavern_snowy": "2026-06-04 05:27:28 +0000"
     },
     "done": false
   },
@@ -7674,15 +7677,226 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2026-06-02 18:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2026-06-02 19:05:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
+  "nova_structures:nether/find_hamlet": {
     "criteria": {
-      "has_glowstone": "2026-06-02 18:49:22 +0000"
+      "nova_structures:hamlet": "2026-06-04 04:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/crimson_slab_from_crimson_planks_woodcutting": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2026-06-04 03:56:46 +0000",
+      "nova_structures:hamlet": "2026-06-04 04:31:13 +0000"
+    },
+    "done": false
+  },
+  "nemos_woodcutter:recipes/decorations/crimson_fence_from_crimson_planks_woodcutting": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-04 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-04 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-04 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-04 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/crimson_trapdoor_from_crimson_planks_woodcutting": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/crimson_pressure_plate_from_crimson_planks_woodcutting": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglin_camps": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2026-06-04 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/crimson_door_from_crimson_planks_woodcutting": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/crimson_sign_from_crimson_planks_woodcutting": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-04 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-04 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-04 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-04 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-04 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-04 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-04 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/crimson_stairs_from_crimson_planks_woodcutting": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/crimson_button_from_crimson_planks_woodcutting": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/crimson_fence_gate_from_crimson_planks_woodcutting": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-04 03:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-04 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-04 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-04 04:40:57 +0000"
     },
     "done": true
   },
