@@ -63,6 +63,7 @@
       "minecraft:windswept_gravelly_hills": "2026-04-28 04:03:52 +0000",
       "minecraft:savanna": "2026-05-25 03:08:05 +0000",
       "minecraft:plains": "2026-04-27 03:22:40 +0000",
+      "minecraft:jagged_peaks": "2026-06-05 04:28:51 +0000",
       "minecraft:pale_garden": "2026-05-02 04:43:35 +0000"
     },
     "done": false
@@ -5676,6 +5677,7 @@
       "cabbage": "2026-05-08 18:12:13 +0000",
       "sweet_berries": "2026-05-08 04:45:09 +0000",
       "tomato": "2026-05-08 18:12:09 +0000",
+      "kelp": "2026-06-05 06:36:45 +0000",
       "beetroot": "2026-05-08 04:45:57 +0000",
       "brown_mushroom": "2026-05-08 18:24:48 +0000",
       "sugar_cane": "2026-05-14 02:28:06 +0000",
@@ -7807,6 +7809,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2026-06-04 04:45:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2026-06-04 04:51:42 +0000"
@@ -7828,12 +7836,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2026-06-04 04:51:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2026-06-04 04:45:52 +0000"
     },
     "done": true
   },
@@ -7894,6 +7896,30 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2026-06-04 04:51:42 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_shrine": {
+    "criteria": {
+      "shrine_combat": "2026-06-05 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2026-06-05 04:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-06-05 04:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-06-05 06:04:31 +0000"
     },
     "done": true
   },
