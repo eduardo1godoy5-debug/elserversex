@@ -7923,5 +7923,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2026-06-05 22:31:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_trapdoor": "2026-06-05 23:29:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
