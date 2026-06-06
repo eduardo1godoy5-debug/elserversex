@@ -7901,6 +7901,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2026-06-05 04:38:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2026-06-05 05:01:54 +0000"
@@ -7910,12 +7916,6 @@
   "travelersbackpack:recipes/misc/end": {
     "criteria": {
       "has_ender_eye": "2026-06-05 05:01:54 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_pillager_outpost": {
-    "criteria": {
-      "minecraft:pillager_outpost": "2026-06-05 04:38:38 +0000"
     },
     "done": true
   },

@@ -7935,5 +7935,119 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/birch_fence_from_birch_planks_woodcutting": {
+    "criteria": {
+      "has_birch_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/birch_trapdoor_from_birch_planks_woodcutting": {
+    "criteria": {
+      "has_birch_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/birch_stairs_from_birch_planks_woodcutting": {
+    "criteria": {
+      "has_birch_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/birch_slab_from_birch_planks_woodcutting": {
+    "criteria": {
+      "has_birch_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/birch_pressure_plate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "has_birch_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/birch_door_from_birch_planks_woodcutting": {
+    "criteria": {
+      "has_birch_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/transportation/birch_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "has_birch_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/birch_button_from_birch_planks_woodcutting": {
+    "criteria": {
+      "has_birch_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/birch_fence_gate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "has_birch_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/birch_sign_from_birch_planks_woodcutting": {
+    "criteria": {
+      "has_birch_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-06-06 04:55:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
