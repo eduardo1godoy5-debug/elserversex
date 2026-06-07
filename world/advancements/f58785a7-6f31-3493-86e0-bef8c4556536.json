@@ -7925,5 +7925,11 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "fortress": "2026-06-07 15:11:20 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 4671
 }
