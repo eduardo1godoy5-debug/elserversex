@@ -8049,5 +8049,47 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/warp_plate": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-07 20:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-07 20:17:30 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/dormant_shard": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-07 20:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-07 20:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-07 20:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-07 20:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2026-06-08 05:05:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
