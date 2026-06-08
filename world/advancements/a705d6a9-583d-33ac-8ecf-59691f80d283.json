@@ -59,6 +59,7 @@
       "minecraft:old_growth_birch_forest": "2026-04-27 03:21:34 +0000",
       "minecraft:deep_dark": "2026-05-18 06:18:46 +0000",
       "minecraft:grove": "2026-04-28 04:13:43 +0000",
+      "minecraft:swamp": "2026-06-08 17:58:23 +0000",
       "minecraft:meadow": "2026-04-27 04:42:52 +0000",
       "minecraft:windswept_gravelly_hills": "2026-04-28 04:03:52 +0000",
       "minecraft:savanna": "2026-05-25 03:08:05 +0000",
@@ -1077,6 +1078,7 @@
       "minecraft:wither": "2026-05-11 03:51:59 +0000",
       "minecraft:evoker": "2026-05-04 22:32:12 +0000",
       "minecraft:slime": "2026-05-07 05:56:59 +0000",
+      "minecraft:phantom": "2026-06-08 18:12:18 +0000",
       "minecraft:zombified_piglin": "2026-05-10 04:54:34 +0000",
       "minecraft:witch": "2026-05-04 22:30:47 +0000",
       "minecraft:wither_skeleton": "2026-05-06 05:07:08 +0000",
@@ -8088,6 +8090,24 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2026-06-08 05:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2026-06-08 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2026-06-08 17:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2026-06-08 17:48:28 +0000"
     },
     "done": true
   },
