@@ -7269,7 +7269,8 @@
     "criteria": {
       "tavern_dark_oak": "2026-05-25 05:24:02 +0000",
       "pillager_outpost": "2026-05-24 16:43:40 +0000",
-      "illager_camp": "2026-05-22 20:32:55 +0000"
+      "illager_camp": "2026-05-22 20:32:55 +0000",
+      "mansion": "2026-06-08 22:37:30 +0000"
     },
     "done": false
   },
@@ -8093,9 +8094,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_mud": {
+  "minecraft:recipes/misc/slime_ball": {
     "criteria": {
-      "has_mud": "2026-06-08 18:43:12 +0000"
+      "has_slime_block": "2026-06-08 17:48:28 +0000"
     },
     "done": true
   },
@@ -8105,9 +8106,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/slime_ball": {
+  "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
-      "has_slime_block": "2026-06-08 17:48:28 +0000"
+      "has_mud": "2026-06-08 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2026-06-08 22:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2026-06-08 22:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2026-06-08 22:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-06-08 22:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2026-06-08 22:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/resin_brick": {
+    "criteria": {
+      "has_resin_clump": "2026-06-08 22:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_block": {
+    "criteria": {
+      "has_resin_clump": "2026-06-08 22:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2026-06-08 22:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2026-06-08 22:42:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_blue_sleeping_bag": {
+    "criteria": {
+      "has_light_blue_wool": "2026-06-08 22:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2026-06-08 22:42:51 +0000"
     },
     "done": true
   },
