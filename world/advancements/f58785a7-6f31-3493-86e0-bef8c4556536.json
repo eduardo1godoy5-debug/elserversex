@@ -287,6 +287,7 @@
       "cooked_porkchop": "2026-04-27 04:07:09 +0000",
       "mutton": "2026-04-27 04:21:55 +0000",
       "bread": "2026-04-27 03:36:24 +0000",
+      "golden_apple": "2026-06-10 16:54:41 +0000",
       "honey_bottle": "2026-05-21 18:27:40 +0000",
       "suspicious_stew": "2026-05-25 03:54:33 +0000",
       "cooked_mutton": "2026-04-27 04:51:11 +0000",
@@ -5874,6 +5875,7 @@
     "criteria": {
       "potato": "2026-05-12 04:31:39 +0000",
       "wheat": "2026-05-11 06:21:21 +0000",
+      "pumpkin": "2026-06-10 16:41:34 +0000",
       "carrot": "2026-05-12 04:31:04 +0000"
     },
     "done": false
@@ -8110,15 +8112,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+  "nova_structures:adventure/find_illager_mansion": {
     "criteria": {
-      "has_cyan_wool": "2026-06-08 22:43:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_allium": {
-    "criteria": {
-      "has_allium": "2026-06-08 22:50:55 +0000"
+      "minecraft:woodland_mansion": "2026-06-08 21:37:05 +0000"
     },
     "done": true
   },
@@ -8128,9 +8124,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_bed": {
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
-      "has_light_blue_wool": "2026-06-08 22:43:11 +0000"
+      "has_vex_armor_trim_smithing_template": "2026-06-08 21:39:17 +0000"
     },
     "done": true
   },
@@ -8140,39 +8136,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_banner": {
+  "minecraft:recipes/building_blocks/resin_block": {
     "criteria": {
-      "has_light_blue_wool": "2026-06-08 22:43:11 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_illager_mansion": {
-    "criteria": {
-      "minecraft:woodland_mansion": "2026-06-08 21:37:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_carpet": {
-    "criteria": {
-      "has_cyan_wool": "2026-06-08 22:43:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
-    "criteria": {
-      "has_vex_armor_trim_smithing_template": "2026-06-08 21:39:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2026-06-08 22:50:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2026-06-08 22:43:12 +0000"
+      "has_resin_clump": "2026-06-08 21:39:25 +0000"
     },
     "done": true
   },
@@ -8182,15 +8148,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/resin_block": {
+  "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
-      "has_resin_clump": "2026-06-08 21:39:25 +0000"
+      "has_light_blue_wool": "2026-06-08 22:43:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_banner": {
+  "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
-      "has_cyan_wool": "2026-06-08 22:43:12 +0000"
+      "has_light_blue_wool": "2026-06-08 22:43:11 +0000"
     },
     "done": true
   },
@@ -8203,6 +8169,42 @@
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
       "has_light_blue_wool": "2026-06-08 22:43:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2026-06-08 22:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2026-06-08 22:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2026-06-08 22:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2026-06-08 22:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_allium": {
+    "criteria": {
+      "has_allium": "2026-06-08 22:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2026-06-08 22:50:55 +0000"
     },
     "done": true
   },
