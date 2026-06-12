@@ -8262,45 +8262,9 @@
     },
     "done": true
   },
-  "nemos_woodcutter:recipes/redstone/crimson_fence_gate_from_crimson_stems_woodcutting": {
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
-      "crimson_stems": "2026-06-12 05:26:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2026-06-12 05:29:47 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/building_blocks/crimson_slab_from_crimson_stems_woodcutting": {
-    "criteria": {
-      "crimson_stems": "2026-06-12 05:26:51 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/building_blocks/crimson_slab_from_crimson_planks_woodcutting": {
-    "criteria": {
-      "has_crimson_planks": "2026-06-12 05:29:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2026-06-12 05:29:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2026-06-12 05:29:47 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/crimson_button_from_crimson_stems_woodcutting": {
-    "criteria": {
-      "crimson_stems": "2026-06-12 05:26:51 +0000"
+      "has_glass": "2026-06-12 05:19:18 +0000"
     },
     "done": true
   },
@@ -8310,75 +8274,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2026-06-12 05:26:51 +0000"
-    },
-    "done": true
-  },
   "nemos_woodcutter:recipes/decorations/warped_sign_from_warped_planks_woodcutting": {
     "criteria": {
       "has_warped_planks": "2026-06-12 05:22:15 +0000"
     },
     "done": true
   },
-  "nemos_woodcutter:recipes/decorations/crimson_fence_from_crimson_planks_woodcutting": {
-    "criteria": {
-      "has_crimson_planks": "2026-06-12 05:29:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_pressure_plate": {
-    "criteria": {
-      "has_planks": "2026-06-12 05:29:47 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/crimson_trapdoor_from_crimson_stems_woodcutting": {
-    "criteria": {
-      "crimson_stems": "2026-06-12 05:26:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2026-06-12 05:22:15 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/building_blocks/crimson_planks_from_crimson_stems_woodcutting": {
-    "criteria": {
-      "crimson_stems": "2026-06-12 05:26:51 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/decorations/crimson_fence_from_crimson_stems_woodcutting": {
-    "criteria": {
-      "crimson_stems": "2026-06-12 05:26:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_sign": {
-    "criteria": {
-      "has_planks": "2026-06-12 05:29:47 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/crimson_trapdoor_from_crimson_planks_woodcutting": {
-    "criteria": {
-      "has_crimson_planks": "2026-06-12 05:29:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_door": {
-    "criteria": {
-      "has_planks": "2026-06-12 05:29:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-06-12 05:29:47 +0000"
     },
     "done": true
   },
@@ -8424,18 +8328,6 @@
     },
     "done": true
   },
-  "nemos_woodcutter:recipes/building_blocks/stripped_crimson_stem_from_crimson_stem_woodcutting": {
-    "criteria": {
-      "has_crimson_stem": "2026-06-12 05:26:51 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/crimson_pressure_plate_from_crimson_planks_woodcutting": {
-    "criteria": {
-      "has_crimson_planks": "2026-06-12 05:29:47 +0000"
-    },
-    "done": true
-  },
   "nemos_woodcutter:recipes/building_blocks/warped_slab_from_warped_planks_woodcutting": {
     "criteria": {
       "has_warped_planks": "2026-06-12 05:22:15 +0000"
@@ -8460,39 +8352,81 @@
     },
     "done": true
   },
-  "nemos_woodcutter:recipes/redstone/crimson_door_from_crimson_planks_woodcutting": {
-    "criteria": {
-      "has_crimson_planks": "2026-06-12 05:29:47 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/decorations/crimson_sign_from_crimson_planks_woodcutting": {
-    "criteria": {
-      "has_crimson_planks": "2026-06-12 05:29:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2026-06-12 05:22:15 +0000"
     },
     "done": true
   },
-  "nemos_woodcutter:recipes/redstone/crimson_door_from_crimson_stems_woodcutting": {
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2026-06-12 05:22:15 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/warped_button_from_warped_planks_woodcutting": {
+    "criteria": {
+      "has_warped_planks": "2026-06-12 05:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2026-06-12 05:22:15 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/crimson_fence_gate_from_crimson_stems_woodcutting": {
     "criteria": {
       "crimson_stems": "2026-06-12 05:26:51 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/crimson_cabinet": {
+  "nemos_woodcutter:recipes/building_blocks/crimson_slab_from_crimson_stems_woodcutting": {
     "criteria": {
-      "has_crimson_trapdoor": "2026-06-12 05:29:56 +0000"
+      "crimson_stems": "2026-06-12 05:26:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_slab": {
+  "nemos_woodcutter:recipes/redstone/crimson_button_from_crimson_stems_woodcutting": {
     "criteria": {
-      "has_planks": "2026-06-12 05:22:15 +0000"
+      "crimson_stems": "2026-06-12 05:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2026-06-12 05:26:51 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/crimson_trapdoor_from_crimson_stems_woodcutting": {
+    "criteria": {
+      "crimson_stems": "2026-06-12 05:26:51 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/crimson_planks_from_crimson_stems_woodcutting": {
+    "criteria": {
+      "crimson_stems": "2026-06-12 05:26:51 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/crimson_fence_from_crimson_stems_woodcutting": {
+    "criteria": {
+      "crimson_stems": "2026-06-12 05:26:51 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/stripped_crimson_stem_from_crimson_stem_woodcutting": {
+    "criteria": {
+      "has_crimson_stem": "2026-06-12 05:26:51 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/crimson_door_from_crimson_stems_woodcutting": {
+    "criteria": {
+      "crimson_stems": "2026-06-12 05:26:51 +0000"
     },
     "done": true
   },
@@ -8508,33 +8442,105 @@
     },
     "done": true
   },
+  "nemos_woodcutter:recipes/building_blocks/crimson_stairs_from_crimson_stems_woodcutting": {
+    "criteria": {
+      "crimson_stems": "2026-06-12 05:26:51 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/crimson_sign_from_crimson_stems_woodcutting": {
+    "criteria": {
+      "crimson_stems": "2026-06-12 05:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2026-06-12 05:29:47 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/crimson_slab_from_crimson_planks_woodcutting": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-12 05:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2026-06-12 05:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2026-06-12 05:29:47 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/crimson_fence_from_crimson_planks_woodcutting": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-12 05:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-06-12 05:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2026-06-12 05:29:47 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/crimson_trapdoor_from_crimson_planks_woodcutting": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-12 05:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2026-06-12 05:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-06-12 05:29:47 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/crimson_pressure_plate_from_crimson_planks_woodcutting": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-12 05:29:47 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/crimson_door_from_crimson_planks_woodcutting": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-12 05:29:47 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/crimson_sign_from_crimson_planks_woodcutting": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-12 05:29:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2026-06-12 05:29:47 +0000"
     },
     "done": true
   },
-  "nemos_woodcutter:recipes/redstone/warped_button_from_warped_planks_woodcutting": {
-    "criteria": {
-      "has_warped_planks": "2026-06-12 05:22:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2026-06-12 05:29:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_fence": {
-    "criteria": {
-      "has_planks": "2026-06-12 05:22:15 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/building_blocks/crimson_stairs_from_crimson_stems_woodcutting": {
-    "criteria": {
-      "crimson_stems": "2026-06-12 05:26:51 +0000"
     },
     "done": true
   },
@@ -8556,15 +8562,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
+  "farmersdelight:recipes/decorations/crimson_cabinet": {
     "criteria": {
-      "has_glass": "2026-06-12 05:19:18 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/decorations/crimson_sign_from_crimson_stems_woodcutting": {
-    "criteria": {
-      "crimson_stems": "2026-06-12 05:26:51 +0000"
+      "has_crimson_trapdoor": "2026-06-12 05:29:56 +0000"
     },
     "done": true
   },
