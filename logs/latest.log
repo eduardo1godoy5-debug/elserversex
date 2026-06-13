@@ -1,8 +1,8 @@
-[19:28:53] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.19.2
-[19:28:54] [main/WARN]: Warnings were found!
+[04:00:12] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.19.2
+[04:00:15] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.11.1 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[19:28:54] [main/INFO]: Loading 129 mods:
+[04:00:15] [main/INFO]: Loading 129 mods:
 	- balm 21.11.9
 	   \-- kuma_api 21.11.12
 	- cardinal-components 7.3.1
@@ -148,187 +148,287 @@
 	- waystones 21.11.9
 	- xaerominimap 25.3.10
 	   \-- xaerolib 1.1.0
-[19:28:54] [main/WARN]: Found 1 non-fabric mod:
+[04:00:15] [main/WARN]: Found 1 non-fabric mod:
 	- LuckPerms-Bukkit-5.5.17.jar
-[19:28:54] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/elserversex/libraries/net/fabricmc/sponge-mixin/0.17.2+mixin.0.8.7/sponge-mixin-0.17.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:28:54] [main/INFO]: Compatibility level set to JAVA_17
-[19:28:54] [main/INFO]: Compatibility level set to JAVA_21
-[19:28:54] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:54] [main/WARN]: Reference map 'balm.refmap.json' for balm.api.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:54] [main/WARN]: Reference map 'balm.refmap.json' for balm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:54] [main/WARN]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:54] [main/WARN]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:54] [main/WARN]: Reference map 'globalxp.refmap.json' for globalxp.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:54] [main/WARN]: Reference map 'hardcorerevival.refmap.json' for hardcorerevival.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:54] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:54] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:54] [main/INFO]: Loaded configuration file for Lithium: 171 options available, 0 override(s) found.
-[19:28:55] [main/WARN]: Reference map 'nemos_woodcutter.refmap.json' for nemos_woodcutter.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:55] [main/WARN]: Reference map 'nemos_woodcutter.refmap.json' for nemos_woodcutter.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:55] [main/WARN]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:55] [main/WARN]: Reference map 'skinrestorer.refmap.json' for skinrestorer.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:55] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:55] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:55] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:55] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:55] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:55] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerominimap.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:28:55] [main/WARN]: Error loading class: net/minecraft/class_9976 (java.lang.ClassNotFoundException: net/minecraft/class_9976)
-[19:28:55] [main/WARN]: @Mixin target net.minecraft.class_9976 was not found coolrain.mixins.json:RainMixin from mod coolrain
-[19:28:55] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
-[19:28:55] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
-[19:28:56] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[19:28:56] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
-[19:29:09] [main/INFO]: [CommandBlocker] Mod cargado! Comandos bloqueados: [op, give, gm, teleport, xp, experience, tp, gamemode]
-[19:29:09] [main/INFO]: [Dynamic Lights] MidnightLib detected!
-[19:29:09] [main/INFO]: [Dynamic Lights] Registering server started event ...
-[19:29:09] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[19:29:09] [main/INFO]: [EssentialCommands]: Mod Load Initiated.
-[19:29:09] [main/INFO]: [EssentialCommands]: Mod Load Complete.
-[19:29:10] [main/INFO]: Loaded config farmersdelight-common.json
-[19:29:10] [ForkJoinPool.commonPool-worker-1/INFO]: Essential Commands is up to date!
-[19:29:11] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 3.x.x (Linux x86_64)
-[19:29:11] [main/INFO]: Definitely not up to no good
-[19:29:11] [main/INFO]: Thank you for using Nemo's Woodcutter!
-[19:29:11] [main/INFO]: Registering creative mode tabs
-[19:29:11] [main/INFO]: Registering recipe serializer
-[19:29:11] [main/INFO]: Register recipe types
-[19:29:11] [main/INFO]: Registering recipe book categories
-[19:29:11] [main/INFO]: Registering recipe displays
-[19:29:11] [main/INFO]: Registering menu types
-[19:29:11] [main/INFO]: [ServerCore] Loaded V1.5.15+1.21.11!
-[19:29:12] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[19:29:12] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[19:29:12] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[19:29:12] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[19:29:13] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[19:29:13] [main/INFO]: Registering common data for channel xaerolib:main!
-[19:29:13] [main/INFO]: Loading primary common config for channel xaerolib:main!
-[19:29:13] [main/INFO]: Loading server config profiles for channel xaerolib:main!
-[19:29:13] [main/INFO]: Loading XaeroLib common 1/2!
-[19:29:13] [main/INFO]: Loading XaeroLib server 1/2!
-[19:29:13] [main/INFO]: Registering common data for channel xaerominimap:main!
-[19:29:13] [main/INFO]: Loading primary common config for channel xaerominimap:main!
-[19:29:13] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
-[19:29:13] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[19:29:14] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[19:29:20] [main/INFO]: Loaded 2316 recipes
-[19:29:20] [main/INFO]: Loaded 2410 advancements
-[19:29:20] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
-[19:29:21] [main/INFO]: Applied 144 biome modifications to 64 of 65 new biomes in 14.84 ms
-[19:29:21] [Server thread/INFO]: Loading XaeroLib common 2/2!
-[19:29:21] [Server thread/INFO]: Loading XaeroLib server 2/2!
-[19:29:21] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[19:29:21] [Server thread/INFO]: Loading properties
-[19:29:21] [Server thread/INFO]: Default game type: SURVIVAL
-[19:29:21] [Server thread/INFO]: Generating keypair
-[19:29:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:29:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:29:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:29:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:29:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:29:21] [Server thread/INFO]: Preparing level "world"
-[19:29:23] [Server thread/INFO]: Loading 0 persistent chunks...
-[19:29:23] [Server thread/INFO]: Preparing spawn area: 100%
-[19:29:23] [Server thread/INFO]: Time elapsed: 16 ms
-[19:29:23] [Server thread/INFO]: Done (1.267s)! For help, type "help"
-[19:29:23] [Server thread/INFO]: [Dynamic Lights] Sending global config to world ...
-[19:29:23] [Server thread/INFO]: Possible world ids: minecraft:overworld,minecraft:the_end,minecraft:the_nether
-[19:29:23] [Server thread/INFO]: Configured `rtp_enabled_worlds` world ids: minecraft:overworld
-[19:29:23] [Server thread/INFO]: All configured `rtp_enabled_worlds` world ids are valid.
-[19:29:23] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[19:33:44] [Server thread/INFO]: alkeys[/127.71.128.12:47037] logged in with entity id 75 at (-8210.729202343133, 64.0, 2292.2552291290426)
-[19:33:44] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[19:33:44] [Server thread/INFO]: alkeys joined the game
-[19:33:44] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[19:33:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[19:47:40] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-804.4261796474457, 148.625, 325.5537781715393) too far away from hit block class_2338{x=-805, y=147, z=325}.
-[19:47:43] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-804.5938915014267, 148.625, 329.6028883457184) too far away from hit block class_2338{x=-805, y=147, z=329}.
-[19:47:44] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-804.4258971214294, 148.53879809379578, 329.375) too far away from hit block class_2338{x=-805, y=147, z=329}.
-[19:47:44] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-804.5236636400223, 148.52968049049377, 329.375) too far away from hit block class_2338{x=-805, y=147, z=329}.
-[19:47:44] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-804.3985979557037, 148.625, 329.6182930469513) too far away from hit block class_2338{x=-805, y=147, z=329}.
-[19:47:45] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-804.5764492750168, 148.625, 333.3898238837719) too far away from hit block class_2338{x=-805, y=147, z=333}.
-[19:47:45] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-804.5762473940849, 148.52964174747467, 333.375) too far away from hit block class_2338{x=-805, y=147, z=333}.
-[19:47:46] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-804.5761722028255, 148.625, 333.3889294862747) too far away from hit block class_2338{x=-805, y=147, z=333}.
-[19:51:02] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-804.5541487932205, 148.625, 329.46494847536087) too far away from hit block class_2338{x=-805, y=147, z=329}.
-[19:51:36] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-798.375, 148.6059021949768, 325.40588241815567) too far away from hit block class_2338{x=-799, y=147, z=325}.
-[19:51:42] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-798.625, 148.50451576709747, 335.5043284893036) too far away from hit block class_2338{x=-799, y=147, z=335}.
-[20:00:02] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-808.375, 152.5430918931961, 321.4126421511173) too far away from hit block class_2338{x=-809, y=151, z=321}.
-[20:00:03] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-808.375, 152.57139194011688, 321.3774059712887) too far away from hit block class_2338{x=-809, y=151, z=321}.
-[20:00:04] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-808.6134113371372, 152.6168373823166, 327.375) too far away from hit block class_2338{x=-809, y=151, z=327}.
-[20:00:11] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-800.5886834263802, 152.625, 343.41670912504196) too far away from hit block class_2338{x=-801, y=151, z=343}.
-[20:00:17] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-784.4461429715157, 152.625, 333.497264534235) too far away from hit block class_2338{x=-785, y=151, z=333}.
-[20:00:27] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-806.3839935064316, 152.5706206560135, 329.375) too far away from hit block class_2338{x=-807, y=151, z=329}.
-[20:00:33] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-796.485389649868, 152.625, 341.5651424527168) too far away from hit block class_2338{x=-797, y=151, z=341}.
-[20:01:12] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-808.4095761179924, 152.50695991516113, 327.375) too far away from hit block class_2338{x=-809, y=151, z=327}.
-[20:01:12] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-808.4176988601685, 152.50947105884552, 327.375) too far away from hit block class_2338{x=-809, y=151, z=327}.
-[20:01:18] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-798.6077165901661, 152.5090413093567, 335.625) too far away from hit block class_2338{x=-799, y=151, z=335}.
-[20:01:23] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-794.4396422505379, 152.625, 327.50921255350113) too far away from hit block class_2338{x=-795, y=151, z=327}.
-[20:05:22] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-798.6046460270882, 152.625, 335.4895918369293) too far away from hit block class_2338{x=-799, y=151, z=335}.
-[20:06:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7597ms or 151 ticks behind
-[20:06:50] [Server thread/WARN]: alkeys moved too quickly! 7.437372142566687,-3.0,6.174218232112821
-[20:16:45] [Server thread/INFO]: Tree reached max size of 100
-[20:16:46] [Server thread/INFO]: Tree reached max size of 100
-[20:16:47] [Server thread/INFO]: Tree reached max size of 100
-[20:16:48] [Server thread/INFO]: Tree reached max size of 100
-[20:16:48] [Server thread/INFO]: Tree reached max size of 100
-[20:16:49] [Server thread/INFO]: Tree reached max size of 100
-[20:20:13] [Server thread/WARN]: alkeys moved too quickly! 133.53979786186358,69.5,-88.43719805000404
-[20:26:13] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-794.6169693470001, 156.625, 335.4852100610733) too far away from hit block class_2338{x=-795, y=155, z=335}.
-[20:26:49] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-806.4442222714424, 156.56581139564514, 343.375) too far away from hit block class_2338{x=-807, y=155, z=343}.
-[20:27:11] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-786.375, 156.53377091884613, 319.3807138502598) too far away from hit block class_2338{x=-787, y=155, z=319}.
-[20:28:20] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-788.602463722229, 156.625, 329.55261516571045) too far away from hit block class_2338{x=-789, y=155, z=329}.
-[20:28:21] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-788.4812982082367, 156.625, 329.54626506567) too far away from hit block class_2338{x=-789, y=155, z=329}.
-[20:28:26] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-804.375, 156.5727891921997, 339.3921741247177) too far away from hit block class_2338{x=-805, y=155, z=339}.
-[20:28:27] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-804.4953060746193, 156.625, 339.50940787792206) too far away from hit block class_2338{x=-805, y=155, z=339}.
-[20:28:27] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-804.5013667345047, 156.625, 339.5832191705704) too far away from hit block class_2338{x=-805, y=155, z=339}.
-[20:28:28] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-804.5989284813404, 156.625, 339.40787264704704) too far away from hit block class_2338{x=-805, y=155, z=339}.
-[20:28:31] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-804.586491048336, 156.625, 333.59802436828613) too far away from hit block class_2338{x=-805, y=155, z=333}.
-[20:28:37] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-790.625, 156.59153497219086, 323.50478637218475) too far away from hit block class_2338{x=-791, y=155, z=323}.
-[20:29:01] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-802.622700959444, 156.625, 335.59988844394684) too far away from hit block class_2338{x=-803, y=155, z=335}.
-[20:29:02] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-802.4134836792946, 156.625, 335.5427222251892) too far away from hit block class_2338{x=-803, y=155, z=335}.
-[20:29:02] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-802.4083567857742, 156.62446308135986, 335.625) too far away from hit block class_2338{x=-803, y=155, z=335}.
-[20:37:00] [Server thread/INFO]: Tree reached max size of 100
-[20:37:01] [Server thread/INFO]: Tree reached max size of 100
-[20:37:02] [Server thread/INFO]: Tree reached max size of 100
-[20:37:02] [Server thread/INFO]: Tree reached max size of 100
-[20:37:03] [Server thread/INFO]: Tree reached max size of 100
-[20:37:04] [Server thread/INFO]: Tree reached max size of 100
-[20:37:40] [Server thread/INFO]: Tree reached max size of 100
-[20:37:41] [Server thread/INFO]: Tree reached max size of 100
-[20:37:41] [Server thread/INFO]: Tree reached max size of 100
-[20:37:42] [Server thread/INFO]: Tree reached max size of 100
-[20:37:43] [Server thread/INFO]: Tree reached max size of 100
-[20:37:52] [Server thread/INFO]: Tree reached max size of 100
-[20:37:53] [Server thread/INFO]: Tree reached max size of 100
-[20:37:54] [Server thread/INFO]: Tree reached max size of 100
-[20:37:54] [Server thread/INFO]: Tree reached max size of 100
-[20:38:27] [Server thread/INFO]: Tree reached max size of 100
-[20:38:28] [Server thread/INFO]: Tree reached max size of 100
-[20:38:29] [Server thread/INFO]: Tree reached max size of 100
-[20:38:30] [Server thread/INFO]: Tree reached max size of 100
-[20:38:30] [Server thread/INFO]: Tree reached max size of 100
-[20:40:17] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-784.4606395959854, 160.56367027759552, 329.625) too far away from hit block class_2338{x=-785, y=159, z=329}.
-[20:41:23] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-800.625, 160.61729168891907, 339.5845853090286) too far away from hit block class_2338{x=-801, y=159, z=339}.
-[20:41:32] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-788.4141097068787, 160.625, 333.60003769397736) too far away from hit block class_2338{x=-789, y=159, z=333}.
-[20:41:34] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-790.5317563712597, 160.55328702926636, 325.625) too far away from hit block class_2338{x=-791, y=159, z=325}.
-[20:41:42] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-790.4703372716904, 160.625, 325.41153743863106) too far away from hit block class_2338{x=-791, y=159, z=325}.
-[20:42:16] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-790.6232827603817, 160.625, 325.4496538937092) too far away from hit block class_2338{x=-791, y=159, z=325}.
-[20:42:25] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-802.37840539217, 160.625, 337.4431189894676) too far away from hit block class_2338{x=-803, y=159, z=337}.
-[20:45:26] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-794.5329082608223, 164.625, 343.39877220988274) too far away from hit block class_2338{x=-795, y=163, z=343}.
-[20:52:20] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-800.513971298933, 164.625, 329.6085187792778) too far away from hit block class_2338{x=-801, y=163, z=329}.
-[20:53:12] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-804.3775932192802, 164.60700404644012, 321.625) too far away from hit block class_2338{x=-805, y=163, z=321}.
-[20:53:23] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-790.375, 164.62104523181915, 341.6129291653633) too far away from hit block class_2338{x=-791, y=163, z=341}.
-[20:53:33] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-796.3978396058083, 164.625, 323.6155936717987) too far away from hit block class_2338{x=-797, y=163, z=323}.
-[20:53:33] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-796.4290539622307, 164.625, 323.5429747700691) too far away from hit block class_2338{x=-797, y=163, z=323}.
-[20:53:33] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-796.5821770727634, 164.625, 323.55403953790665) too far away from hit block class_2338{x=-797, y=163, z=323}.
-[20:53:34] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-796.452996969223, 164.625, 323.4863632321358) too far away from hit block class_2338{x=-797, y=163, z=323}.
-[20:54:59] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-790.6145069599152, 164.625, 329.61237901449203) too far away from hit block class_2338{x=-791, y=163, z=329}.
-[20:54:59] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-790.5696002840996, 164.625, 329.57459062337875) too far away from hit block class_2338{x=-791, y=163, z=329}.
-[20:54:59] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-790.5342329442501, 164.625, 329.56808257102966) too far away from hit block class_2338{x=-791, y=163, z=329}.
-[20:54:59] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-790.5313140153885, 164.625, 329.4202196896076) too far away from hit block class_2338{x=-791, y=163, z=329}.
-[20:55:00] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-790.5344367623329, 164.625, 329.4206098020077) too far away from hit block class_2338{x=-791, y=163, z=329}.
-[21:14:34] [Server thread/INFO]: alkeys is now AFK.
-[21:17:03] [Server thread/INFO]: alkeys is no longer AFK.
-[21:19:03] [Server thread/INFO]: alkeys lost connection: Disconnected
-[21:19:03] [Server thread/INFO]: alkeys left the game
+[04:00:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/elserversex/libraries/net/fabricmc/sponge-mixin/0.17.2+mixin.0.8.7/sponge-mixin-0.17.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[04:00:16] [main/INFO]: Compatibility level set to JAVA_17
+[04:00:16] [main/INFO]: Compatibility level set to JAVA_21
+[04:00:16] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:16] [main/WARN]: Reference map 'balm.refmap.json' for balm.api.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:16] [main/WARN]: Reference map 'balm.refmap.json' for balm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:16] [main/WARN]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:16] [main/WARN]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:16] [main/WARN]: Reference map 'globalxp.refmap.json' for globalxp.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:16] [main/WARN]: Reference map 'hardcorerevival.refmap.json' for hardcorerevival.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:16] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:16] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:16] [main/INFO]: Loaded configuration file for Lithium: 171 options available, 0 override(s) found.
+[04:00:16] [main/WARN]: Reference map 'nemos_woodcutter.refmap.json' for nemos_woodcutter.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:16] [main/WARN]: Reference map 'nemos_woodcutter.refmap.json' for nemos_woodcutter.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:17] [main/WARN]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:17] [main/WARN]: Reference map 'skinrestorer.refmap.json' for skinrestorer.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:17] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:17] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:17] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:17] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:17] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:17] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerominimap.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:00:17] [main/WARN]: Error loading class: net/minecraft/class_9976 (java.lang.ClassNotFoundException: net/minecraft/class_9976)
+[04:00:17] [main/WARN]: @Mixin target net.minecraft.class_9976 was not found coolrain.mixins.json:RainMixin from mod coolrain
+[04:00:18] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[04:00:18] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[04:00:19] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[04:00:20] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[04:00:36] [main/INFO]: [CommandBlocker] Mod cargado! Comandos bloqueados: [op, give, gm, teleport, xp, experience, tp, gamemode]
+[04:00:36] [main/INFO]: [Dynamic Lights] MidnightLib detected!
+[04:00:36] [main/INFO]: [Dynamic Lights] Registering server started event ...
+[04:00:36] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[04:00:36] [main/INFO]: [EssentialCommands]: Mod Load Initiated.
+[04:00:37] [main/INFO]: [EssentialCommands]: Mod Load Complete.
+[04:00:38] [main/INFO]: Loaded config farmersdelight-common.json
+[04:00:38] [ForkJoinPool.commonPool-worker-1/INFO]: Essential Commands is up to date!
+[04:00:38] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 3.x.x (Linux x86_64)
+[04:00:39] [main/INFO]: Definitely not up to no good
+[04:00:39] [main/INFO]: Thank you for using Nemo's Woodcutter!
+[04:00:39] [main/INFO]: Registering creative mode tabs
+[04:00:39] [main/INFO]: Registering recipe serializer
+[04:00:39] [main/INFO]: Register recipe types
+[04:00:39] [main/INFO]: Registering recipe book categories
+[04:00:39] [main/INFO]: Registering recipe displays
+[04:00:39] [main/INFO]: Registering menu types
+[04:00:39] [main/INFO]: [ServerCore] Loaded V1.5.15+1.21.11!
+[04:00:40] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[04:00:40] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[04:00:40] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[04:00:40] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[04:00:41] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[04:00:41] [main/INFO]: Registering common data for channel xaerolib:main!
+[04:00:41] [main/INFO]: Loading primary common config for channel xaerolib:main!
+[04:00:41] [main/INFO]: Loading server config profiles for channel xaerolib:main!
+[04:00:41] [main/INFO]: Loading XaeroLib common 1/2!
+[04:00:41] [main/INFO]: Loading XaeroLib server 1/2!
+[04:00:41] [main/INFO]: Registering common data for channel xaerominimap:main!
+[04:00:41] [main/INFO]: Loading primary common config for channel xaerominimap:main!
+[04:00:41] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
+[04:00:41] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[04:00:42] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[04:00:48] [main/INFO]: Loaded 2316 recipes
+[04:00:48] [main/INFO]: Loaded 2410 advancements
+[04:00:48] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
+[04:00:49] [main/INFO]: Applied 144 biome modifications to 64 of 65 new biomes in 19.18 ms
+[04:00:49] [Server thread/INFO]: Loading XaeroLib common 2/2!
+[04:00:49] [Server thread/INFO]: Loading XaeroLib server 2/2!
+[04:00:49] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[04:00:49] [Server thread/INFO]: Loading properties
+[04:00:49] [Server thread/INFO]: Default game type: SURVIVAL
+[04:00:49] [Server thread/INFO]: Generating keypair
+[04:00:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:00:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:00:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:00:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:00:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:00:50] [Server thread/INFO]: Preparing level "world"
+[04:00:52] [Server thread/INFO]: Loading 0 persistent chunks...
+[04:00:52] [Server thread/INFO]: Preparing spawn area: 100%
+[04:00:52] [Server thread/INFO]: Time elapsed: 15 ms
+[04:00:52] [Server thread/INFO]: Done (2.418s)! For help, type "help"
+[04:00:52] [Server thread/INFO]: [Dynamic Lights] Sending global config to world ...
+[04:00:52] [Server thread/INFO]: Possible world ids: minecraft:overworld,minecraft:the_end,minecraft:the_nether
+[04:00:52] [Server thread/INFO]: Configured `rtp_enabled_worlds` world ids: minecraft:overworld
+[04:00:52] [Server thread/INFO]: All configured `rtp_enabled_worlds` world ids are valid.
+[04:00:52] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[04:03:01] [Server thread/INFO]: bryan13[/127.255.86.34:50739] logged in with entity id 56 at (-8147.699999988079, 69.0, 2302.69701713701)
+[04:03:01] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'f58785a7-6f31-3493-86e0-bef8c4556536'.
+[04:03:01] [Server thread/INFO]: bryan13 joined the game
+[04:03:01] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'f58785a7-6f31-3493-86e0-bef8c4556536'.
+[04:03:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[04:05:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2293ms or 45 ticks behind
+[04:25:22] [Server thread/INFO]: alkeys[/127.71.128.12:48483] logged in with entity id 25087 at (-814.2562802280545, 128.0, 316.79014756013703)
+[04:25:22] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[04:25:23] [Server thread/INFO]: alkeys joined the game
+[04:25:23] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[04:25:35] [Server thread/INFO]: [Not Secure] <bryan13> cmamo xd
+[04:25:39] [Server thread/INFO]: [Not Secure] <alkeys> hot mudo ajaja
+[04:25:42] [Server thread/INFO]: [Not Secure] <alkeys> a si
+[04:25:46] [Server thread/INFO]: [Not Secure] <alkeys> andas vallas rojas
+[04:25:58] [Server thread/INFO]: [Not Secure] <bryan13> ya veo
+[04:26:06] [Server thread/INFO]: [Not Secure] <alkeys> qie eso me falta para terminar
+[04:26:32] [Server thread/INFO]: [Not Secure] <bryan13> no
+[04:26:35] [Server thread/INFO]: [Not Secure] <alkeys> f
+[04:26:41] [Server thread/INFO]: [Not Secure] <alkeys> va tocar
+[04:26:44] [Server thread/INFO]: [Not Secure] <alkeys> ir
+[04:26:47] [Server thread/INFO]: [Not Secure] <bryan13> se
+[04:27:08] [Server thread/INFO]: [Not Secure] <alkeys> al tp cerdos veni
+[04:27:29] [Server thread/INFO]: Tree reached max size of 100
+[04:27:30] [Server thread/INFO]: Tree reached max size of 100
+[04:27:31] [Server thread/INFO]: Tree reached max size of 100
+[04:27:32] [Server thread/INFO]: Tree reached max size of 100
+[04:27:33] [Server thread/INFO]: Tree reached max size of 100
+[04:27:33] [Server thread/INFO]: Tree reached max size of 100
+[04:27:34] [Server thread/INFO]: Tree reached max size of 100
+[04:27:47] [Server thread/INFO]: Tree reached max size of 100
+[04:27:54] [Server thread/INFO]: [Not Secure] <bryan13> ire x la acha
+[04:27:55] [Server thread/INFO]: Tree reached max size of 100
+[04:27:57] [Server thread/INFO]: Tree reached max size of 100
+[04:27:58] [Server thread/INFO]: [Not Secure] <alkeys> va
+[04:28:12] [Server thread/INFO]: [Not Secure] <alkeys> aunque creo que ya tengo lo suficiente
+[04:28:45] [Server thread/INFO]: [Not Secure] <alkeys> bien ya me alcansa
+[04:28:57] [Server thread/INFO]: Tree reached max size of 100
+[04:29:01] [Server thread/INFO]: Tree reached max size of 100
+[04:29:02] [Server thread/INFO]: Tree reached max size of 100
+[04:29:03] [Server thread/INFO]: Tree reached max size of 100
+[04:29:04] [Server thread/INFO]: Tree reached max size of 100
+[04:29:06] [Server thread/INFO]: Tree reached max size of 100
+[04:29:07] [Server thread/INFO]: Tree reached max size of 100
+[04:29:07] [Server thread/INFO]: Tree reached max size of 100
+[04:29:09] [Server thread/INFO]: Tree reached max size of 100
+[04:29:09] [Server thread/INFO]: Tree reached max size of 100
+[04:29:10] [Server thread/INFO]: Tree reached max size of 100
+[04:29:10] [Server thread/INFO]: Tree reached max size of 100
+[04:29:11] [Server thread/INFO]: Tree reached max size of 100
+[04:29:11] [Server thread/INFO]: Tree reached max size of 100
+[04:29:12] [Server thread/INFO]: Tree reached max size of 100
+[04:29:13] [Server thread/INFO]: Tree reached max size of 100
+[04:29:13] [Server thread/INFO]: Tree reached max size of 100
+[04:29:20] [Server thread/INFO]: Tree reached max size of 100
+[04:29:21] [Server thread/INFO]: Tree reached max size of 100
+[04:29:25] [Server thread/INFO]: Tree reached max size of 100
+[04:29:26] [Server thread/INFO]: Tree reached max size of 100
+[04:29:57] [Server thread/INFO]: Tree reached max size of 100
+[04:29:58] [Server thread/INFO]: [Not Secure] <alkeys> ya beni
+[04:30:33] [Server thread/INFO]: [Not Secure] <alkeys> al afk
+[04:30:43] [Server thread/INFO]: [Not Secure] <bryan13> voy
+[04:30:54] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[04:31:01] [Server thread/INFO]: [Not Secure] <alkeys> esperemos un minuto jaja
+[04:31:07] [Server thread/INFO]: [Not Secure] <bryan13> dale
+[04:31:30] [Server thread/INFO]: [Not Secure] <alkeys> va que no instalaste el mob de camara libre
+[04:31:30] [Server thread/INFO]: [Not Secure] <alkeys> jaja
+[04:31:46] [Server thread/INFO]: [Not Secure] <bryan13> no xd no lo encontre xd
+[04:31:51] [Server thread/INFO]: [Not Secure] <alkeys> a jajaa
+[04:32:02] [Server thread/INFO]: [Not Secure] <alkeys> vamos
+[04:32:07] [Server thread/INFO]: [Not Secure] <bryan13> ya lo buscare bien en el chat
+[04:32:29] [Server thread/INFO]: [Not Secure] <alkeys> a la gran
+[04:32:41] [Server thread/INFO]: [Not Secure] <bryan13> aqui 2 llenos
+[04:32:55] [Server thread/INFO]: [Not Secure] <alkeys> me voy a robr un poco de cuero ajaj
+[04:33:16] [Server thread/INFO]: [Not Secure] <alkeys> para que comida ajja
+[04:33:29] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[04:33:34] [Server thread/INFO]: [Not Secure] <alkeys> bueno ya tenemos ajaa
+[04:33:39] [Server thread/INFO]: [Not Secure] <bryan13> seeee
+[04:34:02] [Server thread/INFO]: [Not Secure] <alkeys> y cuero que cuesta jaa
+[04:34:11] [Server thread/INFO]: [Not Secure] <bryan13> se xd
+[04:34:28] [Server thread/INFO]: [Not Secure] <alkeys> le hacemos otro nivel a la granja de hierro
+[04:34:40] [Server thread/INFO]: [Not Secure] <bryan13> demole
+[04:34:58] [Server thread/INFO]: [Not Secure] <alkeys> eso falta
+[04:34:59] [Server thread/INFO]: [Not Secure] <alkeys> ajaj
+[04:35:24] [Server thread/ERROR]: Received message for sync ID 49, current sync ID: 50
+[04:35:43] [Server thread/INFO]: [Not Secure] <bryan13> la de hilo es de hacer xd
+[04:35:50] [Server thread/INFO]: [Not Secure] <alkeys> see esa mejor ajaja
+[04:36:36] [Server thread/INFO]: [Not Secure] <bryan13> que trabado en la granja de hierro xd
+[04:36:50] [Server thread/INFO]: [Not Secure] <alkeys> see y la de piedra me quede sin piedra ajjaaja
+[04:36:57] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[04:37:02] [Server thread/INFO]: [Not Secure] <alkeys> desactivade el iman ajja
+[04:37:04] [Server thread/INFO]: [Not Secure] <alkeys> si no f ajaj
+[04:37:12] [Server thread/INFO]: [Not Secure] <bryan13> ya xd
+[04:37:18] [Server thread/INFO]: [Not Secure] <alkeys> como c hace la de ilo
+[04:37:21] [Server thread/INFO]: [Not Secure] <alkeys> ?
+[04:37:38] [Server thread/INFO]: [Not Secure] <bryan13> con llaves hilo agua y no me acuerdo que mas
+[04:37:47] [Server thread/INFO]: [Not Secure] <alkeys> jaaj
+[04:37:49] [Server thread/INFO]: [Not Secure] <alkeys> voy a buscar
+[04:37:50] [Server thread/INFO]: [Not Secure] <alkeys> jaja
+[04:40:27] [Server thread/INFO]: [Not Secure] <alkeys> ya te envie el video
+[04:40:34] [Server thread/INFO]: [Not Secure] <bryan13> voy
+[04:41:56] [Server thread/INFO]: [Not Secure] <bryan13> dee piedra lo haremos
+[04:42:06] [Server thread/INFO]: [Not Secure] <alkeys> see
+[04:42:14] [Server thread/INFO]: [Not Secure] <alkeys> ni modo ajja
+[04:42:21] [Server thread/INFO]: [Not Secure] <bryan13> are lo demas
+[04:42:31] [Server thread/INFO]: [Not Secure] <alkeys> trapillas tenes?
+[04:42:43] [Server thread/INFO]: [Not Secure] <bryan13> si
+[04:44:04] [Server thread/INFO]: [Not Secure] <alkeys> ponelas ahi
+[04:44:05] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[04:45:01] [Server thread/INFO]: [Not Secure] <alkeys> palancas
+[04:45:38] [Server thread/INFO]: [Not Secure] <bryan13> voy
+[04:45:56] [Server thread/INFO]: [Not Secure] <alkeys> ya tengo una jaja
+[04:46:21] [Server thread/INFO]: [Not Secure] <bryan13> llave
+[04:46:23] [Server thread/INFO]: [Not Secure] <alkeys> los gancho no tengo consegui
+[04:47:24] [Server thread/INFO]: [Not Secure] <bryan13> 2 va
+[04:47:27] [Server thread/INFO]: [Not Secure] <alkeys> se
+[04:47:33] [Server thread/INFO]: [Not Secure] <bryan13> ya
+[04:48:06] [Server thread/INFO]: [Not Secure] <alkeys> ponelas si queres
+[04:48:07] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[04:49:45] [Server thread/INFO]: [Not Secure] <alkeys> pone lo otro conseguire tolvas
+[04:49:54] [Server thread/INFO]: [Not Secure] <bryan13> voy
+[04:52:09] [Server thread/INFO]: [Not Secure] <alkeys> a que icimos mal ajaja
+[04:52:27] [Server thread/INFO]: [Not Secure] <alkeys> ajaa
+[04:53:19] [Server thread/INFO]: [Not Secure] <bryan13> tijera
+[04:54:10] [Server thread/INFO]: [Not Secure] <alkeys> proba
+[04:55:11] [Server thread/INFO]: [Not Secure] <alkeys> jaaj
+[04:56:10] [Server thread/INFO]: [Not Secure] <alkeys> ta raro va
+[04:56:31] [Server thread/INFO]: [Not Secure] <bryan13> no tiene que quedar arriba las llaves no abajo al cortar
+[04:57:58] [Server thread/INFO]: [Not Secure] <alkeys> pera
+[04:58:09] [Server thread/INFO]: [Not Secure] <alkeys> corta
+[04:58:20] [Server thread/INFO]: [Not Secure] <alkeys> a jaaj
+[04:58:53] [Server thread/INFO]: [Not Secure] <alkeys> boy haber otro video dale ajaj
+[04:58:55] [Server thread/INFO]: [Not Secure] <alkeys> segui
+[04:59:49] [Server thread/INFO]: [Not Secure] <alkeys> ya c que es vajamole un nivel
+[05:00:01] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[05:01:02] [Server thread/INFO]: [Not Secure] <alkeys> proba
+[05:01:07] [Server thread/INFO]: [Not Secure] <bryan13> la otra xd
+[05:01:21] [Server thread/INFO]: [Not Secure] <alkeys> a jaaj
+[05:01:37] [Server thread/INFO]: [Not Secure] <alkeys> a laajaajaja
+[05:02:06] [Server thread/INFO]: [Not Secure] <alkeys> voy a revisar no creo qeu sea la trampilla va
+[05:02:58] [Server thread/INFO]: [Not Secure] <bryan13> capas
+[05:03:26] [Server thread/INFO]: [Not Secure] <alkeys> jajaaja
+[05:03:39] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[05:03:53] [Server thread/INFO]: [Not Secure] <alkeys> a pera
+[05:04:26] [Server thread/INFO]: [Not Secure] <alkeys> ajja nada
+[05:04:48] [Server thread/INFO]: [Not Secure] <alkeys> a ya vi que es
+[05:04:54] [Server thread/INFO]: [Not Secure] <bryan13> el que
+[05:04:55] [Server thread/INFO]: [Not Secure] <alkeys> el agua esta mal
+[05:06:14] [Server thread/INFO]: [Not Secure] <alkeys> pro esta mamada tiene que llevar orientacion ajjaa
+[05:06:24] [Server thread/INFO]: [Not Secure] <bryan13> al norte
+[05:06:27] [Server thread/INFO]: [Not Secure] <alkeys> este
+[05:06:39] [Server thread/INFO]: [Not Secure] <alkeys> presta
+[05:07:04] [Server thread/INFO]: [Not Secure] <bryan13> para aqui tiene que ver
+[05:07:14] [Server thread/INFO]: [Not Secure] <alkeys> para el este tenes qeu ver
+[05:07:27] [Server thread/INFO]: [Not Secure] <bryan13> no es al norte
+[05:07:31] [Server thread/INFO]: [Not Secure] <alkeys> madre no da aaja
+[05:07:45] [Server thread/INFO]: [Not Secure] <bryan13> ptobemos al norte xd
+[05:08:04] [Server thread/INFO]: [Not Secure] <alkeys> jaja
+[05:08:54] [Server thread/INFO]: [Not Secure] <alkeys> es que esta bien aqui pero cuando cortas tenes qeu ver a este dise el video
+[05:08:56] [Server thread/INFO]: [Not Secure] <alkeys> pero no da jaja
+[05:09:05] [Server thread/INFO]: [Not Secure] <bryan13> puya
+[05:09:32] [Server thread/INFO]: [Not Secure] <alkeys> jaja
+[05:09:54] [Server thread/INFO]: [Not Secure] <alkeys> a es que esta mamda solo funca en local aja
+[05:10:19] [Server thread/INFO]: [Not Secure] <bryan13> me acuerdo que si jala aqui
+[05:10:35] [Server thread/INFO]: [Not Secure] <alkeys> te envie un videio
+[05:10:50] [Server thread/INFO]: [Not Secure] <alkeys> pero solo jala en local no en server jajaja
+[05:11:13] [Server thread/INFO]: [Not Secure] <bryan13> taa raro xd
+[05:11:22] [Server thread/INFO]: [Not Secure] <bryan13> ya me dio sueño man xd
+[05:11:23] [Server thread/INFO]: [Not Secure] <alkeys> see
+[05:11:24] [Server thread/INFO]: [Not Secure] <alkeys> jaaja
+[05:11:35] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[05:11:43] [Server thread/INFO]: [Not Secure] <alkeys> la edad
+[05:11:57] [Server thread/INFO]: [Not Secure] <bryan13> man se
+[05:12:09] [Server thread/INFO]: [Not Secure] <alkeys> jaa
+[05:12:25] [Server thread/INFO]: [Not Secure] <alkeys> si quere le damos mañana entonces ajaja
+[05:12:39] [Server thread/INFO]: [Not Secure] <bryan13> seeee hoy se xd
+[05:12:50] [Server thread/INFO]: [Not Secure] <alkeys> a va
+[05:12:56] [Server thread/INFO]: [Not Secure] <alkeys> vapues ajaja
+[05:12:58] [Server thread/INFO]: [Not Secure] <bryan13> hasta me ormiguea el cuerpo
+[05:13:04] [Server thread/INFO]: [Not Secure] <bryan13> vapue man
+[05:13:04] [Server thread/INFO]: [Not Secure] <alkeys> jajja le das un commit
+[05:13:07] [Server thread/INFO]: alkeys lost connection: Disconnected
+[05:13:07] [Server thread/INFO]: alkeys left the game
+[05:13:08] [Server thread/INFO]: bryan13 lost connection: Disconnected
+[05:13:08] [Server thread/INFO]: bryan13 left the game
+[05:13:30] [Server thread/INFO]: Stopping the server
+[05:13:30] [Server thread/INFO]: Stopping server
+[05:13:30] [Server thread/INFO]: Saving players
+[05:13:30] [Server thread/INFO]: Saving worlds
+[05:13:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:13:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:13:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:13:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:13:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:13:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:13:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

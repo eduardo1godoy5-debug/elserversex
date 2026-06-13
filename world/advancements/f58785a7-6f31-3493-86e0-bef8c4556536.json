@@ -5873,6 +5873,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2026-06-13 05:12:25 +0000",
       "potato": "2026-05-12 04:31:39 +0000",
       "wheat": "2026-05-11 06:21:21 +0000",
       "pumpkin": "2026-06-10 16:41:34 +0000",
