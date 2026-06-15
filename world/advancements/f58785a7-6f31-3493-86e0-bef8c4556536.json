@@ -8325,5 +8325,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/nether_smithing": {
+    "criteria": {
+      "has_nether": "2026-06-15 22:55:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
