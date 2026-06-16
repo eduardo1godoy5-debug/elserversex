@@ -7937,6 +7937,7 @@
   },
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
+      "nether_port": "2026-06-16 05:48:03 +0000",
       "fortress": "2026-06-07 15:11:20 +0000"
     },
     "done": false
@@ -8328,6 +8329,30 @@
   "travelersbackpack:recipes/misc/nether_smithing": {
     "criteria": {
       "has_nether": "2026-06-15 22:55:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "smoked_ham": "2026-06-16 05:20:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2026-06-16 05:20:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2026-06-16 05:24:19 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_port": {
+    "criteria": {
+      "nova_structures:nether_port": "2026-06-16 05:48:03 +0000"
     },
     "done": true
   },
