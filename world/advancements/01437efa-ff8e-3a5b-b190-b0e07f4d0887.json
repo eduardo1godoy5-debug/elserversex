@@ -383,6 +383,7 @@
       "minecraft:zombified_piglin": "2026-05-12 04:04:40 +0000",
       "minecraft:wither_skeleton": "2026-05-21 18:35:36 +0000",
       "minecraft:husk": "2026-05-07 05:42:38 +0000",
+      "minecraft:shulker": "2026-06-17 04:20:44 +0000",
       "minecraft:breeze": "2026-05-07 05:42:41 +0000",
       "minecraft:enderman": "2026-05-02 05:01:13 +0000",
       "minecraft:magma_cube": "2026-05-21 18:29:15 +0000",
@@ -412,6 +413,7 @@
       "cooked_porkchop": "2026-05-04 05:31:39 +0000",
       "bread": "2026-04-27 03:56:24 +0000",
       "golden_apple": "2026-05-07 06:03:39 +0000",
+      "rotten_flesh": "2026-06-17 03:55:46 +0000",
       "cooked_mutton": "2026-04-30 06:08:27 +0000",
       "glow_berries": "2026-05-04 05:49:18 +0000",
       "sweet_berries": "2026-04-27 03:56:12 +0000",
@@ -5538,15 +5540,99 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2026-06-14 04:13:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2026-06-14 04:57:41 +0000"
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
-      "in_stronghold": "2026-06-14 04:13:40 +0000"
+      "has_end_stone": "2026-06-17 04:07:13 +0000"
+    },
+    "done": true
+  },
+  "lootr:1frame": {
+    "criteria": {
+      "looted_frame": "2026-06-17 04:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-06-17 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2026-06-17 04:07:13 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "fortress": "2026-06-17 03:34:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-06-17 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2026-06-17 04:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-06-17 04:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-06-17 04:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-06-17 03:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-06-17 04:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-06-17 04:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2026-06-17 04:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-06-17 03:51:47 +0000"
     },
     "done": true
   },
