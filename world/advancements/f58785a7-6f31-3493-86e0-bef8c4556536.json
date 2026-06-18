@@ -8719,5 +8719,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_chest_from_honeycomb": {
+    "criteria": {
+      "has_copper_chest": "2026-06-18 22:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2026-06-18 22:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2026-06-18 22:29:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
