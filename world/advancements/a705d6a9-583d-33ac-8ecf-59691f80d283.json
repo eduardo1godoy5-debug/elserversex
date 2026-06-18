@@ -8890,12 +8890,6 @@
     },
     "done": false
   },
-  "farmersdelight:recipes/food/smoked_ham": {
-    "criteria": {
-      "has_ham": "2026-06-18 05:29:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2026-06-18 05:09:09 +0000"
@@ -8908,15 +8902,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
-    "criteria": {
-      "has_snout_armor_trim_smithing_template": "2026-06-18 05:29:57 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/get_ham": {
     "criteria": {
       "smoked_ham": "2026-06-18 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2026-06-18 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2026-06-18 05:29:57 +0000"
     },
     "done": true
   },
@@ -8926,9 +8926,93 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+  "farmersdelight:recipes/food/smoked_ham": {
     "criteria": {
-      "has_smoked_ham": "2026-06-18 05:16:06 +0000"
+      "has_ham": "2026-06-18 05:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2026-06-18 18:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2026-06-18 18:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2026-06-18 18:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-06-18 17:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2026-06-18 18:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2026-06-18 17:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-06-18 17:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2026-06-18 17:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/red_bundle": {
+    "criteria": {
+      "has_red_dye": "2026-06-18 17:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-06-18 17:26:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_red_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2026-06-18 17:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2026-06-18 17:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_red_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-06-18 17:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2026-06-18 18:40:55 +0000"
     },
     "done": true
   },

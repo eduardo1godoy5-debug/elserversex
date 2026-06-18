@@ -8695,6 +8695,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2026-06-18 05:06:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2026-06-18 05:07:05 +0000"
@@ -8710,12 +8716,6 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2026-06-18 05:07:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2026-06-18 05:06:54 +0000"
     },
     "done": true
   },
