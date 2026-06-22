@@ -1,691 +1,448 @@
-[16:08:18] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.19.2
-[16:08:19] [main/WARN]: Warnings were found!
- - Mod 'Forge Config API Port' (forgeconfigapiport) 21.11.1 recommends any version of modmenu, which is missing!
-	 - You should install any version of modmenu for the optimal experience.
-[16:08:19] [main/INFO]: Loading 129 mods:
-	- balm 21.11.9
-	   \-- kuma_api 21.11.12
-	- cardinal-components 7.3.1
-	   |-- cardinal-components-base 7.3.1
-	   |-- cardinal-components-block 7.3.1
-	   |-- cardinal-components-chunk 7.3.1
-	   |-- cardinal-components-entity 7.3.1
-	   |-- cardinal-components-item 7.3.1
-	   |-- cardinal-components-level 7.3.1
-	   |-- cardinal-components-scoreboard 7.3.1
-	   \-- cardinal-components-world 7.3.1
-	- carryon 2.9.0
-	- chisel 2.2.0+mc1.21.11
-	- cloth-config 21.11.153
-	   \-- cloth-basic-math 0.6.1
-	- commandblocker 1.0.0
-	- coolrain 1.4.0-1.21.11
-	   \-- midnightlib 1.9.2
-	- cryonicconfig 1.0.0+mc1.21.11
-	- dynamiclights 1.9.2+mod
-	- essential_commands 0.38.6-mc1.21.11
-	   |-- ec-core 1.3.0-mc1.21.11
-	   |-- fabric-permissions-api-v0 0.6.1
-	   |-- org_yaml_snakeyaml 2.5
-	   |-- placeholder-api 2.8.1+1.21.10
-	   \-- playerabilitylib 1.15.0
-	- fabric-api 0.141.3+1.21.11
-	   |-- fabric-api-base 1.0.5+4ebb5c083e
-	   |-- fabric-api-lookup-api-v1 1.6.114+20dc27073e
-	   |-- fabric-biome-api-v1 17.1.1+4fc5413f3e
-	   |-- fabric-block-api-v1 1.1.10+4ebb5c083e
-	   |-- fabric-block-view-api-v2 1.0.39+4ebb5c083e
-	   |-- fabric-command-api-v2 2.4.7+6b42a6003e
-	   |-- fabric-content-registries-v0 10.2.14+4fc5413f3e
-	   |-- fabric-convention-tags-v1 2.1.55+7f945d5b3e
-	   |-- fabric-convention-tags-v2 2.17.3+8ef948ba3e
-	   |-- fabric-crash-report-info-v1 0.3.23+4ebb5c083e
-	   |-- fabric-data-attachment-api-v1 1.8.47+eed0806f3e
-	   |-- fabric-data-generation-api-v1 23.4.0+69974c4e3e
-	   |-- fabric-dimensions-v1 4.0.28+4fc5413f3e
-	   |-- fabric-entity-events-v1 3.1.1+1d0ab4303e
-	   |-- fabric-events-interaction-v0 4.1.0+3b89ecf63e
-	   |-- fabric-game-rule-api-v1 2.0.3+4fc5413f3e
-	   |-- fabric-item-api-v1 11.5.20+d0c46b9e3e
-	   |-- fabric-item-group-api-v1 4.2.36+4fc5413f3e
-	   |-- fabric-key-binding-api-v1 1.1.7+4fc5413f3e
-	   |-- fabric-lifecycle-events-v1 2.6.15+4ebb5c083e
-	   |-- fabric-loot-api-v2 3.0.73+3f89f5a53e
-	   |-- fabric-loot-api-v3 2.0.20+78c8b4663e
-	   |-- fabric-message-api-v1 6.1.12+4ebb5c083e
-	   |-- fabric-model-loading-api-v1 6.0.15+4fc5413f3e
-	   |-- fabric-networking-api-v1 5.1.5+ae1e07683e
-	   |-- fabric-object-builder-api-v1 21.1.39+4fc5413f3e
-	   |-- fabric-particles-v1 4.2.11+4fc5413f3e
-	   |-- fabric-recipe-api-v1 8.2.3+4ebb5c083e
-	   |-- fabric-registry-sync-v0 6.2.5+1718722b3e
-	   |-- fabric-renderer-api-v1 8.0.3+f4ffd2e53e
-	   |-- fabric-renderer-indigo 5.0.3+f4ffd2e53e
-	   |-- fabric-rendering-fluids-v1 3.1.43+4ebb5c083e
-	   |-- fabric-rendering-v1 16.2.10+0290ad933e
-	   |-- fabric-resource-conditions-api-v1 5.0.35+4fc5413f3e
-	   |-- fabric-resource-loader-v0 3.3.4+4fc5413f3e
-	   |-- fabric-resource-loader-v1 1.0.10+78c8b4663e
-	   |-- fabric-screen-api-v1 3.1.7+4ebb5c083e
-	   |-- fabric-screen-handler-api-v1 1.3.161+4fc5413f3e
-	   |-- fabric-serialization-api-v1 1.0.5+4ebb5c083e
-	   |-- fabric-sound-api-v1 1.0.51+4fc5413f3e
-	   |-- fabric-tag-api-v1 1.2.20+4fc5413f3e
-	   |-- fabric-transfer-api-v1 6.0.25+4fc5413f3e
-	   \-- fabric-transitive-access-wideners-v1 7.1.0+014c8cec3e
-	- fabric-language-kotlin 1.13.11+kotlin.2.3.21
-	   |-- org_jetbrains_kotlin_kotlin-reflect 2.3.21
-	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.3.21
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.3.21
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.3.21
-	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.32.1
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
-	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
-	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.9.0
-	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.9.0
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.11.0
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.11.0
-	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.11.0
-	- fabricloader 0.19.2
-	   \-- mixinextras 0.5.4
-	- fallingtree 1.21.11.3
-	- farmersdelight 1.21.11-3.4.9+refabricated
-	   \-- mm 2.3
-	- ferritecore 8.2.0
-	- forgeconfigapiport 21.11.1
-	   |-- com_electronwill_night-config_core 3.8.3
-	   \-- com_electronwill_night-config_toml 3.8.3
-	- geckolib 5.4.5
-	- globalxp 1.12.2
-	- hardcorerevival 21.11.5
-	- ironchest 2.0.5
-	   \-- libgui 15.1.0+1.21.11
-	        |-- jankson 11.0.0+j1.2.3
-	        |    \-- blue_endless_jankson 1.2.3
-	        \-- libninepatch 1.2.0
-	- java 25
-	- krypton 0.2.10
-	   \-- com_velocitypowered_velocity-native 3.4.0-SNAPSHOT
-	- lithium 0.21.4+mc1.21.11
-	- lithostitched 1.7.2
-	- lootr 1.21.11-1.20.34.103
-	- minecraft 1.21.11
-	- mr_dungeons_andtaverns 1-v5.1.0
-	- nemos_woodcutter 1.21.11-1.14.1
-	- polymer-bundled 0.15.2+1.21.11
-	   |-- polymer-autohost 0.15.2+1.21.11
-	   |-- polymer-blocks 0.15.2+1.21.11
-	   |-- polymer-common 0.15.2+1.21.11
-	   |    \-- packet_tweaker 0.6.0+1.21.10
-	   |-- polymer-core 0.15.2+1.21.11
-	   |    |-- polymer-networking 0.15.2+1.21.11
-	   |    |    \-- polymer-common 0.15.2+1.21.11
-	   |    |         \-- packet_tweaker 0.6.0+1.21.10
-	   |    \-- polymer-registry-sync-manipulator 0.15.2+1.21.11
-	   |-- polymer-resource-pack 0.15.2+1.21.11
-	   |    \-- polymer-common 0.15.2+1.21.11
-	   |         \-- packet_tweaker 0.6.0+1.21.10
-	   |-- polymer-resource-pack-extras 0.15.2+1.21.11
-	   |-- polymer-sound-patcher 0.15.2+1.21.11
-	   \-- polymer-virtual-entity 0.15.2+1.21.11
-	        \-- polymer-common 0.15.2+1.21.11
-	             \-- packet_tweaker 0.6.0+1.21.10
-	- servercore 1.5.15+1.21.11
-	   |-- org_yaml_snakeyaml 2.5
-	   |-- placeholder-api 2.8.1+1.21.10
-	   |-- space_arim_dazzleconf_dazzleconf-core 1.3.0-M2
-	   \-- space_arim_dazzleconf_dazzleconf-ext-snakeyaml 1.3.0-M2
-	- skinrestorer 2.7.0+1.21.11-fabric
-	   \-- org_mineskin_java-client 3.2.1-SNAPSHOT
-	- travelersbackpack 10.11.9
-	- universal-graves 3.10.2+1.21.11
-	   |-- common-protection-api 1.0.0
-	   |-- placeholder-api 2.8.1+1.21.10
-	   |-- predicate-api 0.7.0+1.21.11
-	   |-- server_translations_api 2.5.2+1.21.9-pre3
-	   \-- sgui 1.11.0+1.21.9
-	- waystones 21.11.9
-	- xaerominimap 25.3.10
-	   \-- xaerolib 1.1.0
-[16:08:19] [main/WARN]: Found 1 non-fabric mod:
-	- LuckPerms-Bukkit-5.5.17.jar
-[16:08:20] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/elserversex/libraries/net/fabricmc/sponge-mixin/0.17.2+mixin.0.8.7/sponge-mixin-0.17.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[16:08:20] [main/INFO]: Compatibility level set to JAVA_17
-[16:08:20] [main/INFO]: Compatibility level set to JAVA_21
-[16:08:20] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:20] [main/WARN]: Reference map 'balm.refmap.json' for balm.api.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:20] [main/WARN]: Reference map 'balm.refmap.json' for balm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:20] [main/WARN]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:20] [main/WARN]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:20] [main/WARN]: Reference map 'globalxp.refmap.json' for globalxp.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:20] [main/WARN]: Reference map 'hardcorerevival.refmap.json' for hardcorerevival.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:20] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:20] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:20] [main/INFO]: Loaded configuration file for Lithium: 171 options available, 0 override(s) found.
-[16:08:20] [main/WARN]: Reference map 'nemos_woodcutter.refmap.json' for nemos_woodcutter.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:20] [main/WARN]: Reference map 'nemos_woodcutter.refmap.json' for nemos_woodcutter.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:21] [main/WARN]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:21] [main/WARN]: Reference map 'skinrestorer.refmap.json' for skinrestorer.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:21] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:21] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:21] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:21] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:21] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:21] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerominimap.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:08:21] [main/WARN]: Error loading class: net/minecraft/class_9976 (java.lang.ClassNotFoundException: net/minecraft/class_9976)
-[16:08:21] [main/WARN]: @Mixin target net.minecraft.class_9976 was not found coolrain.mixins.json:RainMixin from mod coolrain
-[16:08:22] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
-[16:08:22] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
-[16:08:22] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[16:08:23] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
-[16:08:38] [main/INFO]: [CommandBlocker] Mod cargado! Comandos bloqueados: [op, give, gm, teleport, xp, experience, tp, gamemode]
-[16:08:38] [main/INFO]: [Dynamic Lights] MidnightLib detected!
-[16:08:38] [main/INFO]: [Dynamic Lights] Registering server started event ...
-[16:08:38] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[16:08:38] [main/INFO]: [EssentialCommands]: Mod Load Initiated.
-[16:08:39] [main/INFO]: [EssentialCommands]: Mod Load Complete.
-[16:08:40] [main/INFO]: Loaded config farmersdelight-common.json
-[16:08:40] [ForkJoinPool.commonPool-worker-1/INFO]: Essential Commands is up to date!
-[16:08:40] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 3.x.x (Linux x86_64)
-[16:08:41] [main/INFO]: Definitely not up to no good
-[16:08:41] [main/INFO]: Thank you for using Nemo's Woodcutter!
-[16:08:41] [main/INFO]: Registering creative mode tabs
-[16:08:41] [main/INFO]: Registering recipe serializer
-[16:08:41] [main/INFO]: Register recipe types
-[16:08:41] [main/INFO]: Registering recipe book categories
-[16:08:41] [main/INFO]: Registering recipe displays
-[16:08:41] [main/INFO]: Registering menu types
-[16:08:41] [main/INFO]: [ServerCore] Loaded V1.5.15+1.21.11!
-[16:08:42] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[16:08:42] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[16:08:42] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[16:08:42] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[16:08:42] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[16:08:42] [main/INFO]: Registering common data for channel xaerolib:main!
-[16:08:42] [main/INFO]: Loading primary common config for channel xaerolib:main!
-[16:08:42] [main/INFO]: Loading server config profiles for channel xaerolib:main!
-[16:08:42] [main/INFO]: Loading XaeroLib common 1/2!
-[16:08:42] [main/INFO]: Loading XaeroLib server 1/2!
-[16:08:42] [main/INFO]: Registering common data for channel xaerominimap:main!
-[16:08:42] [main/INFO]: Loading primary common config for channel xaerominimap:main!
-[16:08:42] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
-[16:08:42] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[16:08:43] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[16:08:50] [main/INFO]: Loaded 2316 recipes
-[16:08:50] [main/INFO]: Loaded 2410 advancements
-[16:08:50] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
-[16:08:50] [main/INFO]: Applied 144 biome modifications to 64 of 65 new biomes in 12.85 ms
-[16:08:51] [Server thread/INFO]: Loading XaeroLib common 2/2!
-[16:08:51] [Server thread/INFO]: Loading XaeroLib server 2/2!
-[16:08:51] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[16:08:51] [Server thread/INFO]: Loading properties
-[16:08:51] [Server thread/INFO]: Default game type: SURVIVAL
-[16:08:51] [Server thread/INFO]: Generating keypair
-[16:08:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:08:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:08:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:08:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:08:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:08:51] [Server thread/INFO]: Preparing level "world"
-[16:08:52] [Server thread/INFO]: Loading 0 persistent chunks...
-[16:08:52] [Server thread/INFO]: Preparing spawn area: 100%
-[16:08:52] [Server thread/INFO]: Time elapsed: 15 ms
-[16:08:52] [Server thread/INFO]: Done (1.126s)! For help, type "help"
-[16:08:52] [Server thread/INFO]: [Dynamic Lights] Sending global config to world ...
-[16:08:52] [Server thread/INFO]: Possible world ids: minecraft:overworld,minecraft:the_end,minecraft:the_nether
-[16:08:52] [Server thread/INFO]: Configured `rtp_enabled_worlds` world ids: minecraft:overworld
-[16:08:52] [Server thread/INFO]: All configured `rtp_enabled_worlds` world ids are valid.
-[16:08:52] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[16:09:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:10:04] [Server thread/INFO]: alkeys[/127.207.167.26:44309] logged in with entity id 38 at (-8268.537803916048, 91.0, 2339.8408435217366)
-[16:10:04] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[16:10:04] [Server thread/INFO]: alkeys joined the game
-[16:10:04] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[16:10:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
-[16:10:47] [Server thread/INFO]: bryan13[/127.147.99.67:44465] logged in with entity id 803 at (-8144.380441945639, 69.0, 2305.358614174077)
-[16:10:47] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'f58785a7-6f31-3493-86e0-bef8c4556536'.
-[16:10:47] [Server thread/INFO]: bryan13 joined the game
-[16:10:47] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'f58785a7-6f31-3493-86e0-bef8c4556536'.
-[16:10:53] [Server thread/INFO]: [Not Secure] <bryan13> xd
-[16:11:00] [Server thread/INFO]: [Not Secure] <alkeys> solo hay una forma de farmiar esa wwa
-[16:11:02] [Server thread/INFO]: [Not Secure] <alkeys> wea
-[16:11:15] [Server thread/INFO]: [Not Secure] <bryan13> como con lana
-[16:11:23] [Server thread/INFO]: [Not Secure] <alkeys> no con golen de hierro muchos ajaa
-[16:11:48] [Server thread/INFO]: [Not Secure] <bryan13> va are calavasas
-[16:11:52] [Server thread/INFO]: [Not Secure] <bryan13> y bloques
-[16:11:53] [Server thread/INFO]: [Not Secure] <alkeys> a eso voy
-[16:12:15] [Server thread/INFO]: [Not Secure] <alkeys> see
-[16:12:36] [Server thread/INFO]: [Not Secure] <alkeys> que sirva de algo la granja de hierro
-[16:12:41] [Server thread/INFO]: [Not Secure] <bryan13> seee
-[16:14:09] [Server thread/INFO]: [Not Secure] <bryan13> 19 tengo
-[16:14:16] [Server thread/INFO]: [Not Secure] <alkeys> 64 io jaaj
-[16:14:23] [Server thread/INFO]: [Not Secure] <alkeys> creo que ya
-[16:14:24] [Server thread/INFO]: [Not Secure] <alkeys> jaja
-[16:14:28] [Server thread/INFO]: [Not Secure] <bryan13> madre y hoy hierro
-[16:14:31] [Server thread/INFO]: [Not Secure] <alkeys> aremos como 64 golend ajjaa
-[16:15:17] [Server thread/INFO]: [Not Secure] <alkeys> va me segis?
-[16:16:04] [Server thread/INFO]: [Not Secure] <alkeys> a bien
-[16:16:31] [Server thread/INFO]: [Not Secure] <alkeys> me avisas
-[16:16:35] [Server thread/INFO]: [Not Secure] <bryan13> ya
-[16:16:48] [Server thread/INFO]: [Not Secure] <alkeys> vamos entonces
-[16:16:56] [Server thread/INFO]: [Not Secure] <alkeys> xaero-waypoint:aqui:A:-6555:-30:1650:1:false:0:Internal-overworld
-[16:16:56] [Server thread/INFO]: [Not Secure] <bryan13> coetes xd
-[16:17:01] [Server thread/INFO]: [Not Secure] <alkeys> jaaj
-[16:17:26] [Server thread/INFO]: [Not Secure] <alkeys> ya
-[16:17:36] [Server thread/WARN]: bryan13 moved too quickly! 10.52847359176485,11.624854593253687,-8.851573539285255
-[16:17:36] [Server thread/WARN]: alkeys moved too quickly! 16.604130487324255,0.8293213700353022,-6.473789438642143
-[16:17:52] [Server thread/WARN]: bryan13 moved too quickly! 16.638531245273043,3.415395280182537,-6.323078856664324
-[16:17:52] [Server thread/WARN]: alkeys moved too quickly! 17.298369678834206,2.5352918088774175,-3.8806148962294174
-[16:18:22] [Server thread/WARN]: alkeys moved too quickly! 16.69467146898296,-1.9334120355710525,-5.017781542382409
-[16:18:22] [Server thread/WARN]: bryan13 moved too quickly! -9.986586462461673,-2.4012050015505224,14.154803888693777
-[16:18:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
-[16:18:30] [Server thread/WARN]: bryan13 moved too quickly! 16.046884857322766,-5.0273336842364245,-5.834905796254134
-[16:18:32] [Server thread/WARN]: alkeys moved too quickly! 16.254488928230785,-4.4017758890261405,-5.133628229576516
-[16:18:34] [Server thread/WARN]: bryan13 moved too quickly! 15.050276998644222,-3.9164790988562572,-8.015391799506006
-[16:18:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4163ms or 83 ticks behind
-[16:18:44] [Server thread/WARN]: bryan13 moved too quickly! 16.56270409912395,-2.1056738992008235,-7.567072711718993
-[16:18:46] [Server thread/INFO]: [Not Secure] <alkeys> xd
-[16:18:56] [Server thread/INFO]: [Not Secure] <bryan13> xd
-[16:19:15] [Server thread/WARN]: alkeys moved too quickly! 8.125802461641797,-5.554268448943333,-1.8543973537819056
-[16:20:38] [Server thread/INFO]: [Not Secure] <alkeys> donde estas ajaj
-[16:21:22] [Server thread/INFO]: [Not Secure] <bryan13> totem
-[16:21:30] [Server thread/INFO]: [Not Secure] <alkeys> no andas me vas desir aja
-[16:21:33] [Server thread/INFO]: [Not Secure] <bryan13> 1 ando
-[16:21:37] [Server thread/INFO]: [Not Secure] <alkeys> madre
-[16:21:39] [Server thread/INFO]: [Not Secure] <alkeys> baja
-[16:21:59] [Server thread/INFO]: [Not Secure] <bryan13> madree
-[16:22:02] [Server thread/INFO]: [Not Secure] <alkeys> se
-[16:24:10] [Server thread/INFO]: [Not Secure] <alkeys> xd
-[16:24:36] [Server thread/INFO]: [Not Secure] <alkeys> madre c emepiza los chingasos
-[16:24:41] [Server thread/INFO]: [Not Secure] <bryan13> activqando anda el golen
-[16:24:43] [Server thread/INFO]: [Not Secure] <alkeys> see
-[16:24:47] [Server thread/INFO]: [Not Secure] <alkeys> hay dejalos
-[16:24:57] [Server thread/INFO]: [Not Secure] <alkeys> tenes calabassa
-[16:25:01] [Server thread/INFO]: [Not Secure] <bryan13> 13
-[16:26:09] [Server thread/INFO]: [Not Secure] <alkeys> jajaj
-[16:26:15] [Server thread/INFO]: [Not Secure] <alkeys> ya hay algo le falta ajaj
-[16:26:23] [Server thread/INFO]: [Not Secure] <bryan13> seee
-[16:29:20] [Server thread/INFO]: [Not Secure] <alkeys> ya no tengo miedo ajjaja
-[16:29:27] [Server thread/INFO]: [Not Secure] <bryan13> nel
-[16:29:43] [Server thread/INFO]: [Not Secure] <bryan13> tengo mochila de mursielago
-[16:29:57] [Server thread/INFO]: [Not Secure] <alkeys> a una asi vere siconsio porque no veo mucho jaa
-[16:30:12] [Server thread/INFO]: [Not Secure] <bryan13> la ie a traer despues
-[16:32:03] [Server thread/INFO]: [Not Secure] <alkeys> como que ya no da ajaj
-[16:32:07] [Server thread/INFO]: [Not Secure] <alkeys> mychos ajaja
-[16:33:00] [Server thread/INFO]: [Not Secure] <bryan13> vamo
-[16:33:03] [Server thread/INFO]: [Not Secure] <alkeys> see
-[16:33:06] [Server thread/INFO]: [Not Secure] <alkeys> seguime
-[16:33:22] [Server thread/INFO]: [Not Secure] <alkeys> corre a lso golen
-[16:34:14] [Server thread/INFO]: [Not Secure] <alkeys> ya
-[16:35:13] [Server thread/INFO]: [Not Secure] <alkeys> ahajaja
-[16:35:20] [Server thread/INFO]: [Not Secure] <bryan13> nada veo xd
-[16:35:26] [Server thread/INFO]: [Not Secure] <alkeys> casi muero jaja
-[16:35:33] [Server thread/INFO]: [Not Secure] <alkeys> ahi ahy corfres ajaj
-[16:35:39] [Server thread/INFO]: [Not Secure] <bryan13> vamo donde estan los golen
-[16:35:53] [Server thread/INFO]: [Not Secure] <alkeys> aqui esta
-[16:36:00] [Server thread/INFO]: [Not Secure] <alkeys> ya c enterro
-[16:37:50] [Server thread/INFO]: [Not Secure] <alkeys> wei
-[16:38:02] [Server thread/INFO]: [Not Secure] <bryan13> madre
-[16:38:19] [Server thread/INFO]: [Not Secure] <alkeys> hay dos
-[16:38:32] [Server thread/INFO]: [Not Secure] <alkeys> corrre
-[16:38:46] [Server thread/INFO]: [Not Secure] <bryan13> madreee
-[16:39:08] [Server thread/INFO]: [Not Secure] <alkeys> y ni pergamino me traje ajaajaj
-[16:39:19] [Server thread/INFO]: [Not Secure] <bryan13> donde estas
-[16:39:45] [Server thread/INFO]: [Not Secure] <alkeys> pera escondiendome ajaj
-[16:40:41] [Server thread/INFO]: [Not Secure] <bryan13> yo con perlas me movi
-[16:40:58] [Server thread/INFO]: [Not Secure] <alkeys> jajaj
-[16:41:19] [Server thread/INFO]: [Not Secure] <alkeys> intenta llegar al tp
-[16:41:21] [Server thread/INFO]: [Not Secure] <bryan13> ya no quieren salir los gone
-[16:41:26] [Server thread/INFO]: [Not Secure] <alkeys> a la
-[16:41:27] [Server thread/INFO]: [Not Secure] <bryan13> ya
-[16:41:53] [Server thread/INFO]: [Not Secure] <bryan13> necesitas algo
-[16:42:03] [Server thread/INFO]: [Not Secure] <alkeys> pera
-[16:42:08] [Server thread/INFO]: alkeys was slain by Warden
-[16:42:12] [Server thread/INFO]: [Not Secure] <alkeys> nooooooooooooooooo
-[16:42:13] [Server thread/INFO]: [Not Secure] <alkeys> jajaja
-[16:42:16] [Server thread/INFO]: [Not Secure] <bryan13> noooo donde estas
-[16:42:25] [Server thread/INFO]: [Not Secure] <alkeys> -6739 1626
-[16:42:40] [Server thread/INFO]: [Not Secure] <bryan13> voy
-[16:42:43] [Server thread/INFO]: [Not Secure] <alkeys> ok
-[16:43:10] [Server thread/INFO]: [Not Secure] <bryan13> NOOO OTRO
-[16:43:36] [Server thread/INFO]: No entity was found
-[16:43:43] [Server thread/INFO]: [Not Secure] <bryan13> madre
-[16:43:54] [Server thread/INFO]: [Not Secure] <alkeys> jajaa
-[16:44:05] [Server thread/INFO]: Killed 3 entities
-[16:44:08] [Server thread/INFO]: [Not Secure] <alkeys> ya
-[16:44:08] [Server thread/INFO]: alkeys was not rescued in time
-[16:44:08] [Server thread/INFO]: Created new backpack backup file for alkeys with unique ID travelersbackpack.fox_19.06.2026-16.44.08.dat
-[16:44:14] [Server thread/INFO]: [Not Secure] <alkeys> jaja
-[16:44:14] [Server thread/INFO]: [Not Secure] <bryan13> utaa
-[16:44:20] [Server thread/INFO]: Killed Warden
-[16:44:30] [Server thread/INFO]: [Not Secure] <alkeys> los mate
-[16:44:37] [Server thread/INFO]: Killed Warden
-[16:44:46] [Server thread/INFO]: [Not Secure] <alkeys> ya voy
-[16:44:52] [Server thread/INFO]: No entity was found
-[16:45:02] [Server thread/INFO]: No entity was found
-[16:45:06] [Server thread/INFO]: [Not Secure] <alkeys> ya no ahy?
-[16:45:10] [Server thread/INFO]: [Not Secure] <bryan13> no
-[16:45:13] [Server thread/INFO]: [Not Secure] <alkeys> ok
-[16:45:24] [Server thread/INFO]: [Not Secure] <alkeys> hay que quitar las madr donde aparacen
-[16:45:29] [Server thread/INFO]: [Not Secure] <bryan13> massss
-[16:45:36] [Server thread/INFO]: Killed Warden
-[16:45:38] [Server thread/INFO]: [Not Secure] <alkeys> ya
-[16:45:49] [Server thread/INFO]: [Not Secure] <bryan13> quitare esa mix
-[16:45:51] [Server thread/INFO]: No entity was found
-[16:45:55] [Server thread/INFO]: [Not Secure] <alkeys> okw
-[16:46:01] [Server thread/INFO]: [Not Secure] <bryan13> uta
-[16:46:05] [Server thread/INFO]: Killed Warden
-[16:46:07] [Server thread/INFO]: [Not Secure] <alkeys> ya
-[16:46:11] [Server thread/INFO]: [Not Secure] <alkeys> me habisas
-[16:46:27] [Server thread/INFO]: Killed Warden
-[16:46:33] [Server thread/INFO]: [Not Secure] <alkeys> con una asada c va
-[16:46:49] [Server thread/INFO]: No entity was found
-[16:47:18] [Server thread/INFO]: Killed Warden
-[16:47:37] [Server thread/INFO]: [Not Secure] <bryan13> xd no ando
-[16:47:40] [Server thread/INFO]: [Not Secure] <alkeys> jaja
-[16:47:43] [Server thread/INFO]: No entity was found
-[16:48:33] [Server thread/INFO]: [Not Secure] <alkeys> cofre
-[16:49:19] [Server thread/INFO]: [Not Secure] <bryan13> marcamos los cofes
-[16:49:24] [Server thread/INFO]: [Not Secure] <alkeys> ya los tengo marcados ajaj
-[16:49:39] [Server thread/INFO]: [Not Secure] <alkeys> segime
-[16:50:30] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[16:50:30] [Server thread/INFO]: ...ft:warden]/kill @e[type=minecraft:warden]<--[HERE]
-[16:50:36] [Server thread/INFO]: Killed Warden
-[16:51:09] [Server thread/INFO]: [Not Secure] <alkeys> te presto una sada
-[16:51:11] [Server thread/INFO]: bryan13 has completed the challenge [Serious Dedication]
-[16:51:19] [Server thread/INFO]: [Not Secure] <bryan13> va va
-[16:51:28] [Server thread/INFO]: [Not Secure] <alkeys> seguime
-[16:52:09] [Server thread/INFO]: Killed Warden
-[16:52:19] [Server thread/INFO]: [Not Secure] <bryan13> arriva hay
-[16:52:24] [Server thread/INFO]: Killed Warden
-[16:52:35] [Server thread/INFO]: Killed Warden
-[16:52:46] [Server thread/INFO]: Killed Warden
-[16:52:59] [Server thread/INFO]: Killed Warden
-[16:53:11] [Server thread/INFO]: Killed Warden
-[16:53:12] [Server thread/INFO]: [Not Secure] <bryan13> maaaaa molde del cilencio
-[16:53:18] [Server thread/INFO]: [Not Secure] <alkeys> comprar
-[16:53:23] [Server thread/INFO]: [Not Secure] <alkeys> noo
-[16:53:26] [Server thread/INFO]: Killed Warden
-[16:53:37] [Server thread/INFO]: Killed Warden
-[16:53:41] [Server thread/INFO]: [Not Secure] <alkeys> detrui
-[16:53:43] [Server thread/INFO]: [Not Secure] <bryan13> con ese andamos chil aqui
-[16:53:45] [Server thread/INFO]: [Not Secure] <bryan13> seee
-[16:53:59] [Server thread/INFO]: Killed Warden
-[16:54:09] [Server thread/INFO]: Killed Warden
-[16:54:12] [Server thread/INFO]: [Not Secure] <bryan13> xd y la de warden en este cofre
-[16:54:23] [Server thread/INFO]: [Not Secure] <alkeys> comparte
-[16:54:26] [Server thread/INFO]: [Not Secure] <bryan13> seee
-[16:55:23] [Server thread/INFO]: Killed Warden
-[16:55:36] [Server thread/INFO]: Killed Warden
-[16:55:48] [Server thread/INFO]: [Not Secure] <alkeys> wei
-[16:55:51] [Server thread/INFO]: Killed Warden
-[16:55:59] [Server thread/INFO]: [Not Secure] <bryan13> xd
-[16:56:06] [Server thread/INFO]: [Not Secure] <bryan13> se me fue darle
-[16:56:53] [Server thread/INFO]: [Not Secure] <alkeys> cuidao
-[16:57:16] [Server thread/INFO]: Killed Warden
-[16:57:25] [Server thread/INFO]: [Not Secure] <alkeys> que ariscos anda estos aja
-[16:57:33] [Server thread/INFO]: [Not Secure] <bryan13> se
-[16:58:59] [Server thread/INFO]: [Not Secure] <alkeys> aqu
-[16:59:39] [Server thread/INFO]: Killed Warden
-[16:59:47] [Server thread/INFO]: Killed Warden
-[17:00:01] [Server thread/INFO]: No entity was found
-[17:00:10] [Server thread/INFO]: [Not Secure] <bryan13> cofres
-[17:00:12] [Server thread/INFO]: Killed Warden
-[17:00:23] [Server thread/INFO]: [Not Secure] <bryan13> aqui recti
-[17:00:25] [Server thread/INFO]: [Not Secure] <alkeys> pera que hay madfre feas
-[17:01:38] [Server thread/INFO]: Killed Warden
-[17:01:56] [Server thread/INFO]: Killed Warden
-[17:02:12] [Server thread/INFO]: Killed Warden
-[17:02:15] [Server thread/INFO]: [Not Secure] <alkeys> nomames
-[17:02:21] [Server thread/INFO]: [Not Secure] <bryan13> esta trampilla
-[17:02:36] [Server thread/INFO]: Killed Warden
-[17:02:38] [Server thread/INFO]: [Not Secure] <alkeys> vale
-[17:02:54] [Server thread/INFO]: Killed Warden
-[17:03:09] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[17:03:09] [Server thread/INFO]: <--[HERE]
-[17:03:19] [Server thread/INFO]: Killed Warden
-[17:03:26] [Server thread/INFO]: [Not Secure] <bryan13> madre
-[17:03:29] [Server thread/INFO]: [Not Secure] <alkeys> ya me aburri andar matando aaja
-[17:04:16] [Server thread/INFO]: [Not Secure] <alkeys> creo que ya no hay
-[17:04:28] [Server thread/INFO]: [Not Secure] <bryan13> vamo aqui
-[17:04:30] [Server thread/INFO]: [Not Secure] <alkeys> a bien todavia uno
-[17:04:47] [Server thread/INFO]: [Not Secure] <alkeys> 2 enconte
-[17:04:59] [Server thread/INFO]: [Not Secure] <bryan13> donde
-[17:05:02] [Server thread/INFO]: [Not Secure] <alkeys> pera
-[17:05:17] [Server thread/INFO]: [Not Secure] <alkeys> ando con la camara libr ajaja
-[17:05:25] [Server thread/INFO]: [Not Secure] <bryan13> mamalon
-[17:07:27] [Server thread/INFO]: Killed Warden
-[17:07:53] [Server thread/INFO]: [Not Secure] <alkeys> cuidado arriba
-[17:07:57] [Server thread/INFO]: [Not Secure] <alkeys> esta la wea
-[17:08:16] [Server thread/INFO]: Killed Warden
-[17:08:22] [Server thread/INFO]: [Not Secure] <bryan13> madre
-[17:08:29] [Server thread/INFO]: Killed Warden
-[17:08:57] [Server thread/INFO]: [Not Secure] <bryan13> ya fuiste a la mix de restone que esta abajo del portal
-[17:09:04] [Server thread/INFO]: Killed Warden
-[17:09:06] [Server thread/INFO]: [Not Secure] <alkeys> noo
-[17:09:08] [Server thread/INFO]: [Not Secure] <alkeys> que ahy
-[17:09:20] [Server thread/INFO]: [Not Secure] <alkeys> xaero-waypoint:aaa:A:-6689:-44:1697:5:false:0:Internal-overworld
-[17:09:41] [Server thread/INFO]: [Not Secure] <bryan13> aqui voy
-[17:10:01] [Server thread/INFO]: Killed Warden
-[17:11:08] [Server thread/INFO]: [Not Secure] <alkeys> a pod piedra bine ajaajw
-[17:12:24] [Server thread/INFO]: [Not Secure] <bryan13> que pijo de golen
-[17:12:27] [Server thread/INFO]: [Not Secure] <alkeys> see
-[17:12:34] [Server thread/INFO]: [Not Secure] <alkeys> por eso imboque a la wea ajaj
-[17:12:40] [Server thread/INFO]: [Not Secure] <alkeys> madre
-[17:12:46] [Server thread/INFO]: [Not Secure] <bryan13> puya
-[17:12:56] [Server thread/INFO]: [Not Secure] <alkeys> no lo matan no jodas
-[17:13:01] [Server thread/INFO]: [Not Secure] <bryan13> noo
-[17:13:11] [Server thread/INFO]: [Not Secure] <alkeys> otro aajaj
-[17:13:17] [Server thread/INFO]: [Not Secure] <alkeys> madre
-[17:13:18] [Server thread/INFO]: [Not Secure] <bryan13> ayudemos xd
-[17:13:36] [Server thread/INFO]: [Not Secure] <alkeys> a la
-[17:13:54] [Server thread/INFO]: [Not Secure] <bryan13> aqui estaba la mix
-[17:13:57] [Server thread/INFO]: [Not Secure] <alkeys> see
-[17:14:07] [Server thread/INFO]: [Not Secure] <alkeys> no te mobs
-[17:14:12] [Server thread/INFO]: [Not Secure] <alkeys> que lo golen lo maten
-[17:14:16] [Server thread/INFO]: [Not Secure] <alkeys> wei corre
-[17:14:19] [Server thread/INFO]: Killed Warden
-[17:14:26] [Server thread/INFO]: [Not Secure] <alkeys> ya
-[17:14:35] [Server thread/INFO]: [Not Secure] <bryan13> cmamo
-[17:14:40] [Server thread/INFO]: [Not Secure] <alkeys> y ci
-[17:15:03] [Server thread/INFO]: [Not Secure] <alkeys> tjaaa
-[17:15:13] [Server thread/INFO]: [Not Secure] <alkeys> la vana me respalda digo io ajja
-[17:15:44] [Server thread/INFO]: [Not Secure] <bryan13> madre
-[17:15:46] [Server thread/INFO]: [Not Secure] <alkeys> x2
-[17:16:02] [Server thread/INFO]: [Not Secure] <alkeys> pro eso golen de un talegaso casi te matan y esta madre si que tiene vida
-[17:16:05] [Server thread/INFO]: [Not Secure] <alkeys> nooo
-[17:16:06] [Server thread/INFO]: [Not Secure] <bryan13> seee
-[17:16:20] [Server thread/INFO]: [Not Secure] <bryan13> los remato
-[17:16:53] [Server thread/INFO]: [Not Secure] <bryan13> lo quite
-[17:17:36] [Server thread/INFO]: [Not Secure] <bryan13> ma
-[17:17:41] [Server thread/INFO]: [Not Secure] <alkeys> que pajo
-[17:17:53] [Server thread/INFO]: [Not Secure] <alkeys> otra te ayaste jaaj
-[17:17:59] [Server thread/INFO]: [Not Secure] <bryan13> el de cilencio hay qie duplicar
-[17:18:01] [Server thread/INFO]: [Not Secure] <bryan13> se
-[17:18:06] [Server thread/INFO]: [Not Secure] <alkeys> see la del cilencio
-[17:18:14] [Server thread/INFO]: [Not Secure] <alkeys> seguime
-[17:18:31] [Server thread/INFO]: Killed Warden
-[17:18:46] [Server thread/INFO]: Killed Warden
-[17:19:00] [Server thread/INFO]: Killed Warden
-[17:19:07] [Server thread/INFO]: [Not Secure] <bryan13> madreee aqui abajo avian 4
-[17:19:15] [Server thread/INFO]: [Not Secure] <alkeys> see
-[17:19:38] [Server thread/INFO]: [Not Secure] <alkeys> creo que ya no hay
-[17:19:43] [Server thread/INFO]: [Not Secure] <alkeys> morimos como nunca
-[17:19:54] [Server thread/INFO]: [Not Secure] <alkeys> literal me toco ocupar la consola porque si no f
-[17:20:01] [Server thread/INFO]: [Not Secure] <bryan13> es paja
-[17:20:10] [Server thread/INFO]: [Not Secure] <alkeys> como c duplica la del cilencio
-[17:20:11] [Server thread/INFO]: [Not Secure] <alkeys> ?
-[17:20:20] [Server thread/INFO]: [Not Secure] <bryan13> ahorita veo
-[17:20:23] [Server thread/INFO]: [Not Secure] <alkeys> va
-[17:20:52] [Server thread/INFO]: [Not Secure] <bryan13> pisara profunda rocosa y diamante y molde
-[17:20:56] [Server thread/INFO]: [Not Secure] <alkeys> a ok
-[17:20:58] [Server thread/INFO]: [Not Secure] <alkeys> seguime
-[17:21:06] [Server thread/INFO]: [Not Secure] <bryan13> y ek de walden
-[17:21:31] [Server thread/INFO]: [Not Secure] <alkeys> pera
-[17:21:40] [Server thread/INFO]: [Not Secure] <alkeys> donde madre era ajaj
-[17:21:50] [Server thread/INFO]: [Not Secure] <alkeys> xaero-waypoint:xaafas:X:-6780:-43:1584:5:false:0:Internal-overworld
-[17:21:54] [Server thread/INFO]: [Not Secure] <alkeys> ahi jaaj
-[17:22:40] [Server thread/INFO]: Killed Warden
-[17:22:53] [Server thread/INFO]: Killed Warden
-[17:23:07] [Server thread/INFO]: Killed Warden
-[17:23:16] [Server thread/INFO]: Killed Warden
-[17:23:17] [Server thread/INFO]: [Not Secure] <bryan13> ya
-[17:23:24] [Server thread/INFO]: [Not Secure] <bryan13> 4 eran
-[17:23:29] [Server thread/INFO]: [Not Secure] <alkeys> no hay otro
-[17:23:32] [Server thread/INFO]: Killed Warden
-[17:23:32] [Server thread/INFO]: [Not Secure] <bryan13> se
-[17:23:45] [Server thread/INFO]: [Not Secure] <bryan13> dode
-[17:24:00] [Server thread/INFO]: Killed Warden
-[17:24:07] [Server thread/INFO]: [Not Secure] <alkeys> no te mosvas
-[17:24:13] [Server thread/INFO]: [Not Secure] <alkeys> noo
-[17:24:17] [Server thread/INFO]: Killed Warden
-[17:24:17] [Server thread/INFO]: [Not Secure] <bryan13> madre
-[17:24:29] [Server thread/INFO]: Killed Warden
-[17:24:43] [Server thread/INFO]: [Not Secure] <alkeys> cereo que ya
-[17:24:55] [Server thread/INFO]: [Not Secure] <bryan13> se ya
-[17:25:00] [Server thread/INFO]: [Not Secure] <alkeys> quedade la azada
-[17:25:00] [Server thread/INFO]: [Not Secure] <bryan13> cofre
-[17:25:07] [Server thread/INFO]: [Not Secure] <bryan13> aqui avia otro
-[17:25:08] [Server thread/INFO]: Killed Warden
-[17:25:11] [Server thread/INFO]: [Not Secure] <alkeys> sjaja
-[17:25:18] [Server thread/INFO]: [Not Secure] <alkeys> a otro
-[17:25:21] [Server thread/INFO]: [Not Secure] <bryan13> se
-[17:25:57] [Server thread/INFO]: [Not Secure] <bryan13> solo 1 de silencio salio va
-[17:25:59] [Server thread/INFO]: [Not Secure] <alkeys> voy a revisar si hay mas
-[17:26:01] [Server thread/INFO]: [Not Secure] <alkeys> see
-[17:26:04] [Server thread/INFO]: [Not Secure] <alkeys> solo una
-[17:26:04] [Server thread/INFO]: [Not Secure] <bryan13> va
-[17:26:20] [Server thread/INFO]: [Not Secure] <alkeys> segime
-[17:26:38] [Server thread/INFO]: Killed Warden
-[17:27:07] [Server thread/INFO]: [Not Secure] <alkeys> andas pico de seda?
-[17:27:14] [Server thread/INFO]: [Not Secure] <bryan13> se
-[17:27:17] [Server thread/INFO]: [Not Secure] <alkeys> pica skull
-[17:27:43] [Server thread/INFO]: Killed Warden
-[17:28:05] [Server thread/INFO]: Killed Warden
-[17:28:20] [Server thread/INFO]: Killed Warden
-[17:28:30] [Server thread/INFO]: Killed Warden
-[17:28:41] [Server thread/INFO]: Killed Warden
-[17:28:57] [Server thread/INFO]: Killed Warden
-[17:29:01] [Server thread/INFO]: [Not Secure] <bryan13> 7 ando los que vea sacare
-[17:29:04] [Server thread/INFO]: [Not Secure] <alkeys> jaja
-[17:29:06] [Server thread/INFO]: [Not Secure] <alkeys> oral
-[17:29:26] [Server thread/INFO]: Killed Warden
-[17:30:07] [Server thread/INFO]: [Not Secure] <alkeys> aqui
-[17:30:20] [Server thread/INFO]: Killed Warden
-[17:30:24] [Server thread/INFO]: [Not Secure] <alkeys> madre
-[17:30:26] [Server thread/INFO]: [Not Secure] <alkeys> donde esa
-[17:30:31] [Server thread/INFO]: [Not Secure] <bryan13> se
-[17:30:52] [Server thread/INFO]: Killed Warden
-[17:32:07] [Server thread/INFO]: [Not Secure] <alkeys> hoy si creo que ya no hay nada
-[17:32:24] [Server thread/INFO]: [Not Secure] <bryan13> creo que no
-[17:33:42] [Server thread/INFO]: [Not Secure] <alkeys> see nada
-[17:33:56] [Server thread/INFO]: [Not Secure] <bryan13> 13 consegui
-[17:34:02] [Server thread/INFO]: [Not Secure] <alkeys> andas cohetes?
-[17:34:07] [Server thread/INFO]: [Not Secure] <bryan13> se
-[17:34:10] [Server thread/INFO]: [Not Secure] <alkeys> al tp
-[17:34:34] [Server thread/INFO]: Killed 2 entities
-[17:34:38] [Server thread/INFO]: [Not Secure] <alkeys> jja
-[17:34:54] [Server thread/INFO]: Killed Warden
-[17:35:05] [Server thread/INFO]: [Not Secure] <bryan13> madre
-[17:35:13] [Server thread/INFO]: [Not Secure] <alkeys> jaajaja
-[17:35:18] [Server thread/INFO]: [Not Secure] <bryan13> mas
-[17:35:54] [Server thread/INFO]: [Not Secure] <alkeys> hoy si creo qye ya no ahy
-[17:36:11] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[17:36:11] [Server thread/INFO]: <--[HERE]
-[17:36:14] [Server thread/INFO]: Killed Warden
-[17:36:15] [Server thread/INFO]: [Not Secure] <bryan13> ya lo quite
-[17:37:46] [Server thread/INFO]: [Not Secure] <alkeys> jajajs
-[17:38:00] [Server thread/INFO]: [Not Secure] <bryan13> duplocamos los moldes
-[17:38:04] [Server thread/INFO]: [Not Secure] <alkeys> 14 libros enconte
-[17:38:08] [Server thread/INFO]: [Not Secure] <alkeys> a si
-[17:38:32] [Server thread/INFO]: [Not Secure] <alkeys> que nesesita spara duplicar
-[17:38:57] [Server thread/INFO]: [Not Secure] <bryan13> pizarra profuda rocosa
-[17:39:01] [Server thread/INFO]: [Not Secure] <alkeys> aja que mas
-[17:39:09] [Server thread/INFO]: [Not Secure] <bryan13> diamante
-[17:39:14] [Server thread/INFO]: [Not Secure] <alkeys> solo eso?
-[17:39:22] [Server thread/INFO]: [Not Secure] <bryan13> y el molde
-[17:39:27] [Server thread/INFO]: [Not Secure] <alkeys> voy
-[17:39:51] [Server thread/INFO]: [Not Secure] <bryan13> veni
-[17:40:09] [Server thread/INFO]: [Not Secure] <alkeys> aakaa
-[17:40:18] [Server thread/INFO]: [Not Secure] <alkeys> a la gracias ajaj
-[17:40:36] [Server thread/INFO]: [Not Secure] <bryan13> mira este cofre
-[17:40:37] [Server thread/INFO]: [Not Secure] <alkeys> a mi armadura jajaj te la reglao por el molde jajaa
-[17:40:50] [Server thread/INFO]: [Not Secure] <bryan13> va va
-[17:40:50] [Server thread/INFO]: [Not Secure] <alkeys> andas con todo jaja
-[17:41:17] [Server thread/INFO]: [Not Secure] <bryan13> va que esta armadura que ando no se puede hacer ya del silencio va
-[17:41:23] [Server thread/INFO]: [Not Secure] <alkeys> bien
-[17:41:33] [Server thread/INFO]: [Not Secure] <alkeys> c cambia el molde siempre c puede
-[17:42:04] [Server thread/INFO]: [Not Secure] <bryan13> ahorita veo
-[17:44:11] [Server thread/INFO]: [Not Secure] <bryan13> como se ve xd
-[17:44:17] [Server thread/INFO]: [Not Secure] <alkeys> voy
-[17:44:26] [Server thread/INFO]: [Not Secure] <alkeys> ta goty
-[17:44:38] [Server thread/INFO]: [Not Secure] <alkeys> xd
-[17:44:52] [Server thread/INFO]: [Not Secure] <bryan13> con esta ya no te papea va xd
-[17:44:54] [Server thread/INFO]: [Not Secure] <alkeys> jajaa el humilde cuando aparesca armando jajaj
-[17:45:05] [Server thread/INFO]: [Not Secure] <alkeys> aajaj
-[17:45:05] [Server thread/INFO]: [Not Secure] <bryan13> xd seee
-[17:45:30] [Server thread/INFO]: [Not Secure] <bryan13> xd hoy diamantes aran falta
-[17:45:35] [Server thread/INFO]: [Not Secure] <alkeys> see
-[17:46:42] [Server thread/INFO]: [Not Secure] <bryan13> lograste los fragmentos para el disco de musica
-[17:46:50] [Server thread/INFO]: [Not Secure] <alkeys> a cuantos son
-[17:46:59] [Server thread/INFO]: [Not Secure] <alkeys> bien
-[17:47:05] [Server thread/INFO]: [Not Secure] <alkeys> a aajaja
-[17:47:13] [Server thread/INFO]: [Not Secure] <bryan13> que suena xd
-[17:47:14] [Server thread/INFO]: [Not Secure] <alkeys> haber como seña ajaj
-[17:47:33] [Server thread/INFO]: [Not Secure] <alkeys> ahi ponelo jaja
-[17:47:50] [Server thread/INFO]: [Not Secure] <bryan13> madre
-[17:47:51] [Server thread/INFO]: [Not Secure] <alkeys> madre suena chido ajaj
-[17:47:59] [Server thread/INFO]: [Not Secure] <alkeys> ajaja
-[17:48:10] [Server thread/INFO]: [Not Secure] <bryan13> como que andas y aparece el warden
-[17:48:15] [Server thread/INFO]: [Not Secure] <alkeys> see
-[17:48:18] [Server thread/INFO]: [Not Secure] <alkeys> esa es ajaj
-[17:48:20] [Server thread/INFO]: [Not Secure] <alkeys> o algo asi
-[17:48:23] [Server thread/INFO]: [Not Secure] <bryan13> se
-[17:48:37] [Server thread/INFO]: [Not Secure] <bryan13> con esta armadura ya no tendria que aparecer va
-[17:48:42] [Server thread/INFO]: [Not Secure] <alkeys> madre ponela otra vez ajaja
-[17:48:49] [Server thread/INFO]: [Not Secure] <alkeys> jaaj
-[17:48:51] [Server thread/INFO]: [Not Secure] <bryan13> faltava
-[17:48:54] [Server thread/INFO]: [Not Secure] <alkeys> see
-[17:49:00] [Server thread/INFO]: [Not Secure] <bryan13> dejemolo a ber
-[17:49:06] [Server thread/INFO]: [Not Secure] <alkeys> jaja
-[17:49:08] [Server thread/INFO]: [Not Secure] <alkeys> see
-[17:49:31] [Server thread/INFO]: [Not Secure] <bryan13> madre
-[17:49:34] [Server thread/INFO]: [Not Secure] <alkeys> x2
-[17:51:05] [Server thread/INFO]: [Not Secure] <alkeys> ta raro ajaaja
-[17:51:52] [Server thread/INFO]: [Not Secure] <alkeys> a solo eso era jaaj
-[17:51:54] [Server thread/INFO]: [Not Secure] <alkeys> raro
-[17:52:30] [Server thread/INFO]: [Not Secure] <bryan13> xd
-[17:52:33] [Server thread/INFO]: [Not Secure] <alkeys> a no el otro te quedo o no
-[17:52:43] [Server thread/INFO]: [Not Secure] <bryan13> cual
-[17:52:46] [Server thread/INFO]: [Not Secure] <alkeys> uno rojito mira
-[17:52:59] [Server thread/INFO]: [Not Secure] <alkeys> que lo acabo de poner pero creo que lo halaste con el iman ajjaja
-[17:53:02] [Server thread/INFO]: [Not Secure] <alkeys> ese jaja
-[17:53:12] [Server thread/INFO]: [Not Secure] <alkeys> ese en el nether lo aye jajaa
-[17:53:13] [Server thread/INFO]: [Not Secure] <bryan13> xd
-[17:53:18] [Server thread/INFO]: [Not Secure] <bryan13> puya
-[17:53:24] [Server thread/INFO]: [Not Secure] <alkeys> rolon aja
-[17:53:33] [Server thread/INFO]: [Not Secure] <bryan13> seeee
-[17:53:39] [Server thread/INFO]: [Not Secure] <alkeys> hay una forma de encontrar todos los disco jjaa
-[17:53:47] [Server thread/INFO]: [Not Secure] <alkeys> es algo temerario pero hay ve ajaj
-[17:53:53] [Server thread/INFO]: [Not Secure] <alkeys> io la estoy planiando jaaja
-[17:54:15] [Server thread/INFO]: [Not Secure] <bryan13> hay ve
-[17:54:22] [Server thread/INFO]: [Not Secure] <alkeys> pues si ajaj
-[17:54:31] [Server thread/INFO]: [Not Secure] <alkeys> ire haber que como ya es tarde jaaj
-[17:54:41] [Server thread/INFO]: [Not Secure] <bryan13> igual
-[17:54:45] [Server thread/INFO]: [Not Secure] <bryan13> otro rato vemos
-[17:54:47] [Server thread/INFO]: bryan13 lost connection: Disconnected
-[17:54:47] [Server thread/INFO]: bryan13 left the game
-[17:54:51] [Server thread/INFO]: alkeys lost connection: Disconnected
-[17:54:51] [Server thread/INFO]: alkeys left the game
-[17:54:57] [Server thread/INFO]: Stopping the server
-[17:54:57] [Server thread/INFO]: Stopping server
-[17:54:57] [Server thread/INFO]: Saving players
-[17:54:57] [Server thread/INFO]: Saving worlds
-[17:54:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:54:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:54:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:54:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:54:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:54:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:54:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:08:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4760ms or 95 ticks behind
+[00:27:05] [Server thread/INFO]: bryan13 is now AFK.
+[00:52:18] [Server thread/INFO]: bryan13 is no longer AFK.
+[00:56:48] [Server thread/INFO]: bryan13 fell out of the world
+[00:56:48] [Server thread/INFO]: Created new backpack backup file for bryan13 with unique ID travelersbackpack.magma_cube_22.06.2026-00.56.48.dat
+[01:02:43] [Server thread/INFO]: bryan13 fell out of the world
+[01:02:43] [Server thread/INFO]: Created new backpack backup file for bryan13 with unique ID travelersbackpack.blaze_22.06.2026-01.02.43.dat
+[01:18:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
+[01:24:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2635ms or 52 ticks behind
+[01:28:16] [Server thread/INFO]: bryan13 has made the advancement [Spied Eye]
+[01:28:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2694ms or 53 ticks behind
+[01:32:18] [Server thread/WARN]: Tried to over-fill a container
+[01:32:20] [Server thread/WARN]: Tried to over-fill a container
+[01:32:22] [Server thread/WARN]: Tried to over-fill a container
+[02:02:52] [Server thread/INFO]: alkeys[/127.71.128.12:55767] logged in with entity id 73164 at (-8180.722720084023, 64.0, 2280.7706818902134)
+[02:02:52] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[02:02:52] [Server thread/INFO]: alkeys joined the game
+[02:02:52] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[02:03:07] [Server thread/INFO]: [Not Secure] <bryan13> que ondas xd
+[02:03:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2457ms or 49 ticks behind
+[02:03:16] [Server thread/INFO]: [Not Secure] <alkeys> hoy
+[02:03:35] [Server thread/INFO]: [Not Secure] <bryan13> veni a mi casa xd
+[02:03:38] [Server thread/INFO]: [Not Secure] <alkeys> pera
+[02:03:50] [Server thread/INFO]: [Not Secure] <bryan13> xd vava
+[02:04:26] [Server thread/INFO]: alkeys has made the advancement [In Transit]
+[02:04:28] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[02:04:43] [Server thread/INFO]: [Not Secure] <bryan13> venite
+[02:04:47] [Server thread/INFO]: [Not Secure] <alkeys> ya boy
+[02:05:33] [Server thread/INFO]: alkeys has made the advancement [Spied Eye]
+[02:05:37] [Server thread/INFO]: [Not Secure] <alkeys> a
+[02:05:57] [Server thread/INFO]: [Not Secure] <bryan13> este es el que te digo xd
+[02:06:10] [Server thread/INFO]: [Not Secure] <alkeys> rarp
+[02:06:15] [Server thread/INFO]: [Not Secure] <bryan13> seee
+[02:06:25] [Server thread/WARN]: Tried to over-fill a container
+[02:06:27] [Server thread/WARN]: Tried to over-fill a container
+[02:06:31] [Server thread/WARN]: Tried to over-fill a container
+[02:06:36] [Server thread/INFO]: [Not Secure] <bryan13> los otros dos que esta en la casa son de elitas pa que vallas por ellas
+[02:06:41] [Server thread/INFO]: [Not Secure] <alkeys> a la
+[02:06:44] [Server thread/INFO]: [Not Secure] <bryan13> see
+[02:07:50] [Server thread/INFO]: [Not Secure] <bryan13> diseño de armadura de agujas xd
+[02:07:55] [Server thread/INFO]: [Not Secure] <alkeys> a la
+[02:08:08] [Server thread/WARN]: Tried to over-fill a container
+[02:08:10] [Server thread/WARN]: Tried to over-fill a container
+[02:10:05] [Server thread/INFO]: alkeys was slain by Shulker
+[02:10:09] [Server thread/INFO]: [Not Secure] <alkeys> nooo
+[02:10:10] [Server thread/INFO]: [Not Secure] <alkeys> aaakkaka
+[02:10:11] [Server thread/INFO]: [Not Secure] <alkeys> jajaj
+[02:10:17] [Server thread/INFO]: [Not Secure] <alkeys> abajo
+[02:10:32] [Server thread/INFO]: [Not Secure] <bryan13> nooo
+[02:10:35] [Server thread/INFO]: [Not Secure] <alkeys> a
+[02:10:40] [Server thread/INFO]: [Not Secure] <alkeys> no me digas que te mataron ajaja
+[02:11:02] [Server thread/INFO]: [Not Secure] <alkeys> wei apurate que me estoy muriendo
+[02:12:20] [Server thread/INFO]: [Not Secure] <bryan13> esas madres moradas por poco me matanm3
+[02:12:26] [Server thread/INFO]: [Not Secure] <alkeys> x2
+[02:14:12] [Server thread/INFO]: [Not Secure] <bryan13> ta feo uno solo
+[02:14:15] [Server thread/INFO]: [Not Secure] <alkeys> see
+[02:14:23] [Server thread/INFO]: [Not Secure] <alkeys> i io sin totem andaba ajja
+[02:14:37] [Server thread/INFO]: [Not Secure] <bryan13> maaa
+[02:15:05] [Server thread/INFO]: [Not Secure] <bryan13> lo agarraste
+[02:15:42] [Server thread/INFO]: [Not Secure] <alkeys> el que
+[02:15:48] [Server thread/INFO]: [Not Secure] <bryan13> el totm
+[02:15:52] [Server thread/INFO]: [Not Secure] <alkeys> a bien
+[02:16:53] [Server thread/INFO]: alkeys lost connection: Timed out
+[02:16:53] [Server thread/INFO]: alkeys left the game
+[02:16:53] [Server thread/WARN]: handleDisconnection() called twice
+[02:19:56] [Server thread/WARN]: Tried to over-fill a container
+[02:19:58] [Server thread/WARN]: Tried to over-fill a container
+[02:29:47] [Server thread/INFO]: bryan13 lost connection: Timed out
+[02:29:47] [Server thread/INFO]: bryan13 left the game
+[02:29:58] [Server thread/INFO]: bryan13[/127.147.99.67:47281] logged in with entity id 119499 at (-3159.5706214957436, 152.02072512371535, -4314.045030395027)
+[02:29:58] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'f58785a7-6f31-3493-86e0-bef8c4556536'.
+[02:29:58] [Server thread/INFO]: bryan13 joined the game
+[02:29:58] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'f58785a7-6f31-3493-86e0-bef8c4556536'.
+[02:36:11] [Server thread/WARN]: Tried to over-fill a container
+[02:36:17] [Server thread/WARN]: Tried to over-fill a container
+[02:36:20] [Server thread/WARN]: Tried to over-fill a container
+[02:36:23] [Server thread/WARN]: Tried to over-fill a container
+[02:36:24] [Server thread/WARN]: Tried to over-fill a container
+[02:38:07] [Server thread/INFO]: alkeys[/127.71.128.12:36355] logged in with entity id 121717 at (-3135.041968048195, 140.19644303002264, -4299.77385750418)
+[02:38:07] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[02:38:07] [Server thread/INFO]: alkeys joined the game
+[02:38:07] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[02:38:28] [Server thread/INFO]: [Not Secure] <bryan13> venite pa donde mi si podes
+[02:38:39] [Server thread/INFO]: [Not Secure] <alkeys> voy
+[02:39:16] [Server thread/INFO]: [Not Secure] <bryan13> veni cofres
+[02:39:20] [Server thread/WARN]: Tried to over-fill a container
+[02:39:25] [Server thread/INFO]: [Not Secure] <alkeys> voy
+[02:39:27] [Server thread/WARN]: Tried to over-fill a container
+[02:39:31] [Server thread/WARN]: Tried to over-fill a container
+[02:39:31] [Server thread/WARN]: Tried to over-fill a container
+[02:39:32] [Server thread/WARN]: Tried to over-fill a container
+[02:39:35] [Server thread/WARN]: Tried to over-fill a container
+[02:39:41] [Server thread/INFO]: [Not Secure] <bryan13> en la otra es
+[02:39:55] [Server thread/INFO]: [Not Secure] <alkeys> como
+[02:39:58] [Server thread/INFO]: [Not Secure] <bryan13> aqui
+[02:40:08] [Server thread/INFO]: [Not Secure] <alkeys> voy
+[02:40:31] [Server thread/WARN]: Tried to over-fill a container
+[02:40:41] [Server thread/WARN]: Tried to over-fill a container
+[02:40:42] [Server thread/WARN]: Tried to over-fill a container
+[02:40:45] [Server thread/INFO]: [Not Secure] <bryan13> ami un cristal del end me dio
+[02:40:52] [Server thread/INFO]: [Not Secure] <alkeys> a la
+[02:40:54] [Server thread/WARN]: Tried to over-fill a container
+[02:40:56] [Server thread/WARN]: Tried to over-fill a container
+[02:41:07] [Server thread/INFO]: [Not Secure] <bryan13> esas mix al romperlas dan cosas buenas
+[02:41:11] [Server thread/INFO]: [Not Secure] <alkeys> see
+[02:41:24] [Server thread/INFO]: [Not Secure] <bryan13> pa donde xd
+[02:42:10] [Server thread/WARN]: Tried to over-fill a container
+[02:42:25] [Server thread/INFO]: [Not Secure] <bryan13> 2 cristales del end
+[02:42:30] [Server thread/INFO]: [Not Secure] <alkeys> uff
+[02:42:31] [Server thread/WARN]: Tried to over-fill a container
+[02:42:47] [Server thread/WARN]: Tried to over-fill a container
+[02:42:50] [Server thread/WARN]: Tried to over-fill a container
+[02:42:51] [Server thread/WARN]: Tried to over-fill a container
+[02:43:00] [Server thread/WARN]: Tried to over-fill a container
+[02:43:27] [Server thread/INFO]: [Not Secure] <bryan13> xd el shulker
+[02:43:28] [Server thread/INFO]: [Not Secure] <alkeys> tuyo es esto
+[02:43:31] [Server thread/INFO]: [Not Secure] <alkeys> xdxd
+[02:43:36] [Server thread/INFO]: [Not Secure] <alkeys> se menm
+[02:43:45] [Server thread/INFO]: [Not Secure] <alkeys> oma
+[02:43:48] [Server thread/INFO]: [Not Secure] <alkeys> toma aaajaja
+[02:43:55] [Server thread/WARN]: Tried to over-fill a container
+[02:43:58] [Server thread/WARN]: Tried to over-fill a container
+[02:46:41] [Server thread/INFO]: [Not Secure] <alkeys> cubrite
+[02:48:13] [Server thread/INFO]: [Not Secure] <alkeys> sube
+[02:49:17] [Server thread/INFO]: [Not Secure] <bryan13> comida
+[02:49:19] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[02:50:13] [Server thread/INFO]: alkeys has completed the challenge [Afraid of Heights?]
+[02:50:19] [Server thread/INFO]: [Not Secure] <alkeys> jaajajw
+[02:50:20] [Server thread/INFO]: [Not Secure] <bryan13> madre
+[02:50:38] [Server thread/INFO]: [Not Secure] <bryan13> bajemos
+[02:50:40] [Server thread/WARN]: alkeys moved wrongly!
+[02:51:50] [Server thread/INFO]: [Not Secure] <alkeys> ya
+[02:51:52] [Server thread/INFO]: [Not Secure] <alkeys> jaja
+[02:51:55] [Server thread/INFO]: [Not Secure] <bryan13> se
+[02:52:07] [Server thread/INFO]: [Not Secure] <alkeys> aqui
+[02:52:23] [Server thread/INFO]: [Not Secure] <alkeys> x
+[02:52:24] [Server thread/INFO]: [Not Secure] <alkeys> d
+[02:53:19] [Server thread/INFO]: [Not Secure] <bryan13> mamalon
+[02:53:21] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[02:53:28] [Server thread/WARN]: Tried to over-fill a container
+[02:53:34] [Server thread/WARN]: Tried to over-fill a container
+[02:53:49] [Server thread/INFO]: [Not Secure] <alkeys> te dio algo bueno
+[02:53:49] [Server thread/WARN]: Tried to over-fill a container
+[02:53:56] [Server thread/INFO]: [Not Secure] <bryan13> casco xd
+[02:54:05] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[02:54:06] [Server thread/WARN]: Tried to over-fill a container
+[02:54:07] [Server thread/WARN]: Tried to over-fill a container
+[02:54:23] [Server thread/INFO]: alkeys lost connection: Timed out
+[02:54:23] [Server thread/INFO]: alkeys left the game
+[02:54:23] [Server thread/WARN]: handleDisconnection() called twice
+[02:54:27] [Server thread/WARN]: Tried to over-fill a container
+[02:54:32] [Server thread/WARN]: Tried to over-fill a container
+[02:54:34] [Server thread/WARN]: Tried to over-fill a container
+[02:54:51] [Server thread/WARN]: Tried to over-fill a container
+[02:54:51] [Server thread/WARN]: Tried to over-fill a container
+[02:55:36] [Server thread/WARN]: Tried to over-fill a container
+[02:56:18] [Server thread/WARN]: Tried to over-fill a container
+[02:57:53] [Server thread/WARN]: Tried to over-fill a container
+[02:58:22] [Server thread/WARN]: Tried to over-fill a container
+[02:58:23] [Server thread/WARN]: Tried to over-fill a container
+[02:58:31] [Server thread/WARN]: Tried to over-fill a container
+[02:58:45] [Server thread/WARN]: Tried to over-fill a container
+[02:59:25] [Server thread/WARN]: Tried to over-fill a container
+[02:59:25] [Server thread/WARN]: Tried to over-fill a container
+[03:00:53] [Server thread/WARN]: Tried to over-fill a container
+[03:00:55] [Server thread/WARN]: Tried to over-fill a container
+[03:01:02] [Server thread/WARN]: Tried to over-fill a container
+[03:03:46] [Server thread/WARN]: Tried to over-fill a container
+[03:04:01] [Server thread/WARN]: Tried to over-fill a container
+[03:05:16] [Server thread/WARN]: Tried to over-fill a container
+[03:05:20] [Server thread/WARN]: Tried to over-fill a container
+[03:05:20] [Server thread/WARN]: Tried to over-fill a container
+[03:05:24] [Server thread/WARN]: Tried to over-fill a container
+[03:05:27] [Server thread/WARN]: Tried to over-fill a container
+[03:05:30] [Server thread/WARN]: Tried to over-fill a container
+[03:06:00] [Server thread/WARN]: Tried to over-fill a container
+[03:06:06] [Server thread/WARN]: Tried to over-fill a container
+[03:06:29] [Server thread/WARN]: Tried to over-fill a container
+[03:07:33] [Server thread/WARN]: Tried to over-fill a container
+[03:07:33] [Server thread/WARN]: Tried to over-fill a container
+[03:07:35] [Server thread/WARN]: Tried to over-fill a container
+[03:07:59] [Server thread/WARN]: Tried to over-fill a container
+[03:07:59] [Server thread/WARN]: Tried to over-fill a container
+[03:08:47] [Server thread/INFO]: alkeys[/127.71.128.12:57075] logged in with entity id 142931 at (-3081.5108826332125, 193.0, -4298.064064508625)
+[03:08:47] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[03:08:47] [Server thread/INFO]: alkeys joined the game
+[03:08:47] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[03:09:11] [Server thread/INFO]: [Not Secure] <alkeys> haber si no c apaga otra vez ajaja
+[03:09:19] [Server thread/INFO]: [Not Secure] <bryan13> xd haber
+[03:09:22] [Server thread/WARN]: Tried to over-fill a container
+[03:09:27] [Server thread/WARN]: Tried to over-fill a container
+[03:09:28] [Server thread/WARN]: Tried to over-fill a container
+[03:11:16] [Server thread/WARN]: Tried to over-fill a container
+[03:11:16] [Server thread/WARN]: Tried to over-fill a container
+[03:12:24] [Server thread/WARN]: Tried to over-fill a container
+[03:13:00] [Server thread/WARN]: Tried to over-fill a container
+[03:13:29] [Server thread/WARN]: Tried to over-fill a container
+[03:14:38] [Server thread/INFO]: bryan13 has made the advancement [Local Brewery]
+[03:14:48] [Server thread/WARN]: Tried to over-fill a container
+[03:20:27] [Server thread/INFO]: [Not Secure] <alkeys> el portal wt
+[03:20:31] [Server thread/INFO]: [Not Secure] <bryan13> seeee
+[03:21:48] [Server thread/INFO]: [Not Secure] <bryan13> masacre total
+[03:21:55] [Server thread/INFO]: [Not Secure] <alkeys> literal ajajaa
+[03:22:05] [Server thread/WARN]: Tried to over-fill a container
+[03:22:22] [Server thread/INFO]: [Not Secure] <bryan13> asta despues se luteara
+[03:24:56] [Server thread/INFO]: [Not Secure] <alkeys> madre que relajo
+[03:25:01] [Server thread/INFO]: [Not Secure] <bryan13> dseee
+[03:25:30] [Server thread/INFO]: [Not Secure] <alkeys> ya c que era jaaj una la imagen de oracle de docker andaba corriendo ajajjaj
+[03:25:53] [Server thread/INFO]: [Not Secure] <bryan13> zxd
+[03:26:05] [Server thread/INFO]: [Not Secure] <alkeys> see
+[03:27:21] [Server thread/INFO]: [Not Secure] <alkeys> andas ojos de end
+[03:27:25] [Server thread/INFO]: [Not Secure] <bryan13> se
+[03:27:32] [Server thread/INFO]: [Not Secure] <alkeys> para el portal aja
+[03:27:53] [Server thread/INFO]: [Not Secure] <alkeys> por la madre de oracle andaba casi siempre a 80c ajaj
+[03:28:00] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[03:28:17] [Server thread/INFO]: [Not Secure] <bryan13> ya casi matamos todo y luteamos
+[03:28:25] [Server thread/INFO]: [Not Secure] <alkeys> see
+[03:28:56] [Server thread/INFO]: [Not Secure] <alkeys> aqio no veo ya
+[03:29:11] [Server thread/INFO]: [Not Secure] <bryan13> tapemos esas entradas
+[03:31:13] [Server thread/INFO]: [Not Secure] <alkeys> mal cae cuando c tp
+[03:31:26] [Server thread/INFO]: [Not Secure] <bryan13> se pero ya tape esos ollos
+[03:31:35] [Server thread/INFO]: [Not Secure] <bryan13> ya casi no hay
+[03:34:23] [Server thread/INFO]: [Not Secure] <alkeys> como que ya no hay
+[03:34:29] [Server thread/INFO]: [Not Secure] <alkeys> encedamos ese portal ajaaj
+[03:34:39] [Server thread/INFO]: [Not Secure] <bryan13> casi no tapemos las entradas para que no peguen las mix esas
+[03:35:00] [Server thread/INFO]: [Not Secure] <alkeys> hoy si vamos a tener chucker aajajw
+[03:36:50] [Server thread/INFO]: [Not Secure] <bryan13> poco falta y luteamos todo de abajo a arriba
+[03:37:06] [Server thread/INFO]: [Not Secure] <alkeys> see
+[03:39:29] [Server thread/WARN]: Tried to over-fill a container
+[03:40:40] [Server thread/WARN]: Tried to over-fill a container
+[03:40:44] [Server thread/INFO]: [Not Secure] <bryan13> ya no hay va enpezamos a lutear desde abajo.
+[03:40:59] [Server thread/INFO]: [Not Secure] <alkeys> ok
+[03:41:23] [Server thread/INFO]: [Not Secure] <bryan13> venite aqui al centro cd
+[03:41:26] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[03:41:34] [Server thread/INFO]: [Not Secure] <bryan13> demole
+[03:43:28] [Server thread/INFO]: [Not Secure] <alkeys> discort
+[03:43:33] [Server thread/INFO]: [Not Secure] <bryan13> puyaaa
+[03:43:36] [Server thread/INFO]: [Not Secure] <alkeys> jaja
+[03:44:50] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[03:45:54] [Server thread/INFO]: [Not Secure] <alkeys> a funca el portal ajaj
+[03:46:11] [Server thread/INFO]: [Not Secure] <bryan13> ya luteaste todo
+[03:46:14] [Server thread/INFO]: [Not Secure] <alkeys> see
+[03:46:17] [Server thread/INFO]: [Not Secure] <alkeys> nada bueno ajaja
+[03:47:13] [Server thread/INFO]: [Not Secure] <alkeys> a la casa te manda el portal xdxd
+[03:47:21] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[03:48:02] [Server thread/WARN]: Tried to over-fill a container
+[03:48:06] [Server thread/WARN]: Tried to over-fill a container
+[03:48:10] [Server thread/WARN]: Tried to over-fill a container
+[03:48:11] [Server thread/WARN]: Tried to over-fill a container
+[03:48:11] [Server thread/WARN]: Tried to over-fill a container
+[03:48:14] [Server thread/INFO]: [Not Secure] <alkeys> solo c que casi no tengo armadura l
+[03:48:15] [Server thread/INFO]: [Not Secure] <alkeys> ajaj
+[03:48:24] [Server thread/INFO]: [Not Secure] <alkeys> ni modo a recuperarla
+[03:48:35] [Server thread/INFO]: [Not Secure] <bryan13> se ya casi llego pera xd
+[03:51:11] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[03:51:25] [Server thread/WARN]: Tried to over-fill a container
+[03:52:30] [Server thread/WARN]: Tried to over-fill a container
+[03:52:35] [Server thread/INFO]: [Not Secure] <alkeys> osea la madre de xp abserve los orbes si matas a algo cerca
+[03:52:56] [Server thread/INFO]: [Not Secure] <bryan13> seeee lo que te decia xd
+[03:53:02] [Server thread/INFO]: [Not Secure] <alkeys> raro ajaj
+[03:53:32] [Server thread/WARN]: Tried to over-fill a container
+[03:55:14] [Server thread/INFO]: [Not Secure] <bryan13> man ya te digo cuantos cristal del end alle
+[03:55:21] [Server thread/INFO]: [Not Secure] <alkeys> buen look jaja
+[03:55:23] [Server thread/INFO]: [Not Secure] <alkeys> ajaa
+[03:57:05] [Server thread/INFO]: [Not Secure] <bryan13> todo este es el lut que traje de hay
+[03:57:12] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[03:59:11] [Server thread/INFO]: [Not Secure] <alkeys> io ordenando ando que tengo un relajo jaja
+[03:59:15] [Server thread/INFO]: [Not Secure] <bryan13> 13 cristales del end y 41 madres de shulker
+[03:59:19] [Server thread/INFO]: [Not Secure] <alkeys> a la
+[03:59:33] [Server thread/INFO]: [Not Secure] <bryan13> y el molde de agujas
+[03:59:42] [Server thread/INFO]: [Not Secure] <alkeys> con toño jaja
+[04:01:18] [Server thread/INFO]: [Not Secure] <bryan13> veni ve si te sirve algo de aqui
+[04:01:24] [Server thread/INFO]: [Not Secure] <alkeys> a va
+[04:01:30] [Server thread/INFO]: [Not Secure] <alkeys> soloa acomodo todo
+[04:03:41] [Server thread/INFO]: [Not Secure] <bryan13> ma
+[04:03:49] [Server thread/INFO]: [Not Secure] <alkeys> a la
+[04:04:45] [Server thread/INFO]: [Not Secure] <bryan13> hay afuera deje los shulker y mochila si te sirve algo agarra ya despues guardo todo y los cristales estos del end pa que sirven xd que yan no me acuerdo
+[04:05:06] [Server thread/INFO]: [Not Secure] <alkeys> a los critales son para revivir a la dragona creo
+[04:06:42] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[04:06:54] [Server thread/INFO]: [Not Secure] <bryan13> donde estas xd
+[04:07:02] [Server thread/INFO]: [Not Secure] <alkeys> farmiando tottem que no tengo
+[04:07:29] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[04:07:32] [Server thread/INFO]: [Not Secure] <alkeys> see
+[04:07:36] [Server thread/INFO]: [Not Secure] <alkeys> ya c me acabaron ajajja
+[04:07:48] [Server thread/INFO]: [Not Secure] <bryan13> cabezas de dragon queres 2
+[04:07:51] [Server thread/INFO]: [Not Secure] <alkeys> andar solo muriendo jaja
+[04:07:56] [Server thread/INFO]: [Not Secure] <alkeys> see dale 2 jaja
+[04:07:59] [Server thread/INFO]: [Not Secure] <bryan13> y si
+[04:15:24] [Server thread/INFO]: [Not Secure] <bryan13> aqui
+[04:16:05] [Server thread/INFO]: [Not Secure] <bryan13> hay busca si queres algo ire x las cabesas
+[04:16:11] [Server thread/INFO]: [Not Secure] <alkeys> la ranaluz te robe
+[04:16:43] [Server thread/INFO]: [Not Secure] <alkeys> a porque tenes 3 cabezas aqui el rico humillando alprobre ajaa
+[04:16:47] [Server thread/INFO]: [Not Secure] <alkeys> gracias aajaj
+[04:16:57] [Server thread/INFO]: [Not Secure] <bryan13> xd queres librs que unos no se que son
+[04:17:21] [Server thread/INFO]: [Not Secure] <alkeys> estos lo tenog me salieron bastantes ajaj
+[04:17:40] [Server thread/INFO]: [Not Secure] <alkeys> una elitra te robare ajaja
+[04:17:44] [Server thread/INFO]: [Not Secure] <bryan13> xd pijo de elitas
+[04:17:48] [Server thread/INFO]: [Not Secure] <alkeys> ee
+[04:17:49] [Server thread/INFO]: [Not Secure] <alkeys> seee
+[04:17:57] [Server thread/INFO]: [Not Secure] <bryan13> va va hay estn los tp para que vallas por las otras
+[04:18:03] [Server thread/INFO]: [Not Secure] <alkeys> orale
+[04:18:09] [Server thread/INFO]: [Not Secure] <alkeys> me gusta esta granja de caña jaaj
+[04:18:32] [Server thread/INFO]: [Not Secure] <bryan13> seee
+[04:18:39] [Server thread/INFO]: [Not Secure] <bryan13> esta es una para las elitas
+[04:18:49] [Server thread/INFO]: [Not Secure] <alkeys> a voy
+[04:18:57] [Server thread/INFO]: [Not Secure] <alkeys> a va
+[04:19:27] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[04:19:52] [Server thread/INFO]: [Not Secure] <bryan13> el de la par el otro
+[04:19:57] [Server thread/INFO]: [Not Secure] <alkeys> see ya vi ajaj
+[04:20:05] [Server thread/INFO]: [Not Secure] <alkeys> xdxd
+[04:20:07] [Server thread/INFO]: [Not Secure] <bryan13> xd dos mas
+[04:20:12] [Server thread/INFO]: [Not Secure] <alkeys> a ajaj
+[04:20:19] [Server thread/INFO]: [Not Secure] <alkeys> xdxd
+[04:20:24] [Server thread/INFO]: [Not Secure] <bryan13> vos tees dos mas
+[04:20:27] [Server thread/INFO]: [Not Secure] <alkeys> see
+[04:20:33] [Server thread/INFO]: [Not Secure] <alkeys> suficiente aajaj
+[04:20:38] [Server thread/INFO]: [Not Secure] <bryan13> ire a reparar todo xd
+[04:20:42] [Server thread/INFO]: [Not Secure] <alkeys> dale
+[04:21:31] [Server thread/INFO]: [Not Secure] <bryan13> en esa mix uno solo no sobrevive xd
+[04:21:42] [Server thread/INFO]: [Not Secure] <alkeys> no esta chetado esa madre
+[04:21:52] [Server thread/INFO]: [Not Secure] <bryan13> se
+[04:22:06] [Server thread/INFO]: [Not Secure] <bryan13> asi esta uno en el nether
+[04:22:11] [Server thread/INFO]: [Not Secure] <alkeys> a
+[04:22:35] [Server thread/INFO]: [Not Secure] <bryan13> se como la cuarta parte de ese
+[04:22:44] [Server thread/INFO]: [Not Secure] <alkeys> ajaa
+[04:24:14] [Server thread/INFO]: [Not Secure] <alkeys> aprendi siempre llevar por lo menos 2 tottem ajaj
+[04:24:24] [Server thread/INFO]: [Not Secure] <bryan13> seee
+[04:24:53] [Server thread/INFO]: [Not Secure] <alkeys> voy a farmer polvora que nee cohetes tambien ajaja
+[04:24:53] [Server thread/INFO]: [Not Secure] <bryan13> suerte que andava 2 yo
+[04:25:00] [Server thread/INFO]: [Not Secure] <alkeys> andamos pobres ajaja
+[04:25:06] [Server thread/INFO]: [Not Secure] <alkeys> x2 andaba ajaja
+[04:25:25] [Server thread/INFO]: [Not Secure] <bryan13> yo totem tenes pocion xd yo en ese cofre avia dejado una xd
+[04:25:37] [Server thread/INFO]: [Not Secure] <alkeys> no tengo aaaajja solo una tenia ajaja
+[04:25:49] [Server thread/INFO]: [Not Secure] <alkeys> a aramando hay que ver si tiene c le roba ajajaja
+[04:26:09] [Server thread/INFO]: [Not Secure] <bryan13> se
+[04:26:12] [Server thread/INFO]: [Not Secure] <alkeys> jajaja
+[04:26:48] [Server thread/INFO]: [Not Secure] <bryan13> 1 tenia xd
+[04:26:52] [Server thread/INFO]: [Not Secure] <alkeys> a jaajajja
+[04:26:53] [Server thread/INFO]: [Not Secure] <alkeys> jajaja
+[04:26:55] [Server thread/INFO]: [Not Secure] <alkeys> c mamut
+[04:27:27] [Server thread/INFO]: [Not Secure] <bryan13> pa decirte que yo 4 stack de flechas me eche xd
+[04:27:46] [Server thread/INFO]: [Not Secure] <alkeys> como 2 me eche io es que jue
+[04:27:53] [Server thread/INFO]: [Not Secure] <bryan13> se
+[04:27:56] [Server thread/INFO]: [Not Secure] <alkeys> ahi solo te hacen bucaque ajaja
+[04:28:15] [Server thread/INFO]: [Not Secure] <bryan13> se
+[04:29:08] [Server thread/INFO]: [Not Secure] <alkeys> i ami me mataron porque no andaba la pechera ajajaa
+[04:29:22] [Server thread/INFO]: [Not Secure] <alkeys> si no con las elitras ajaj
+[04:29:24] [Server thread/INFO]: [Not Secure] <bryan13> asi me pasa casi ami xd
+[04:29:54] [Server thread/INFO]: [Not Secure] <bryan13> suerte que andaba la mochila de blaze
+[04:29:54] [Server thread/INFO]: [Not Secure] <alkeys> jaajajaj
+[04:31:35] [Server thread/WARN]: alkeys moved too quickly! 13.433042064071904,-1.4345005975609553,-11.526579368113445
+[04:32:16] [Server thread/INFO]: [Not Secure] <bryan13> ya vengo
+[04:32:23] [Server thread/INFO]: [Not Secure] <alkeys> va
+[04:32:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[04:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7528ms or 150 ticks behind
+[04:39:58] [Server thread/INFO]: [Not Secure] <bryan13> ya xd
+[04:40:01] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[04:40:21] [Server thread/INFO]: [Not Secure] <alkeys> io ahorita haber si empiezo una granja de oro c me acaba mucho jaja
+[04:40:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
+[04:40:47] [Server thread/INFO]: [Not Secure] <bryan13> donde la aras pa ayudar
+[04:40:56] [Server thread/INFO]: [Not Secure] <alkeys> lejos jajaaja
+[04:41:06] [Server thread/INFO]: [Not Secure] <alkeys> pero tengo que ver como va
+[04:41:06] [Server thread/INFO]: [Not Secure] <alkeys> jaja
+[04:41:09] [Server thread/INFO]: [Not Secure] <bryan13> nether
+[04:41:12] [Server thread/INFO]: [Not Secure] <alkeys> see
+[04:41:36] [Server thread/INFO]: [Not Secure] <alkeys> no se ni que lleva ajja
+[04:41:57] [Server thread/INFO]: [Not Secure] <bryan13> tengo 35 wart plat que son las mix de tp
+[04:42:04] [Server thread/INFO]: [Not Secure] <alkeys> a la madre ajaj
+[04:42:13] [Server thread/INFO]: [Not Secure] <bryan13> xd hice varias
+[04:42:16] [Server thread/INFO]: [Not Secure] <alkeys> ajaa
+[04:42:20] [Server thread/INFO]: [Not Secure] <alkeys> son chidas
+[04:42:32] [Server thread/INFO]: [Not Secure] <bryan13> seee
+[04:43:04] [Server thread/INFO]: [Not Secure] <bryan13> como se planta la flor clolus
+[04:43:15] [Server thread/INFO]: [Not Secure] <alkeys> esa madre ni idea jaaj
+[04:43:24] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[04:43:26] [Server thread/INFO]: [Not Secure] <alkeys> sanes que la zanaora dora es la mejor comida que hay ajaa
+[04:44:44] [Server thread/INFO]: [Not Secure] <bryan13> con piedra del end xd
+[04:44:50] [Server thread/INFO]: [Not Secure] <alkeys> a enserio
+[04:45:25] [Server thread/INFO]: [Not Secure] <bryan13> se veni ve ya crecio.
+[04:45:43] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[04:45:54] [Server thread/INFO]: [Not Secure] <alkeys> xdxd
+[04:46:16] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[04:47:36] [Server thread/INFO]: alkeys lost connection: Timed out
+[04:47:36] [Server thread/INFO]: alkeys left the game
+[05:15:58] [Server thread/INFO]: alkeys[/127.71.128.12:37279] logged in with entity id 314634 at (-8204.5, 64.125, 2292.5)
+[05:15:58] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[05:15:58] [Server thread/INFO]: alkeys joined the game
+[05:15:58] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[05:16:06] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[05:16:08] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[05:16:17] [Server thread/INFO]: [Not Secure] <alkeys> voy a testiar esta madre ajaa
+[05:16:27] [Server thread/INFO]: [Not Secure] <bryan13> seeee
+[05:16:55] [Server thread/INFO]: [Not Secure] <alkeys> acabo de cambiar pasta jaaj
+[05:17:12] [Server thread/INFO]: [Not Secure] <bryan13> haber como anda
+[05:17:15] [Server thread/INFO]: [Not Secure] <alkeys> see
+[05:17:24] [Server thread/INFO]: [Not Secure] <alkeys> procede apagarce aajja
+[05:17:29] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[05:17:51] [Server thread/INFO]: [Not Secure] <alkeys> 65c esta
+[05:18:01] [Server thread/INFO]: [Not Secure] <bryan13> puya
+[05:25:31] [Server thread/INFO]: [Not Secure] <alkeys> nada jaaja sera eso
+[05:25:40] [Server thread/INFO]: [Not Secure] <bryan13> se esta raro
+[05:26:07] [Server thread/INFO]: [Not Secure] <alkeys> voy estar viendo que esta raro
+[05:26:29] [Server thread/INFO]: [Not Secure] <bryan13> se esta raro
+[05:26:47] [Server thread/INFO]: [Not Secure] <bryan13> mas que ni calor esta haciemdo
+[05:27:42] [Server thread/ERROR]: Received message for sync ID 96, current sync ID: 97
+[05:27:43] [Server thread/INFO]: [Not Secure] <alkeys> see
+[05:27:51] [Server thread/INFO]: [Not Secure] <alkeys> pero las laptop osn calientes ajaj
+[05:28:17] [Server thread/INFO]: [Not Secure] <bryan13> si no sirve el ventilador si xd
+[05:29:06] [Server thread/INFO]: [Not Secure] <alkeys> see
+[05:29:18] [Server thread/INFO]: [Not Secure] <bryan13> asi me paso una ves ami que la limpie y no le conecte el ventilador casi me echo la compu xd y al final de tan caliente que ella sola se apago todos los nucleos pasaron el % de calor maxino se apago xd
+[05:29:25] [Server thread/INFO]: [Not Secure] <alkeys> jajjaja
+[05:34:31] [Server thread/INFO]: [Not Secure] <alkeys> tenes llaves de desafio¿
+[05:34:43] [Server thread/INFO]: [Not Secure] <bryan13> de que tipo
+[05:34:50] [Server thread/INFO]: [Not Secure] <alkeys> de las normales
+[05:34:58] [Server thread/INFO]: [Not Secure] <bryan13> creo que si
+[05:35:45] [Server thread/INFO]: [Not Secure] <bryan13> busquemos xd
+[05:35:50] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[05:36:03] [Server thread/INFO]: [Not Secure] <bryan13> buscare abajo yo
+[05:36:07] [Server thread/INFO]: [Not Secure] <alkeys> a va
+[05:36:56] [Server thread/INFO]: [Not Secure] <bryan13> 2
+[05:37:02] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[05:37:04] [Server thread/INFO]: [Not Secure] <alkeys> haber
+[05:37:33] [Server thread/INFO]: [Not Secure] <bryan13> ma
+[05:37:46] [Server thread/INFO]: [Not Secure] <alkeys> orale ya vengo jaaj
+[05:37:50] [Server thread/INFO]: [Not Secure] <bryan13> va
+[05:43:10] [Server thread/INFO]: [Not Secure] <alkeys> 55c ando
+[05:43:13] [Server thread/INFO]: [Not Secure] <alkeys> ta bien jaa
+[05:43:27] [Server thread/INFO]: [Not Secure] <bryan13> se ta bien
+[05:43:42] [Server thread/INFO]: [Not Secure] <alkeys> quisas la pasta era
+[05:43:43] [Server thread/INFO]: [Not Secure] <alkeys> jaja
+[05:43:54] [Server thread/INFO]: [Not Secure] <alkeys> o asaber jaaj
+[05:43:57] [Server thread/INFO]: [Not Secure] <bryan13> se eee
+[05:46:13] [Server thread/INFO]: [Not Secure] <alkeys> vapues pro feliz noche xd
+[05:46:16] [Server thread/INFO]: alkeys lost connection: Disconnected
+[05:46:16] [Server thread/INFO]: alkeys left the game
+[05:52:15] [Server thread/INFO]: bryan13 lost connection: Disconnected
+[05:52:15] [Server thread/INFO]: bryan13 left the game
+[05:52:39] [Server thread/INFO]: Stopping the server
+[05:52:39] [Server thread/INFO]: Stopping server
+[05:52:39] [Server thread/INFO]: Saving players
+[05:52:39] [Server thread/INFO]: Saving worlds
+[05:52:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:52:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:52:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:52:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:52:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:52:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:52:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

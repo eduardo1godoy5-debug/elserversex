@@ -299,6 +299,7 @@
       "porkchop": "2026-06-04 04:34:56 +0000",
       "tropical_fish": "2026-05-26 03:53:46 +0000",
       "golden_carrot": "2026-06-08 04:36:40 +0000",
+      "beetroot_soup": "2026-06-22 03:19:55 +0000",
       "apple": "2026-05-21 18:28:59 +0000",
       "cooked_chicken": "2026-05-04 19:02:24 +0000",
       "enchanted_golden_apple": "2026-05-28 04:04:49 +0000",
@@ -967,6 +968,7 @@
       "minecraft:cave_spider": "2026-05-17 04:36:38 +0000",
       "minecraft:piglin": "2026-05-15 04:08:18 +0000",
       "minecraft:enderman": "2026-05-02 05:12:44 +0000",
+      "minecraft:endermite": "2026-06-22 01:33:28 +0000",
       "minecraft:vex": "2026-05-28 04:28:48 +0000",
       "minecraft:zombie": "2026-05-04 04:29:44 +0000",
       "minecraft:drowned": "2026-05-11 04:38:16 +0000",
@@ -5878,6 +5880,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "chorus_flower": "2026-06-22 04:44:12 +0000",
       "sugar_cane": "2026-06-13 05:12:25 +0000",
       "potato": "2026-05-12 04:31:39 +0000",
       "wheat": "2026-05-11 06:21:21 +0000",
@@ -9001,21 +9004,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+  "minecraft:husbandry/obtain_netherite_hoe": {
     "criteria": {
-      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2026-06-19 17:43:44 +0000"
-    },
-    "done": false
-  },
-  "travelersbackpack:recipes/misc/warden": {
-    "criteria": {
-      "has_echo_shard": "2026-06-19 16:56:12 +0000"
+      "netherite_hoe": "2026-06-19 16:51:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2026-06-19 16:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template": {
+    "criteria": {
+      "has_silence_armor_trim_smithing_template": "2026-06-19 16:53:21 +0000"
     },
     "done": true
   },
@@ -9031,15 +9034,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/silence_armor_trim_smithing_template": {
-    "criteria": {
-      "has_silence_armor_trim_smithing_template": "2026-06-19 16:53:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2026-06-19 16:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2026-06-19 16:54:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/warden": {
+    "criteria": {
+      "has_echo_shard": "2026-06-19 16:56:12 +0000"
     },
     "done": true
   },
@@ -9049,15 +9058,129 @@
     },
     "done": true
   },
-  "minecraft:husbandry/obtain_netherite_hoe": {
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
-      "netherite_hoe": "2026-06-19 16:51:11 +0000"
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2026-06-19 17:43:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2026-06-19 21:53:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+  "nova_structures:end/find_end_castle": {
     "criteria": {
-      "has_ward_armor_trim_smithing_template": "2026-06-19 16:54:16 +0000"
+      "end_castle": "2026-06-22 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-06-22 01:34:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2026-06-22 01:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_ghast": {
+    "criteria": {
+      "has_ghast_tear": "2026-06-22 01:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2026-06-22 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-06-22 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2026-06-22 03:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2026-06-22 03:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2026-06-22 02:42:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/magenta_sleeping_bag": {
+    "criteria": {
+      "has_magenta_wool": "2026-06-22 02:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2026-06-22 03:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2026-06-22 02:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2026-06-22 03:43:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2026-06-22 03:19:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2026-06-22 03:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2026-06-22 02:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2026-06-22 02:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2026-06-22 02:42:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2026-06-22 02:42:48 +0000"
     },
     "done": true
   },
