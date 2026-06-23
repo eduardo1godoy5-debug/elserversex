@@ -9184,5 +9184,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/dragon_smithing": {
+    "criteria": {
+      "has_dragon": "2026-06-23 17:42:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
