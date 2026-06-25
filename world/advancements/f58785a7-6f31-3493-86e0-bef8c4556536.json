@@ -4475,9 +4475,10 @@
   },
   "lootr:archaeologist": {
     "criteria": {
+      "got_brush": "2026-06-25 04:31:43 +0000",
       "got_pot": "2026-05-07 05:45:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
@@ -7216,9 +7217,10 @@
   },
   "lootr:all_gravel": {
     "criteria": {
+      "brushed_gravel": "2026-06-25 04:31:43 +0000",
       "brushed_sand": "2026-05-29 05:16:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
