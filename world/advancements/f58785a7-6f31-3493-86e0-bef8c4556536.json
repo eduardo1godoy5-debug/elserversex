@@ -9062,7 +9062,8 @@
   },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
-      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2026-06-19 17:43:44 +0000"
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2026-06-19 17:43:44 +0000",
+      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2026-06-26 05:53:02 +0000"
     },
     "done": false
   },
@@ -9195,6 +9196,30 @@
   "functional_trims:full_diamond_trim": {
     "criteria": {
       "auto": "2026-06-25 16:54:03 +0000"
+    },
+    "done": true
+  },
+  "functional_trims:full_lapis_trim": {
+    "criteria": {
+      "auto": "2026-06-26 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "functional_trims:full_gold_trim": {
+    "criteria": {
+      "auto": "2026-06-26 05:34:26 +0000"
+    },
+    "done": true
+  },
+  "functional_trims:lapis/first_lesson": {
+    "criteria": {
+      "absorb_xp_orb": "2026-06-26 05:56:47 +0000"
+    },
+    "done": true
+  },
+  "functional_trims:full_redstone_trim": {
+    "criteria": {
+      "auto": "2026-06-26 05:47:27 +0000"
     },
     "done": true
   },

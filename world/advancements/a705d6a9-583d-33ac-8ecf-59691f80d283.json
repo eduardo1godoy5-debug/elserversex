@@ -9454,5 +9454,41 @@
     },
     "done": true
   },
+  "functional_trims:full_lapis_trim": {
+    "criteria": {
+      "auto": "2026-06-26 05:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-06-26 04:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2026-06-26 06:01:21 +0000"
+    },
+    "done": true
+  },
+  "functional_trims:lapis/first_lesson": {
+    "criteria": {
+      "absorb_xp_orb": "2026-06-26 05:56:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/dragon_smithing": {
+    "criteria": {
+      "has_dragon": "2026-06-26 05:42:14 +0000"
+    },
+    "done": true
+  },
+  "functional_trims:diamond/armor_shatter": {
+    "criteria": {
+      "attack_piglin_brute": "2026-06-26 04:36:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
