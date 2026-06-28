@@ -7946,7 +7946,10 @@
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
       "nether_port": "2026-06-16 05:48:03 +0000",
-      "fortress": "2026-06-07 15:11:20 +0000"
+      "fortress": "2026-06-07 15:11:20 +0000",
+      "nether_skeleton_tower_crimson": "2026-06-28 04:45:59 +0000",
+      "nether_skeleton_tower_fort": "2026-06-28 03:58:03 +0000",
+      "nether_skeleton_tower_warped": "2026-06-28 04:35:45 +0000"
     },
     "done": false
   },
@@ -9220,6 +9223,26 @@
   "functional_trims:lapis/first_lesson": {
     "criteria": {
       "absorb_xp_orb": "2026-06-26 05:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2026-06-28 04:30:14 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_skeleton_tower": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_crimson": "2026-06-28 04:45:59 +0000",
+      "nova_structures:nether_skeleton_tower_warped": "2026-06-28 04:35:45 +0000",
+      "nova_structures:nether_skeleton_tower_fort": "2026-06-28 03:58:03 +0000"
+    },
+    "done": false
+  },
+  "functional_trims:gold/enter_bastion": {
+    "criteria": {
+      "enter_bastion": "2026-06-28 04:31:47 +0000"
     },
     "done": true
   },
