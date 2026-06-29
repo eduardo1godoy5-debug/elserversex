@@ -9613,12 +9613,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
-    "criteria": {
-      "has_log": "2026-06-28 04:35:20 +0000"
-    },
-    "done": true
-  },
   "nova_structures:nether/find_skeleton_tower": {
     "criteria": {
       "nova_structures:nether_skeleton_tower_crimson": "2026-06-28 04:44:44 +0000",
@@ -9633,6 +9627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2026-06-28 04:35:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/warped_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2026-06-28 04:35:20 +0000"
@@ -9642,6 +9642,36 @@
   "minecraft:recipes/decorations/warped_shelf": {
     "criteria": {
       "has_stripped_warped_stem": "2026-06-28 04:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2026-06-29 05:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2026-06-29 05:24:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze_smithing": {
+    "criteria": {
+      "has_blaze": "2026-06-29 04:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2026-06-29 05:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2026-06-29 05:24:46 +0000"
     },
     "done": true
   },
