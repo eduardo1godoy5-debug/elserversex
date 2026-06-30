@@ -8598,6 +8598,7 @@
   },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2026-06-30 18:41:09 +0000",
       "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2026-06-14 05:00:31 +0000"
     },
     "done": false
