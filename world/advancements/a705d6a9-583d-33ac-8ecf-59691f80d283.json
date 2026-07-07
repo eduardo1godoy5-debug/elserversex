@@ -19,33 +19,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2026-04-28 03:54:34 +0000",
       "minecraft:snowy_slopes": "2026-06-02 18:32:01 +0000",
       "minecraft:old_growth_pine_taiga": "2026-04-28 04:27:07 +0000",
       "minecraft:mushroom_fields": "2026-05-01 06:22:42 +0000",
-      "minecraft:forest": "2026-04-27 03:22:04 +0000",
       "minecraft:taiga": "2026-04-27 03:11:10 +0000",
       "minecraft:deep_ocean": "2026-06-04 05:11:52 +0000",
-      "minecraft:lush_caves": "2026-05-04 04:08:34 +0000",
-      "minecraft:deep_cold_ocean": "2026-05-01 05:57:09 +0000",
-      "minecraft:ice_spikes": "2026-04-28 04:24:05 +0000",
-      "minecraft:frozen_ocean": "2026-04-28 04:00:27 +0000",
-      "minecraft:desert": "2026-05-02 04:53:51 +0000",
       "minecraft:frozen_river": "2026-04-28 03:58:35 +0000",
-      "minecraft:windswept_forest": "2026-05-01 06:00:47 +0000",
-      "minecraft:ocean": "2026-04-27 04:31:35 +0000",
-      "minecraft:jungle": "2026-05-02 04:46:40 +0000",
       "minecraft:cherry_grove": "2026-04-28 03:34:15 +0000",
       "minecraft:sunflower_plains": "2026-05-24 16:33:26 +0000",
       "minecraft:birch_forest": "2026-04-27 04:30:51 +0000",
       "minecraft:windswept_hills": "2026-04-28 04:05:29 +0000",
-      "minecraft:old_growth_spruce_taiga": "2026-05-02 04:30:27 +0000",
-      "minecraft:snowy_beach": "2026-04-28 03:58:53 +0000",
       "minecraft:wooded_badlands": "2026-05-02 04:54:49 +0000",
       "minecraft:bamboo_jungle": "2026-05-02 04:50:53 +0000",
-      "minecraft:warm_ocean": "2026-05-02 04:53:12 +0000",
-      "minecraft:deep_lukewarm_ocean": "2026-05-02 04:52:34 +0000",
-      "minecraft:flower_forest": "2026-05-02 04:40:24 +0000",
+      "minecraft:badlands": "2026-07-07 05:43:33 +0000",
       "minecraft:savanna_plateau": "2026-06-17 04:58:13 +0000",
       "minecraft:beach": "2026-04-27 04:34:22 +0000",
       "minecraft:dark_forest": "2026-04-30 04:41:02 +0000",
@@ -56,16 +42,31 @@
       "minecraft:snowy_plains": "2026-04-28 03:59:49 +0000",
       "minecraft:snowy_taiga": "2026-04-28 04:00:45 +0000",
       "minecraft:dripstone_caves": "2026-05-17 03:37:43 +0000",
+      "minecraft:grove": "2026-04-28 04:13:43 +0000",
+      "minecraft:swamp": "2026-06-08 17:58:23 +0000",
+      "minecraft:jagged_peaks": "2026-06-05 04:28:51 +0000",
+      "minecraft:cold_ocean": "2026-04-28 03:54:34 +0000",
+      "minecraft:forest": "2026-04-27 03:22:04 +0000",
+      "minecraft:lush_caves": "2026-05-04 04:08:34 +0000",
+      "minecraft:deep_cold_ocean": "2026-05-01 05:57:09 +0000",
+      "minecraft:ice_spikes": "2026-04-28 04:24:05 +0000",
+      "minecraft:frozen_ocean": "2026-04-28 04:00:27 +0000",
+      "minecraft:desert": "2026-05-02 04:53:51 +0000",
+      "minecraft:windswept_forest": "2026-05-01 06:00:47 +0000",
+      "minecraft:ocean": "2026-04-27 04:31:35 +0000",
+      "minecraft:jungle": "2026-05-02 04:46:40 +0000",
+      "minecraft:old_growth_spruce_taiga": "2026-05-02 04:30:27 +0000",
+      "minecraft:snowy_beach": "2026-04-28 03:58:53 +0000",
+      "minecraft:warm_ocean": "2026-05-02 04:53:12 +0000",
+      "minecraft:deep_lukewarm_ocean": "2026-05-02 04:52:34 +0000",
+      "minecraft:flower_forest": "2026-05-02 04:40:24 +0000",
       "minecraft:frozen_peaks": "2026-04-28 04:14:17 +0000",
       "minecraft:old_growth_birch_forest": "2026-04-27 03:21:34 +0000",
       "minecraft:deep_dark": "2026-05-18 06:18:46 +0000",
-      "minecraft:grove": "2026-04-28 04:13:43 +0000",
-      "minecraft:swamp": "2026-06-08 17:58:23 +0000",
       "minecraft:meadow": "2026-04-27 04:42:52 +0000",
       "minecraft:windswept_gravelly_hills": "2026-04-28 04:03:52 +0000",
       "minecraft:savanna": "2026-05-25 03:08:05 +0000",
       "minecraft:plains": "2026-04-27 03:22:40 +0000",
-      "minecraft:jagged_peaks": "2026-06-05 04:28:51 +0000",
       "minecraft:pale_garden": "2026-05-02 04:43:35 +0000"
     },
     "done": false
@@ -1073,6 +1074,7 @@
       "minecraft:bogged": "2026-06-22 05:25:38 +0000",
       "minecraft:ghast": "2026-06-04 03:56:09 +0000",
       "minecraft:hoglin": "2026-06-04 04:43:21 +0000",
+      "minecraft:guardian": "2026-07-06 20:54:21 +0000",
       "minecraft:vindicator": "2026-05-04 22:24:26 +0000",
       "minecraft:breeze": "2026-05-07 06:03:40 +0000",
       "minecraft:zombie_horse": "2026-05-12 04:03:27 +0000",
@@ -1093,6 +1095,7 @@
       "minecraft:piglin": "2026-05-05 05:20:59 +0000",
       "minecraft:enderman": "2026-05-02 05:06:42 +0000",
       "minecraft:stray": "2026-07-06 02:55:28 +0000",
+      "minecraft:silverfish": "2026-07-06 21:07:58 +0000",
       "minecraft:endermite": "2026-06-22 02:13:19 +0000",
       "minecraft:vex": "2026-05-06 04:25:30 +0000",
       "minecraft:zombie": "2026-04-27 03:53:40 +0000",
@@ -9692,6 +9695,126 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2026-07-02 23:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2026-07-06 20:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2026-07-06 20:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2026-07-06 20:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2026-07-06 20:54:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2026-07-06 20:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2026-07-06 20:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2026-07-06 20:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-07-06 21:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-07-06 21:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-07-06 21:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-07-06 21:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-07-06 21:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2026-07-06 21:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2026-07-06 21:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2026-07-06 21:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2026-07-06 21:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-07-06 21:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-07-06 21:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lighten_up": {
+    "criteria": {
+      "lighten_up": "2026-07-06 21:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2026-07-07 04:24:21 +0000"
     },
     "done": true
   },

@@ -948,6 +948,7 @@
       "minecraft:skeleton": "2026-04-27 04:14:40 +0000",
       "minecraft:parched": "2026-05-29 04:49:49 +0000",
       "minecraft:ravager": "2026-05-15 05:36:07 +0000",
+      "minecraft:bogged": "2026-07-07 03:50:34 +0000",
       "minecraft:ghast": "2026-06-15 04:49:50 +0000",
       "minecraft:hoglin": "2026-05-21 17:57:41 +0000",
       "minecraft:vindicator": "2026-05-04 22:30:47 +0000",
@@ -9281,6 +9282,60 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2026-06-30 03:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2026-07-07 03:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2026-07-07 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2026-07-07 03:46:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2026-07-07 05:44:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2026-07-07 05:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-07-07 03:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lighten_up": {
+    "criteria": {
+      "lighten_up": "2026-07-07 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2026-07-07 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2026-07-07 05:44:56 +0000"
     },
     "done": true
   },
