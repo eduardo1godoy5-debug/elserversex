@@ -9818,5 +9818,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2026-07-09 17:40:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
