@@ -5690,6 +5690,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2026-05-08 18:12:13 +0000",
+      "glow_berries": "2026-07-13 01:59:39 +0000",
       "sweet_berries": "2026-05-08 04:45:09 +0000",
       "tomato": "2026-05-08 18:12:09 +0000",
       "kelp": "2026-06-05 06:36:45 +0000",
@@ -9821,6 +9822,48 @@
   "farmersdelight:recipes/decorations/birch_cabinet": {
     "criteria": {
       "has_birch_trapdoor": "2026-07-09 17:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2026-07-13 01:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2026-07-13 01:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2026-07-13 01:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2026-07-13 02:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2026-07-13 02:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2026-07-13 04:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2026-07-13 04:50:17 +0000"
     },
     "done": true
   },
