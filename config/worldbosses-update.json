@@ -1,0 +1,7 @@
+{
+  "enableUpdateChecker": true,
+  "checkDelayTicks": 200,
+  "connectTimeoutMillis": 2500,
+  "readTimeoutMillis": 4000,
+  "notifyOnlyOncePerRun": true
+}

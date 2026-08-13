@@ -1,0 +1,51 @@
+{
+  "categoryWeight": 140,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:diamond",
+      "label": "Diamonds",
+      "minCount": 5,
+      "maxCount": 9,
+      "xpBonus": 160,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:shulker_shell",
+      "label": "Shulker Shells",
+      "minCount": 2,
+      "maxCount": 3,
+      "xpBonus": 220,
+      "weight": 80,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "label": "Netherite Scrap",
+      "minCount": 2,
+      "maxCount": 3,
+      "xpBonus": 200,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:elyndra_shard",
+      "label": "Elyndra Shard",
+      "minCount": 1,
+      "maxCount": 2,
+      "xpBonus": 180,
+      "weight": 70,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:elyndra_shard",
+      "label": "Elyndra Shards",
+      "minCount": 1,
+      "maxCount": 3,
+      "xpBonus": 240,
+      "weight": 85,
+      "enabled": true
+    }
+  ]
+}

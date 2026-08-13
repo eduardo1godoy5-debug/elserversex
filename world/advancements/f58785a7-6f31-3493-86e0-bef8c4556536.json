@@ -6524,6 +6524,7 @@
       "minecraft:cow": "2026-05-21 16:03:48 +0000",
       "minecraft:fox": "2026-08-01 04:19:47 +0000",
       "minecraft:wolf": "2026-05-29 06:28:34 +0000",
+      "minecraft:turtle": "2026-08-13 04:58:34 +0000",
       "minecraft:sheep": "2026-06-01 00:58:32 +0000"
     },
     "done": false
@@ -9345,6 +9346,24 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2026-08-01 04:11:31 +0000"
+    },
+    "done": true
+  },
+  "worldbosses:root": {
+    "criteria": {
+      "tick": "2026-08-06 02:17:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz_smithing": {
+    "criteria": {
+      "has_quartz": "2026-08-13 05:56:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast_smithing": {
+    "criteria": {
+      "has_ghast": "2026-08-13 05:50:06 +0000"
     },
     "done": true
   },

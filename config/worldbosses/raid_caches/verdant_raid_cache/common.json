@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 520,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:emerald",
+      "label": "Emeralds",
+      "minCount": 4,
+      "maxCount": 10,
+      "xpBonus": 25,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:experience_bottle",
+      "label": "Experience Bottles",
+      "minCount": 4,
+      "maxCount": 8,
+      "xpBonus": 30,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:moss_block",
+      "label": "Moss Blocks",
+      "minCount": 12,
+      "maxCount": 24,
+      "xpBonus": 20,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "label": "Iron Ingots",
+      "minCount": 8,
+      "maxCount": 16,
+      "xpBonus": 20,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:oak_log",
+      "label": "Ancient Grove Logs",
+      "minCount": 16,
+      "maxCount": 32,
+      "xpBonus": 20,
+      "weight": 80,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:glow_berries",
+      "label": "Glow Berries",
+      "minCount": 8,
+      "maxCount": 16,
+      "xpBonus": 25,
+      "weight": 60,
+      "enabled": true
+    }
+  ]
+}

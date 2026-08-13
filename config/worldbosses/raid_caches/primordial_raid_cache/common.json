@@ -1,0 +1,51 @@
+{
+  "categoryWeight": 500,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:experience_bottle",
+      "label": "Experience Bottles",
+      "minCount": 12,
+      "maxCount": 24,
+      "xpBonus": 80,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:emerald_block",
+      "label": "Emerald Blocks",
+      "minCount": 2,
+      "maxCount": 5,
+      "xpBonus": 90,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "label": "Amethyst Shards",
+      "minCount": 16,
+      "maxCount": 32,
+      "xpBonus": 80,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:experience_bottle",
+      "label": "Large Experience Bottle Bundle",
+      "minCount": 24,
+      "maxCount": 40,
+      "xpBonus": 150,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:diamond_block",
+      "label": "Diamond Blocks",
+      "minCount": 1,
+      "maxCount": 3,
+      "xpBonus": 180,
+      "weight": 80,
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 280,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:lightning_rod",
+      "label": "Lightning Rods",
+      "minCount": 1,
+      "maxCount": 3,
+      "xpBonus": 60,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:diamond",
+      "label": "Diamonds",
+      "minCount": 1,
+      "maxCount": 3,
+      "xpBonus": 75,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:golden_apple",
+      "label": "Golden Apple",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 80,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:phantom_membrane",
+      "label": "Phantom Membranes",
+      "minCount": 2,
+      "maxCount": 5,
+      "xpBonus": 70,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:wind_charge",
+      "label": "Wind Charges",
+      "minCount": 4,
+      "maxCount": 12,
+      "xpBonus": 65,
+      "weight": 85,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:phantom_membrane",
+      "label": "Storm Membranes",
+      "minCount": 4,
+      "maxCount": 8,
+      "xpBonus": 80,
+      "weight": 70,
+      "enabled": true
+    }
+  ]
+}

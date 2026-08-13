@@ -1074,6 +1074,7 @@
       "minecraft:bogged": "2026-06-22 05:25:38 +0000",
       "minecraft:ghast": "2026-06-04 03:56:09 +0000",
       "minecraft:hoglin": "2026-06-04 04:43:21 +0000",
+      "minecraft:camel_husk": "2026-08-06 05:37:57 +0000",
       "minecraft:guardian": "2026-07-06 20:54:21 +0000",
       "minecraft:vindicator": "2026-05-04 22:24:26 +0000",
       "minecraft:breeze": "2026-05-07 06:03:40 +0000",
@@ -9912,6 +9913,42 @@
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2026-08-02 02:57:22 +0000"
+    },
+    "done": true
+  },
+  "worldbosses:root": {
+    "criteria": {
+      "tick": "2026-08-06 02:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_lightning_rod": "2026-08-06 04:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2026-08-06 05:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2026-08-13 03:55:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz_smithing": {
+    "criteria": {
+      "has_quartz": "2026-08-13 05:57:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast_smithing": {
+    "criteria": {
+      "has_ghast": "2026-08-13 05:51:02 +0000"
     },
     "done": true
   },

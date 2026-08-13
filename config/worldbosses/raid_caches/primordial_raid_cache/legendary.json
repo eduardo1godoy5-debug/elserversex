@@ -1,0 +1,69 @@
+{
+  "categoryWeight": 10,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:nether_star",
+      "label": "Nether Stars",
+      "minCount": 1,
+      "maxCount": 2,
+      "xpBonus": 950,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:elytra",
+      "label": "Elytra",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 1000,
+      "weight": 80,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:primordial_core",
+      "label": "Primordial Cores",
+      "minCount": 2,
+      "maxCount": 3,
+      "xpBonus": 1100,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:astrael_trophy",
+      "label": "Astrael Trophy",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 1500,
+      "weight": 25,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:astrael_shard",
+      "label": "Astrael Shard",
+      "minCount": 8,
+      "maxCount": 12,
+      "xpBonus": 1000,
+      "weight": 140,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:primordial_core",
+      "label": "Primordial Core Bundle",
+      "minCount": 3,
+      "maxCount": 5,
+      "xpBonus": 1400,
+      "weight": 120,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:astrael_shard",
+      "label": "Astrael Shard Cache",
+      "minCount": 10,
+      "maxCount": 16,
+      "xpBonus": 1500,
+      "weight": 145,
+      "enabled": true
+    }
+  ]
+}

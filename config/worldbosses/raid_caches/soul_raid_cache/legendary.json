@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 10,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:netherite_ingot",
+      "label": "Netherite Ingot",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 580,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:nether_star",
+      "label": "Nether Star",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 720,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "label": "Wither Skeleton Skulls",
+      "minCount": 3,
+      "maxCount": 3,
+      "xpBonus": 680,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:morvath_trophy",
+      "label": "Morvath Trophy",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 950,
+      "weight": 35,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:morvath_shard",
+      "label": "Morvath Shard",
+      "minCount": 4,
+      "maxCount": 8,
+      "xpBonus": 700,
+      "weight": 120,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:morvath_shard",
+      "label": "Morvath Shard Bundle",
+      "minCount": 8,
+      "maxCount": 12,
+      "xpBonus": 920,
+      "weight": 140,
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 50,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:enchanted_golden_apple",
+      "label": "Enchanted Golden Apple",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 260,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "label": "Netherite Scraps",
+      "minCount": 2,
+      "maxCount": 2,
+      "xpBonus": 280,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:totem_of_undying",
+      "label": "Totem of Undying",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 260,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:nekhraz_shard",
+      "label": "Nekhraz Shard",
+      "minCount": 2,
+      "maxCount": 4,
+      "xpBonus": 350,
+      "weight": 90,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:nekhraz_shard",
+      "label": "Nekhraz Shards",
+      "minCount": 3,
+      "maxCount": 5,
+      "xpBonus": 420,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "label": "Buried Netherite Scraps",
+      "minCount": 3,
+      "maxCount": 4,
+      "xpBonus": 380,
+      "weight": 75,
+      "enabled": true
+    }
+  ]
+}

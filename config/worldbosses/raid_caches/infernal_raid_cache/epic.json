@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 50,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:enchanted_golden_apple",
+      "label": "Enchanted Golden Apple",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 300,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "label": "Netherite Scraps",
+      "minCount": 2,
+      "maxCount": 3,
+      "xpBonus": 310,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:ancient_debris",
+      "label": "Ancient Debris",
+      "minCount": 3,
+      "maxCount": 4,
+      "xpBonus": 320,
+      "weight": 80,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:varkhul_shard",
+      "label": "Varkhul Shard",
+      "minCount": 2,
+      "maxCount": 4,
+      "xpBonus": 350,
+      "weight": 90,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:varkhul_shard",
+      "label": "Varkhul Shards",
+      "minCount": 3,
+      "maxCount": 5,
+      "xpBonus": 460,
+      "weight": 105,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "label": "Infernal Netherite Scraps",
+      "minCount": 4,
+      "maxCount": 6,
+      "xpBonus": 440,
+      "weight": 85,
+      "enabled": true
+    }
+  ]
+}

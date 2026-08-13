@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 50,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:enchanted_golden_apple",
+      "label": "Enchanted Golden Apple",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 300,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "label": "Netherite Scraps",
+      "minCount": 2,
+      "maxCount": 3,
+      "xpBonus": 310,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "label": "Wither Skeleton Skulls",
+      "minCount": 1,
+      "maxCount": 2,
+      "xpBonus": 330,
+      "weight": 70,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:morvath_shard",
+      "label": "Morvath Shard",
+      "minCount": 2,
+      "maxCount": 4,
+      "xpBonus": 350,
+      "weight": 90,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:morvath_shard",
+      "label": "Morvath Shards",
+      "minCount": 3,
+      "maxCount": 5,
+      "xpBonus": 460,
+      "weight": 105,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:nether_star",
+      "label": "Soulbound Nether Star",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 620,
+      "weight": 25,
+      "enabled": true
+    }
+  ]
+}

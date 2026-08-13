@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 280,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:emerald_block",
+      "label": "Emerald Block",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 60,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:diamond",
+      "label": "Diamonds",
+      "minCount": 1,
+      "maxCount": 3,
+      "xpBonus": 70,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:golden_apple",
+      "label": "Golden Apple",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 80,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "label": "Amethyst Shards",
+      "minCount": 8,
+      "maxCount": 16,
+      "xpBonus": 55,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:mossy_cobblestone",
+      "label": "Mossy Cobblestone",
+      "minCount": 16,
+      "maxCount": 32,
+      "xpBonus": 55,
+      "weight": 70,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:bone_meal",
+      "label": "Ritual Bone Meal",
+      "minCount": 16,
+      "maxCount": 32,
+      "xpBonus": 45,
+      "weight": 80,
+      "enabled": true
+    }
+  ]
+}

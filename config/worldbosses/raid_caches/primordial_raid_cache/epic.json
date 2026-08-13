@@ -1,0 +1,51 @@
+{
+  "categoryWeight": 55,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:netherite_ingot",
+      "label": "Netherite Ingots",
+      "minCount": 1,
+      "maxCount": 2,
+      "xpBonus": 620,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:enchanted_golden_apple",
+      "label": "Enchanted Golden Apples",
+      "minCount": 2,
+      "maxCount": 3,
+      "xpBonus": 560,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:worldbreaker_fragment",
+      "label": "Worldbreaker Fragments",
+      "minCount": 3,
+      "maxCount": 5,
+      "xpBonus": 700,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:astrael_shard",
+      "label": "Astrael Shard",
+      "minCount": 4,
+      "maxCount": 7,
+      "xpBonus": 520,
+      "weight": 110,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:worldbreaker_fragment",
+      "label": "Worldbreaker Fragment Cache",
+      "minCount": 5,
+      "maxCount": 8,
+      "xpBonus": 850,
+      "weight": 115,
+      "enabled": true
+    }
+  ]
+}

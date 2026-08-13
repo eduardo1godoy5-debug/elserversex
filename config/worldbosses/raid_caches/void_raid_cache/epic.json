@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 50,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:elytra",
+      "label": "Elytra",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 420,
+      "weight": 45,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:enchanted_golden_apple",
+      "label": "Enchanted Golden Apple",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 360,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "label": "Netherite Scraps",
+      "minCount": 3,
+      "maxCount": 4,
+      "xpBonus": 360,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:elyndra_shard",
+      "label": "Elyndra Shard",
+      "minCount": 2,
+      "maxCount": 4,
+      "xpBonus": 350,
+      "weight": 90,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:elyndra_shard",
+      "label": "Elyndra Shards",
+      "minCount": 3,
+      "maxCount": 5,
+      "xpBonus": 500,
+      "weight": 105,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:elytra",
+      "label": "Void-Wing Elytra",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 620,
+      "weight": 45,
+      "enabled": true
+    }
+  ]
+}

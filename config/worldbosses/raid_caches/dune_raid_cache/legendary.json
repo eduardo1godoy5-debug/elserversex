@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 10,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:netherite_ingot",
+      "label": "Netherite Ingot",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 540,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:nether_star",
+      "label": "Nether Star",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 680,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:enchanted_golden_apple",
+      "label": "Enchanted Golden Apples",
+      "minCount": 2,
+      "maxCount": 2,
+      "xpBonus": 560,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:nekhraz_trophy",
+      "label": "Nekhraz Trophy",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 900,
+      "weight": 35,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:nekhraz_shard",
+      "label": "Nekhraz Shard",
+      "minCount": 4,
+      "maxCount": 8,
+      "xpBonus": 700,
+      "weight": 120,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:nekhraz_shard",
+      "label": "Nekhraz Shard Bundle",
+      "minCount": 8,
+      "maxCount": 12,
+      "xpBonus": 850,
+      "weight": 130,
+      "enabled": true
+    }
+  ]
+}

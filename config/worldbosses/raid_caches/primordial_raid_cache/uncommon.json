@@ -1,0 +1,42 @@
+{
+  "categoryWeight": 285,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:diamond",
+      "label": "Diamonds",
+      "minCount": 6,
+      "maxCount": 12,
+      "xpBonus": 170,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:gold_block",
+      "label": "Gold Blocks",
+      "minCount": 4,
+      "maxCount": 8,
+      "xpBonus": 160,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:worldbreaker_fragment",
+      "label": "Worldbreaker Fragments",
+      "minCount": 1,
+      "maxCount": 2,
+      "xpBonus": 220,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:emerald_block",
+      "label": "Emerald Blocks",
+      "minCount": 6,
+      "maxCount": 12,
+      "xpBonus": 220,
+      "weight": 85,
+      "enabled": true
+    }
+  ]
+}

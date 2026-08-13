@@ -1,0 +1,51 @@
+{
+  "categoryWeight": 280,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:quartz",
+      "label": "Nether Quartz",
+      "minCount": 10,
+      "maxCount": 22,
+      "xpBonus": 60,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:ghast_tear",
+      "label": "Ghast Tears",
+      "minCount": 1,
+      "maxCount": 3,
+      "xpBonus": 90,
+      "weight": 80,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:diamond",
+      "label": "Diamonds",
+      "minCount": 1,
+      "maxCount": 3,
+      "xpBonus": 85,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:golden_apple",
+      "label": "Golden Apple",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 90,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:crying_obsidian",
+      "label": "Crying Obsidian",
+      "minCount": 4,
+      "maxCount": 10,
+      "xpBonus": 85,
+      "weight": 80,
+      "enabled": true
+    }
+  ]
+}

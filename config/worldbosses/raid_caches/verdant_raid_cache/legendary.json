@@ -1,0 +1,51 @@
+{
+  "categoryWeight": 10,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:netherite_ingot",
+      "label": "Netherite Ingot",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 500,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:nether_star",
+      "label": "Nether Star",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 600,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:sylvaron_trophy",
+      "label": "Sylvaron Trophy",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 900,
+      "weight": 35,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:sylvaron_shard",
+      "label": "Sylvaron Shard",
+      "minCount": 4,
+      "maxCount": 8,
+      "xpBonus": 700,
+      "weight": 120,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:sylvaron_shard",
+      "label": "Sylvaron Shard Bundle",
+      "minCount": 8,
+      "maxCount": 12,
+      "xpBonus": 850,
+      "weight": 130,
+      "enabled": true
+    }
+  ]
+}
