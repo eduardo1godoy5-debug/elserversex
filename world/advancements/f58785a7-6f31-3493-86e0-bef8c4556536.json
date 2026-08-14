@@ -959,6 +959,7 @@
       "minecraft:spider": "2026-04-27 04:09:46 +0000",
       "minecraft:piglin_brute": "2026-05-14 04:10:13 +0000",
       "minecraft:creeper": "2026-04-27 04:09:08 +0000",
+      "minecraft:wither": "2026-08-14 04:36:03 +0000",
       "minecraft:evoker": "2026-05-04 22:31:08 +0000",
       "minecraft:slime": "2026-05-07 05:45:03 +0000",
       "minecraft:zombie_nautilus": "2026-05-29 05:50:02 +0000",
@@ -9355,15 +9356,63 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ghast_smithing": {
+    "criteria": {
+      "has_ghast": "2026-08-13 05:50:06 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/quartz_smithing": {
     "criteria": {
       "has_quartz": "2026-08-13 05:56:07 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/ghast_smithing": {
+  "minecraft:recipes/decorations/dye_light_blue_carpet": {
     "criteria": {
-      "has_ghast": "2026-08-13 05:50:06 +0000"
+      "has_needed_dye": "2026-08-14 05:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_light_blue_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-08-14 05:18:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_light_blue_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2026-08-14 05:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-08-14 05:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-08-14 05:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2026-08-14 05:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/light_blue_bundle": {
+    "criteria": {
+      "has_light_blue_dye": "2026-08-14 05:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2026-08-14 05:33:10 +0000"
     },
     "done": true
   },
