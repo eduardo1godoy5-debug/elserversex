@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 520,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:sand",
+      "label": "Sand",
+      "minCount": 32,
+      "maxCount": 64,
+      "xpBonus": 20,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:sandstone",
+      "label": "Sandstone",
+      "minCount": 16,
+      "maxCount": 32,
+      "xpBonus": 20,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "label": "Gold Nuggets",
+      "minCount": 12,
+      "maxCount": 24,
+      "xpBonus": 25,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:experience_bottle",
+      "label": "Experience Bottles",
+      "minCount": 4,
+      "maxCount": 8,
+      "xpBonus": 30,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:sandstone",
+      "label": "Ancient Sandstone",
+      "minCount": 32,
+      "maxCount": 64,
+      "xpBonus": 20,
+      "weight": 90,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:cactus",
+      "label": "Dune Cactus",
+      "minCount": 8,
+      "maxCount": 18,
+      "xpBonus": 20,
+      "weight": 60,
+      "enabled": true
+    }
+  ]
+}

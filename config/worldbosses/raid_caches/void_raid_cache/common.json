@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 520,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:chorus_fruit",
+      "label": "Chorus Fruit",
+      "minCount": 8,
+      "maxCount": 18,
+      "xpBonus": 25,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:end_stone",
+      "label": "End Stone",
+      "minCount": 24,
+      "maxCount": 48,
+      "xpBonus": 20,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:ender_pearl",
+      "label": "Ender Pearls",
+      "minCount": 4,
+      "maxCount": 10,
+      "xpBonus": 35,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:experience_bottle",
+      "label": "Experience Bottles",
+      "minCount": 5,
+      "maxCount": 10,
+      "xpBonus": 40,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:purpur_pillar",
+      "label": "Purpur Pillars",
+      "minCount": 8,
+      "maxCount": 18,
+      "xpBonus": 40,
+      "weight": 70,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:end_rod",
+      "label": "End Rods",
+      "minCount": 4,
+      "maxCount": 10,
+      "xpBonus": 45,
+      "weight": 70,
+      "enabled": true
+    }
+  ]
+}

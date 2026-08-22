@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 280,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:blaze_rod",
+      "label": "Blaze Rods",
+      "minCount": 2,
+      "maxCount": 5,
+      "xpBonus": 75,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "label": "Gold Ingots",
+      "minCount": 5,
+      "maxCount": 10,
+      "xpBonus": 65,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:diamond",
+      "label": "Diamonds",
+      "minCount": 1,
+      "maxCount": 3,
+      "xpBonus": 85,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:golden_apple",
+      "label": "Golden Apple",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 90,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:obsidian",
+      "label": "Obsidian",
+      "minCount": 8,
+      "maxCount": 18,
+      "xpBonus": 75,
+      "weight": 80,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:magma_block",
+      "label": "Magma Blocks",
+      "minCount": 12,
+      "maxCount": 28,
+      "xpBonus": 65,
+      "weight": 75,
+      "enabled": true
+    }
+  ]
+}

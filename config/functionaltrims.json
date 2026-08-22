@@ -1,0 +1,56 @@
+{
+  "modEnabled": true,
+  "iron": {
+    "projectileReflectChance": 0.6,
+    "shieldKnockbackStrengthMultiplier": 1.15,
+    "axeAttackResistanceEnabled": true,
+    "enabled": true
+  },
+  "gold": {
+    "distractPiglinBrutesEnabled": true,
+    "enabled": true
+  },
+  "diamond": {
+    "percentHealthRegainedAfterBurst": 0.5,
+    "percentArmorDurabilityLostAfterBurst": 1.0,
+    "enabled": true
+  },
+  "netherite": {
+    "enabled": true
+  },
+  "redstone": {
+    "blockPowerLevelWhenSteppedOn": 15,
+    "enabled": true
+  },
+  "emerald": {
+    "percentChanceForExtraRoll1": 1.0,
+    "percentChanceForExtraRoll2": 0.5,
+    "enabled": true
+  },
+  "lapis": {
+    "extraExpMultiplier": 0.5,
+    "enabled": true
+  },
+  "quartz": {
+    "hungerRestoredMultiplier": 1.25,
+    "saturationRestoredMultiplier": 1.25,
+    "potionEffectDurationMultiplier": 1.25,
+    "enabled": true
+  },
+  "amethyst": {
+    "motionlessSecondsBeforeEffectStanding": 3.0,
+    "motionlessSecondsBeforeEffectSneaking": 1.5,
+    "effectRangeMultiplier": 1.0,
+    "enabled": true
+  },
+  "copper": {
+    "lightningStrikeChanceMultiplier": 1.0,
+    "chargedEffectDuration": 60.0,
+    "chargedStrikeDamageMultiplier": 1.5,
+    "enabled": true
+  },
+  "resin": {
+    "gripStrengthMultiplier": 1.0,
+    "enabled": true
+  }
+}

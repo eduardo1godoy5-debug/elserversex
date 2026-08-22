@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 520,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:netherrack",
+      "label": "Netherrack",
+      "minCount": 32,
+      "maxCount": 64,
+      "xpBonus": 20,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:magma_cream",
+      "label": "Magma Cream",
+      "minCount": 4,
+      "maxCount": 10,
+      "xpBonus": 30,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "label": "Blaze Powder",
+      "minCount": 6,
+      "maxCount": 14,
+      "xpBonus": 30,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:experience_bottle",
+      "label": "Experience Bottles",
+      "minCount": 4,
+      "maxCount": 8,
+      "xpBonus": 35,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:blackstone",
+      "label": "Charred Blackstone",
+      "minCount": 24,
+      "maxCount": 48,
+      "xpBonus": 25,
+      "weight": 80,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:fire_charge",
+      "label": "Fire Charges",
+      "minCount": 8,
+      "maxCount": 18,
+      "xpBonus": 35,
+      "weight": 70,
+      "enabled": true
+    }
+  ]
+}

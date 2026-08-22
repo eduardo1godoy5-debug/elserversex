@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 520,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:soul_sand",
+      "label": "Soul Sand",
+      "minCount": 16,
+      "maxCount": 32,
+      "xpBonus": 20,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:soul_soil",
+      "label": "Soul Soil",
+      "minCount": 16,
+      "maxCount": 32,
+      "xpBonus": 20,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:bone",
+      "label": "Bones",
+      "minCount": 8,
+      "maxCount": 18,
+      "xpBonus": 25,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:experience_bottle",
+      "label": "Experience Bottles",
+      "minCount": 4,
+      "maxCount": 8,
+      "xpBonus": 35,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:soul_lantern",
+      "label": "Soul Lanterns",
+      "minCount": 4,
+      "maxCount": 10,
+      "xpBonus": 35,
+      "weight": 70,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:bone_block",
+      "label": "Bone Blocks",
+      "minCount": 4,
+      "maxCount": 12,
+      "xpBonus": 30,
+      "weight": 80,
+      "enabled": true
+    }
+  ]
+}

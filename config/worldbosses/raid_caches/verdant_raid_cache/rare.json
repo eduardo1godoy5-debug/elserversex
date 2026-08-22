@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 140,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:diamond",
+      "label": "Diamonds",
+      "minCount": 4,
+      "maxCount": 7,
+      "xpBonus": 120,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:totem_of_undying",
+      "label": "Totem of Undying",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 150,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "label": "Netherite Scrap",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 140,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:sylvaron_shard",
+      "label": "Sylvaron Shard",
+      "minCount": 1,
+      "maxCount": 2,
+      "xpBonus": 180,
+      "weight": 70,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:emerald_block",
+      "label": "Emerald Blocks",
+      "minCount": 2,
+      "maxCount": 4,
+      "xpBonus": 140,
+      "weight": 75,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:heart_of_the_sea",
+      "label": "Grove Heart Relic",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 240,
+      "weight": 25,
+      "enabled": true
+    }
+  ]
+}

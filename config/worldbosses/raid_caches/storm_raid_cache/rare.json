@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 140,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:diamond",
+      "label": "Diamonds",
+      "minCount": 4,
+      "maxCount": 7,
+      "xpBonus": 130,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:elytra",
+      "label": "Elytra",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 180,
+      "weight": 15,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "label": "Netherite Scrap",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 145,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:aureon_shard",
+      "label": "Aureon Shard",
+      "minCount": 1,
+      "maxCount": 2,
+      "xpBonus": 180,
+      "weight": 70,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:aureon_shard",
+      "label": "Aureon Shards",
+      "minCount": 1,
+      "maxCount": 3,
+      "xpBonus": 200,
+      "weight": 80,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:trident",
+      "label": "Storm-Touched Trident",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 260,
+      "weight": 20,
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 280,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:gold_ingot",
+      "label": "Gold Ingots",
+      "minCount": 3,
+      "maxCount": 8,
+      "xpBonus": 60,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:emerald",
+      "label": "Emeralds",
+      "minCount": 4,
+      "maxCount": 10,
+      "xpBonus": 70,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:diamond",
+      "label": "Diamonds",
+      "minCount": 1,
+      "maxCount": 3,
+      "xpBonus": 75,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:golden_apple",
+      "label": "Golden Apple",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 80,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:gold_block",
+      "label": "Buried Gold Blocks",
+      "minCount": 1,
+      "maxCount": 3,
+      "xpBonus": 80,
+      "weight": 80,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:tnt",
+      "label": "Ruin Charges",
+      "minCount": 4,
+      "maxCount": 10,
+      "xpBonus": 75,
+      "weight": 70,
+      "enabled": true
+    }
+  ]
+}

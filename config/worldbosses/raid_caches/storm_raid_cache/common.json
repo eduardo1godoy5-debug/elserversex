@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 520,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:amethyst_shard",
+      "label": "Amethyst Shards",
+      "minCount": 6,
+      "maxCount": 14,
+      "xpBonus": 25,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:copper_ingot",
+      "label": "Copper Ingots",
+      "minCount": 12,
+      "maxCount": 24,
+      "xpBonus": 20,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:feather",
+      "label": "Feathers",
+      "minCount": 8,
+      "maxCount": 18,
+      "xpBonus": 20,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:experience_bottle",
+      "label": "Experience Bottles",
+      "minCount": 4,
+      "maxCount": 8,
+      "xpBonus": 30,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:copper_block",
+      "label": "Copper Blocks",
+      "minCount": 2,
+      "maxCount": 5,
+      "xpBonus": 25,
+      "weight": 80,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:amethyst_block",
+      "label": "Amethyst Blocks",
+      "minCount": 1,
+      "maxCount": 3,
+      "xpBonus": 35,
+      "weight": 60,
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "categoryWeight": 150,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:netherite_scrap",
+      "label": "Netherite Scraps",
+      "minCount": 3,
+      "maxCount": 6,
+      "xpBonus": 320,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:shulker_shell",
+      "label": "Shulker Shells",
+      "minCount": 3,
+      "maxCount": 6,
+      "xpBonus": 300,
+      "weight": 80,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:primordial_core",
+      "label": "Primordial Core",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 420,
+      "weight": 60,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:astrael_shard",
+      "label": "Astrael Shard",
+      "minCount": 2,
+      "maxCount": 4,
+      "xpBonus": 260,
+      "weight": 85,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:astrael_shard",
+      "label": "Astrael Shards",
+      "minCount": 3,
+      "maxCount": 6,
+      "xpBonus": 560,
+      "weight": 100,
+      "enabled": true
+    }
+  ]
+}

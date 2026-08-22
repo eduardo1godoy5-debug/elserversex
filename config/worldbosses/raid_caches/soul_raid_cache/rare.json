@@ -1,0 +1,51 @@
+{
+  "categoryWeight": 140,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:netherite_scrap",
+      "label": "Netherite Scrap",
+      "minCount": 1,
+      "maxCount": 2,
+      "xpBonus": 170,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:diamond",
+      "label": "Diamonds",
+      "minCount": 4,
+      "maxCount": 8,
+      "xpBonus": 140,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "label": "Wither Skeleton Skull",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 220,
+      "weight": 45,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:morvath_shard",
+      "label": "Morvath Shard",
+      "minCount": 1,
+      "maxCount": 2,
+      "xpBonus": 180,
+      "weight": 70,
+      "enabled": true
+    },
+    {
+      "item": "worldbosses:morvath_shard",
+      "label": "Morvath Shards",
+      "minCount": 1,
+      "maxCount": 3,
+      "xpBonus": 220,
+      "weight": 85,
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "categoryWeight": 280,
+  "enabled": true,
+  "rewards": [
+    {
+      "item": "minecraft:purpur_block",
+      "label": "Purpur Blocks",
+      "minCount": 12,
+      "maxCount": 28,
+      "xpBonus": 70,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:shulker_shell",
+      "label": "Shulker Shell",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 120,
+      "weight": 55,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:diamond",
+      "label": "Diamonds",
+      "minCount": 2,
+      "maxCount": 4,
+      "xpBonus": 95,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:golden_apple",
+      "label": "Golden Apple",
+      "minCount": 1,
+      "maxCount": 1,
+      "xpBonus": 95,
+      "weight": 100,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:end_crystal",
+      "label": "End Crystal",
+      "minCount": 1,
+      "maxCount": 2,
+      "xpBonus": 120,
+      "weight": 65,
+      "enabled": true
+    },
+    {
+      "item": "minecraft:ender_eye",
+      "label": "Eyes of Ender",
+      "minCount": 3,
+      "maxCount": 7,
+      "xpBonus": 100,
+      "weight": 80,
+      "enabled": true
+    }
+  ]
+}
