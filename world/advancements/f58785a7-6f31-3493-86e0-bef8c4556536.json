@@ -303,6 +303,7 @@
       "golden_apple": "2026-06-10 16:54:41 +0000",
       "suspicious_stew": "2026-05-25 03:54:33 +0000",
       "rotten_flesh": "2026-06-17 19:25:00 +0000",
+      "cookie": "2026-09-11 04:01:48 +0000",
       "glow_berries": "2026-04-28 04:00:42 +0000",
       "golden_carrot": "2026-06-08 04:36:40 +0000",
       "beetroot": "2026-06-29 04:24:39 +0000",
@@ -973,6 +974,7 @@
       "minecraft:cave_spider": "2026-05-17 04:36:38 +0000",
       "minecraft:piglin": "2026-05-15 04:08:18 +0000",
       "minecraft:enderman": "2026-05-02 05:12:44 +0000",
+      "minecraft:silverfish": "2026-09-07 05:11:57 +0000",
       "minecraft:endermite": "2026-06-22 01:33:28 +0000",
       "minecraft:vex": "2026-05-28 04:28:48 +0000",
       "minecraft:zombie": "2026-05-04 04:29:44 +0000",
@@ -5892,6 +5894,7 @@
       "sweet_berries": "2026-08-01 04:04:40 +0000",
       "wheat": "2026-05-11 06:21:21 +0000",
       "pumpkin": "2026-06-10 16:41:34 +0000",
+      "cocoa": "2026-09-11 04:13:35 +0000",
       "carrot": "2026-05-12 04:31:04 +0000"
     },
     "done": false
@@ -9467,6 +9470,133 @@
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "soul_campfire": "2026-08-31 03:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/heart_transplanter": {
+    "criteria": {
+      "place_pale_oak_log": "2026-09-07 04:31:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2026-09-07 04:43:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2026-09-07 04:43:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2026-09-07 04:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2026-09-07 04:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2026-09-07 04:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2026-09-07 05:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2026-09-07 05:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2026-09-07 05:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2026-09-07 05:23:39 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_nether_wasteland": "2026-09-11 04:54:13 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2026-09-11 04:57:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-11 05:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2026-09-11 05:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-11 05:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-11 05:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-11 05:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-11 05:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-09-11 05:17:21 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_nether_brick": "2026-09-11 05:02:51 +0000",
+      "in_outpost_soul": "2026-09-11 05:16:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-11 05:03:13 +0000"
     },
     "done": true
   },

@@ -340,6 +340,7 @@
       "honey_bottle": "2026-06-22 05:41:17 +0000",
       "rotten_flesh": "2026-05-01 00:20:08 +0000",
       "suspicious_stew": "2026-05-02 04:23:34 +0000",
+      "cookie": "2026-09-07 05:02:40 +0000",
       "cooked_mutton": "2026-04-27 05:00:01 +0000",
       "glow_berries": "2026-05-25 04:43:42 +0000",
       "sweet_berries": "2026-04-28 04:21:19 +0000",
@@ -1081,6 +1082,7 @@
       "minecraft:vindicator": "2026-05-04 22:24:26 +0000",
       "minecraft:breeze": "2026-05-07 06:03:40 +0000",
       "minecraft:zombie_horse": "2026-05-12 04:03:27 +0000",
+      "minecraft:creaking": "2026-09-07 04:34:38 +0000",
       "minecraft:magma_cube": "2026-05-06 05:06:45 +0000",
       "minecraft:spider": "2026-04-27 03:50:53 +0000",
       "minecraft:piglin_brute": "2026-05-07 05:45:09 +0000",
@@ -1088,6 +1090,7 @@
       "minecraft:wither": "2026-05-11 03:51:59 +0000",
       "minecraft:evoker": "2026-05-04 22:32:12 +0000",
       "minecraft:slime": "2026-05-07 05:56:59 +0000",
+      "minecraft:zombie_nautilus": "2026-09-07 04:51:26 +0000",
       "minecraft:phantom": "2026-06-08 18:12:18 +0000",
       "minecraft:zombified_piglin": "2026-05-10 04:54:34 +0000",
       "minecraft:witch": "2026-05-04 22:30:47 +0000",
@@ -5699,6 +5702,7 @@
       "kelp": "2026-06-05 06:36:45 +0000",
       "beetroot": "2026-05-08 04:45:57 +0000",
       "brown_mushroom": "2026-05-08 18:24:48 +0000",
+      "cocoa": "2026-09-11 04:13:09 +0000",
       "chorus_flower": "2026-06-22 04:45:57 +0000",
       "sugar_cane": "2026-05-14 02:28:06 +0000",
       "potato": "2026-05-08 04:47:02 +0000",
@@ -10267,6 +10271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2026-09-05 15:39:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2026-09-05 15:57:16 +0000"
@@ -10276,12 +10286,6 @@
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2026-09-05 15:57:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2026-09-05 16:28:58 +0000"
     },
     "done": true
   },
@@ -10297,21 +10301,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
-    "criteria": {
-      "has_polished_blackstone_slab": "2026-09-05 15:39:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2026-09-05 15:57:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
-    "criteria": {
-      "has_log": "2026-09-05 16:28:58 +0000"
     },
     "done": true
   },
@@ -10321,9 +10313,124 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-09-05 16:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2026-09-05 16:28:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_shelf": {
     "criteria": {
       "has_stripped_crimson_stem": "2026-09-05 16:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/heart_transplanter": {
+    "criteria": {
+      "place_pale_oak_log": "2026-09-07 04:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2026-09-07 04:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2026-09-07 04:32:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2026-09-07 04:43:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2026-09-07 04:43:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2026-09-07 04:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2026-09-07 04:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2026-09-07 04:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2026-09-07 04:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2026-09-07 04:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2026-09-07 05:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2026-09-07 05:24:23 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_nether_wasteland": "2026-09-11 04:50:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2026-09-11 04:55:09 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2026-09-11 04:56:43 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_nether_brick": "2026-09-11 05:02:36 +0000",
+      "in_outpost_soul": "2026-09-11 05:15:00 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:how_did_that_get_there": {
+    "criteria": {
+      "bug_in_the_loot_stored_enchant": "2026-09-11 05:06:26 +0000"
     },
     "done": true
   },

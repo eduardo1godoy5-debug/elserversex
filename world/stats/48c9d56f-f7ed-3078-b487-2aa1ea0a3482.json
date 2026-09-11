@@ -17,16 +17,16 @@
     },
     "minecraft:custom": {
       "hardcorerevival:knockouts": 6,
-      "minecraft:time_since_rest": 1,
+      "minecraft:time_since_rest": 7676,
       "minecraft:fall_one_cm": 1775,
-      "minecraft:total_world_time": 460862,
-      "minecraft:leave_game": 66,
+      "minecraft:total_world_time": 468537,
+      "minecraft:leave_game": 67,
       "minecraft:damage_taken": 1650,
       "hardcorerevival:times_rescued": 2,
-      "minecraft:play_time": 460862,
+      "minecraft:play_time": 468537,
       "minecraft:damage_absorbed": 3625,
       "minecraft:deaths": 3,
-      "minecraft:time_since_death": 1
+      "minecraft:time_since_death": 7676
     }
   },
   "DataVersion": 4671
