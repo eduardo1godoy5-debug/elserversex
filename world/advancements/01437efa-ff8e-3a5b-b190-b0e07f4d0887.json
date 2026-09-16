@@ -395,6 +395,7 @@
       "minecraft:zombie": "2026-04-27 03:55:39 +0000",
       "minecraft:creeper": "2026-04-30 18:33:48 +0000",
       "minecraft:drowned": "2026-06-14 04:33:46 +0000",
+      "minecraft:wither": "2026-09-15 03:50:44 +0000",
       "minecraft:zombie_villager": "2026-05-05 05:12:37 +0000",
       "minecraft:slime": "2026-05-07 05:45:38 +0000"
     },
@@ -5764,6 +5765,54 @@
   "minecraft:recipes/building_blocks/waxed_lightning_rod_from_honeycomb": {
     "criteria": {
       "has_lightning_rod": "2026-08-06 04:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2026-09-15 03:57:12 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2026-09-15 03:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2026-09-15 03:57:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz_smithing": {
+    "criteria": {
+      "has_quartz": "2026-09-15 04:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2026-09-15 03:50:45 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2026-09-15 03:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2026-09-15 03:49:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2026-09-15 03:41:52 +0000"
     },
     "done": true
   },

@@ -1,5 +1,18 @@
 {
   "stats": {
+    "minecraft:custom": {
+      "hardcorerevival:knockouts": 6,
+      "minecraft:time_since_rest": 13604,
+      "minecraft:fall_one_cm": 1775,
+      "minecraft:total_world_time": 474465,
+      "minecraft:leave_game": 69,
+      "minecraft:damage_taken": 1650,
+      "hardcorerevival:times_rescued": 2,
+      "minecraft:play_time": 474465,
+      "minecraft:damage_absorbed": 3625,
+      "minecraft:deaths": 3,
+      "minecraft:time_since_death": 13604
+    },
     "minecraft:picked_up": {
       "minecraft:netherrack": 4,
       "minecraft:dirt": 2,
@@ -14,19 +27,6 @@
       "minecraft:obsidian": 1,
       "minecraft:leather_boots": 1,
       "minecraft:baked_potato": 1
-    },
-    "minecraft:custom": {
-      "hardcorerevival:knockouts": 6,
-      "minecraft:time_since_rest": 7676,
-      "minecraft:fall_one_cm": 1775,
-      "minecraft:total_world_time": 468537,
-      "minecraft:leave_game": 67,
-      "minecraft:damage_taken": 1650,
-      "hardcorerevival:times_rescued": 2,
-      "minecraft:play_time": 468537,
-      "minecraft:damage_absorbed": 3625,
-      "minecraft:deaths": 3,
-      "minecraft:time_since_death": 7676
     }
   },
   "DataVersion": 4671
