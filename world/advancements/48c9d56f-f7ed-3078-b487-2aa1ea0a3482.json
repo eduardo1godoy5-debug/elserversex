@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "worldbosses:root": {
-    "criteria": {
-      "tick": "2026-08-22 03:26:00 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:root": {
     "criteria": {
       "tick": "2026-08-22 03:26:00 +0000"

@@ -2,16 +2,16 @@
   "stats": {
     "minecraft:custom": {
       "hardcorerevival:knockouts": 6,
-      "minecraft:time_since_rest": 13604,
+      "minecraft:time_since_rest": 46783,
       "minecraft:fall_one_cm": 1775,
-      "minecraft:total_world_time": 474465,
-      "minecraft:leave_game": 69,
+      "minecraft:total_world_time": 507644,
+      "minecraft:leave_game": 73,
       "minecraft:damage_taken": 1650,
       "hardcorerevival:times_rescued": 2,
-      "minecraft:play_time": 474465,
+      "minecraft:play_time": 507644,
       "minecraft:damage_absorbed": 3625,
       "minecraft:deaths": 3,
-      "minecraft:time_since_death": 13604
+      "minecraft:time_since_death": 46783
     },
     "minecraft:picked_up": {
       "minecraft:netherrack": 4,

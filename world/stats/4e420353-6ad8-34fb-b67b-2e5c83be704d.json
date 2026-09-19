@@ -6,18 +6,20 @@
       "minecraft:coal": 68,
       "minecraft:stone_sword": 14,
       "minecraft:glass": 1,
+      "minecraft:gunpowder": 2,
       "minecraft:bone": 121
     },
     "minecraft:custom": {
-      "hardcorerevival:knockouts": 3,
-      "minecraft:time_since_rest": 330040,
-      "minecraft:total_world_time": 330040,
-      "minecraft:leave_game": 18,
-      "minecraft:damage_taken": 385,
+      "hardcorerevival:knockouts": 4,
+      "minecraft:time_since_rest": 1,
+      "minecraft:total_world_time": 340909,
+      "minecraft:leave_game": 20,
+      "minecraft:damage_taken": 700,
       "hardcorerevival:times_rescued": 3,
-      "minecraft:play_time": 330040,
-      "minecraft:damage_absorbed": 1608,
-      "minecraft:time_since_death": 330040
+      "minecraft:play_time": 340909,
+      "minecraft:damage_absorbed": 1668,
+      "minecraft:deaths": 1,
+      "minecraft:time_since_death": 1
     }
   },
   "DataVersion": 4671
