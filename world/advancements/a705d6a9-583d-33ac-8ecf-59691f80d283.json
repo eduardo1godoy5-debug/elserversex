@@ -340,6 +340,7 @@
       "honey_bottle": "2026-06-22 05:41:17 +0000",
       "rotten_flesh": "2026-05-01 00:20:08 +0000",
       "suspicious_stew": "2026-05-02 04:23:34 +0000",
+      "cookie": "2026-09-07 05:02:40 +0000",
       "cooked_mutton": "2026-04-27 05:00:01 +0000",
       "glow_berries": "2026-05-25 04:43:42 +0000",
       "sweet_berries": "2026-04-28 04:21:19 +0000",
@@ -350,6 +351,7 @@
       "golden_carrot": "2026-06-17 03:38:58 +0000",
       "apple": "2026-04-27 04:22:12 +0000",
       "cooked_chicken": "2026-04-28 04:55:52 +0000",
+      "enchanted_golden_apple": "2026-08-30 03:28:43 +0000",
       "potato": "2026-04-30 18:19:11 +0000",
       "cooked_cod": "2026-05-08 23:00:29 +0000",
       "pumpkin_pie": "2026-04-27 04:08:18 +0000",
@@ -1070,6 +1072,7 @@
       "minecraft:pillager": "2026-05-01 06:10:36 +0000",
       "minecraft:blaze": "2026-05-06 05:03:21 +0000",
       "minecraft:skeleton": "2026-04-27 04:22:36 +0000",
+      "minecraft:elder_guardian": "2026-09-19 03:45:57 +0000",
       "minecraft:parched": "2026-05-31 04:59:13 +0000",
       "minecraft:ravager": "2026-05-04 22:28:36 +0000",
       "minecraft:bogged": "2026-06-22 05:25:38 +0000",
@@ -1080,6 +1083,7 @@
       "minecraft:vindicator": "2026-05-04 22:24:26 +0000",
       "minecraft:breeze": "2026-05-07 06:03:40 +0000",
       "minecraft:zombie_horse": "2026-05-12 04:03:27 +0000",
+      "minecraft:creaking": "2026-09-07 04:34:38 +0000",
       "minecraft:magma_cube": "2026-05-06 05:06:45 +0000",
       "minecraft:spider": "2026-04-27 03:50:53 +0000",
       "minecraft:piglin_brute": "2026-05-07 05:45:09 +0000",
@@ -1087,6 +1091,7 @@
       "minecraft:wither": "2026-05-11 03:51:59 +0000",
       "minecraft:evoker": "2026-05-04 22:32:12 +0000",
       "minecraft:slime": "2026-05-07 05:56:59 +0000",
+      "minecraft:zombie_nautilus": "2026-09-07 04:51:26 +0000",
       "minecraft:phantom": "2026-06-08 18:12:18 +0000",
       "minecraft:zombified_piglin": "2026-05-10 04:54:34 +0000",
       "minecraft:witch": "2026-05-04 22:30:47 +0000",
@@ -5698,6 +5703,7 @@
       "kelp": "2026-06-05 06:36:45 +0000",
       "beetroot": "2026-05-08 04:45:57 +0000",
       "brown_mushroom": "2026-05-08 18:24:48 +0000",
+      "cocoa": "2026-09-11 04:13:09 +0000",
       "chorus_flower": "2026-06-22 04:45:57 +0000",
       "sugar_cane": "2026-05-14 02:28:06 +0000",
       "potato": "2026-05-08 04:47:02 +0000",
@@ -7332,7 +7338,8 @@
       "nova_structures:tavern_oak": "2026-05-24 16:31:05 +0000",
       "nova_structures:tavern_dark_oak": "2026-05-25 05:24:02 +0000",
       "nova_structures:tavern_spruce": "2026-05-25 05:02:08 +0000",
-      "nova_structures:tavern_snowy": "2026-06-04 05:27:32 +0000"
+      "nova_structures:tavern_snowy": "2026-06-04 05:27:32 +0000",
+      "nova_structures:tavern_desert": "2026-08-31 01:54:10 +0000"
     },
     "done": false
   },
@@ -9917,12 +9924,6 @@
     },
     "done": true
   },
-  "worldbosses:root": {
-    "criteria": {
-      "tick": "2026-08-06 02:11:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_lightning_rod_from_honeycomb": {
     "criteria": {
       "has_lightning_rod": "2026-08-06 04:31:06 +0000"
@@ -10216,6 +10217,409 @@
       "has_netherite_ingot": "2026-08-20 05:04:08 +0000"
     },
     "done": true
+  },
+  "travelersbackpack:recipes/misc/nether_smithing": {
+    "criteria": {
+      "has_nether": "2026-08-24 05:05:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_pink_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-08-31 00:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2026-08-31 00:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-08-31 00:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pink_bundle": {
+    "criteria": {
+      "has_pink_dye": "2026-08-31 00:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-08-31 00:30:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_pink_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2026-08-31 00:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-08-31 00:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2026-09-05 15:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-05 15:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-05 15:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-05 15:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-05 15:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-05 15:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-05 15:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-09-05 16:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2026-09-05 16:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_shelf": {
+    "criteria": {
+      "has_stripped_crimson_stem": "2026-09-05 16:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/heart_transplanter": {
+    "criteria": {
+      "place_pale_oak_log": "2026-09-07 04:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2026-09-07 04:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2026-09-07 04:32:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2026-09-07 04:43:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2026-09-07 04:43:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2026-09-07 04:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2026-09-07 04:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2026-09-07 04:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2026-09-07 04:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2026-09-07 04:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2026-09-07 05:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2026-09-07 05:24:23 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_nether_wasteland": "2026-09-11 04:50:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2026-09-11 04:55:09 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2026-09-11 04:56:43 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_nether_brick": "2026-09-11 05:02:36 +0000",
+      "in_outpost_soul": "2026-09-11 05:15:00 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:how_did_that_get_there": {
+    "criteria": {
+      "bug_in_the_loot_stored_enchant": "2026-09-11 05:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2026-09-17 04:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2026-09-17 04:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2026-09-17 04:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2026-09-17 04:15:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2026-09-17 04:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2026-09-17 04:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2026-09-17 04:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2026-09-17 04:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2026-09-17 04:37:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_golem_smithing": {
+    "criteria": {
+      "has_iron_golem": "2026-09-17 04:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2026-09-19 03:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2026-09-19 03:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2026-09-19 03:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2026-09-19 03:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2026-09-19 03:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2026-09-19 03:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2026-09-19 03:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2026-09-19 03:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2026-09-19 03:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2026-09-19 03:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2026-09-19 03:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2026-09-19 03:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2026-09-19 03:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2026-09-19 03:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2026-09-19 03:48:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge": {
+    "criteria": {
+      "has_sponge": "2026-09-19 03:55:35 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2026-09-19 17:23:30 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:ruined_portal_end": {
+    "criteria": {
+      "in_ruined_portal_end": "2026-09-19 17:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2026-09-19 17:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2026-09-19 17:32:44 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_end": "2026-09-19 17:33:52 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_end": "2026-09-20 03:31:40 +0000"
+    },
+    "done": false
   },
   "DataVersion": 4671
 }

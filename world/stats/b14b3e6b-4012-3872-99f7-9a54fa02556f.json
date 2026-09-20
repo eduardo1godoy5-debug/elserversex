@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:carrot": 4,
+      "minecraft:iron_shovel": 1,
+      "minecraft:golden_helmet": 1,
+      "minecraft:golden_chestplate": 2,
+      "minecraft:golden_boots": 1,
+      "minecraft:bow": 8,
+      "minecraft:bone": 127,
+      "minecraft:copper_chestplate": 1,
+      "minecraft:arrow": 7,
+      "minecraft:iron_ingot": 4,
+      "minecraft:rotten_flesh": 413,
+      "minecraft:copper_helmet": 1,
+      "minecraft:golden_leggings": 1,
+      "minecraft:leather_boots": 1
+    },
+    "minecraft:custom": {
+      "hardcorerevival:knockouts": 1,
+      "minecraft:time_since_rest": 1,
+      "minecraft:total_world_time": 98395,
+      "minecraft:leave_game": 2,
+      "minecraft:damage_taken": 243,
+      "minecraft:play_time": 98395,
+      "minecraft:damage_absorbed": 27,
+      "minecraft:deaths": 1,
+      "minecraft:time_since_death": 1
+    }
+  },
+  "DataVersion": 4671
+}

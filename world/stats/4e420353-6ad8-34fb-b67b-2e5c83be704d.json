@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:wither_skeleton_skull": 5,
+      "minecraft:phantom_membrane": 3,
+      "minecraft:coal": 68,
+      "minecraft:stone_sword": 14,
+      "minecraft:glass": 1,
+      "minecraft:gunpowder": 2,
+      "minecraft:bone": 121
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 1
+    },
+    "minecraft:custom": {
+      "hardcorerevival:knockouts": 5,
+      "minecraft:time_since_rest": 82916,
+      "minecraft:total_world_time": 430569,
+      "minecraft:leave_game": 23,
+      "minecraft:damage_taken": 890,
+      "hardcorerevival:times_rescued": 3,
+      "minecraft:play_time": 430569,
+      "minecraft:damage_absorbed": 2603,
+      "minecraft:deaths": 2,
+      "minecraft:time_since_death": 82916
+    }
+  },
+  "DataVersion": 4671
+}
