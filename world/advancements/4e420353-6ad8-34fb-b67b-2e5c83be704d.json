@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "worldbosses:root": {
-    "criteria": {
-      "tick": "2026-08-23 23:25:39 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:root": {
     "criteria": {
       "tick": "2026-08-23 23:25:39 +0000"
@@ -294,6 +288,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2026-09-16 05:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-09-20 04:06:13 +0000"
     },
     "done": true
   },
