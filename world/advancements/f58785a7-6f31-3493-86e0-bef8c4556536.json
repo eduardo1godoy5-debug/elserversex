@@ -9687,5 +9687,11 @@
     },
     "done": true
   },
+  "nova_structures:how_did_that_get_there": {
+    "criteria": {
+      "bug_in_the_loot_stored_enchant": "2026-09-21 05:26:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
