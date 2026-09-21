@@ -5893,6 +5893,7 @@
       "sugar_cane": "2026-06-13 05:12:25 +0000",
       "potato": "2026-05-12 04:31:39 +0000",
       "sweet_berries": "2026-08-01 04:04:40 +0000",
+      "nether_wart": "2026-09-21 04:16:46 +0000",
       "wheat": "2026-05-11 06:21:21 +0000",
       "pumpkin": "2026-06-10 16:41:34 +0000",
       "cocoa": "2026-09-11 04:13:35 +0000",
@@ -9637,11 +9638,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
+  "repurposed_structures:shipwrecks": {
     "criteria": {
-      "has_quartz_pillar": "2026-09-20 04:45:47 +0000"
+      "in_shipwreck_end": "2026-09-20 03:12:08 +0000"
     },
-    "done": true
+    "done": false
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
@@ -9649,15 +9650,28 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_end": "2026-09-20 03:24:00 +0000",
+      "in_pyramid_nether": "2026-09-21 04:53:29 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:ruined_portal_end": {
+    "criteria": {
+      "in_ruined_portal_end": "2026-09-20 03:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_pillar": "2026-09-20 04:45:47 +0000"
     },
     "done": true
   },
-  "repurposed_structures:ruined_portal_end": {
+  "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
-      "in_ruined_portal_end": "2026-09-20 03:36:26 +0000"
+      "has_quartz_pillar": "2026-09-20 04:45:47 +0000"
     },
     "done": true
   },
@@ -9667,23 +9681,11 @@
     },
     "done": true
   },
-  "repurposed_structures:shipwrecks": {
-    "criteria": {
-      "in_shipwreck_end": "2026-09-20 03:12:08 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_pillar": "2026-09-20 04:45:47 +0000"
     },
     "done": true
-  },
-  "repurposed_structures:pyramids": {
-    "criteria": {
-      "in_pyramid_end": "2026-09-20 03:24:00 +0000"
-    },
-    "done": false
   },
   "DataVersion": 4671
 }

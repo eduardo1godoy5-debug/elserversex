@@ -1,500 +1,632 @@
-[00:08:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5957ms or 119 ticks behind
-[00:08:57] [Server thread/WARN]: alkeys moved too quickly! -17.715267172551194,3.582946889225468,1.7023407728210032
-[00:11:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3404ms or 68 ticks behind
-[00:28:43] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1065.0625, 128.11630910634995, 425.2938863039017) too far away from hit block class_2338{x=-1078, y=128, z=425}.
-[00:33:43] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1077.6875, 128.894675552845, 428.5873374938965) too far away from hit block class_2338{x=-1086, y=128, z=428}.
-[00:36:54] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1142.3125, 130.33163231611252, 413.1884856522083) too far away from hit block class_2338{x=-1151, y=130, z=413}.
-[00:37:12] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1149.4720544815063, 129.97496807575226, 406.75) too far away from hit block class_2338{x=-1158, y=129, z=406}.
-[00:37:12] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1148.6091356277466, 129.94705897569656, 406.75) too far away from hit block class_2338{x=-1157, y=129, z=406}.
-[00:37:12] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1147.4710121154785, 129.93702685832977, 406.75) too far away from hit block class_2338{x=-1156, y=129, z=406}.
-[00:37:12] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1146.5792226791382, 129.9238778948784, 406.75) too far away from hit block class_2338{x=-1155, y=129, z=406}.
-[00:37:12] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1145.483413696289, 129.91359114646912, 406.75) too far away from hit block class_2338{x=-1154, y=129, z=406}.
-[00:37:13] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1144.6152257919312, 129.89175593852997, 406.75) too far away from hit block class_2338{x=-1153, y=129, z=406}.
-[00:37:13] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1143.5031080245972, 129.90309023857117, 406.75) too far away from hit block class_2338{x=-1152, y=129, z=406}.
-[00:37:13] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1142.626898765564, 129.9038946032524, 406.75) too far away from hit block class_2338{x=-1151, y=129, z=406}.
-[00:41:21] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1150.430443763733, 130.30182421207428, 413.375) too far away from hit block class_2338{x=-1159, y=130, z=413}.
-[00:46:24] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1146.40625, 135.82828325033188, 410.53903394937515) too far away from hit block class_2338{x=-1151, y=135, z=410}.
-[00:47:57] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1150.5162372589111, 135.8477782011032, 407.40625) too far away from hit block class_2338{x=-1155, y=135, z=407}.
-[00:48:01] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1150.5346426963806, 135.84399336576462, 404.40625) too far away from hit block class_2338{x=-1155, y=135, z=404}.
-[00:53:01] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1147.40625, 135.6897096633911, 404.41275095939636) too far away from hit block class_2338{x=-1152, y=135, z=404}.
-[00:53:03] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1147.40625, 135.76005828380585, 404.4127509891987) too far away from hit block class_2338{x=-1152, y=135, z=404}.
-[00:57:54] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-1149.4518613815308, 135.0, 410.4293155670166) too far away from hit block class_2338{x=-1154, y=135, z=410}.
-[01:12:30] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-512, 4, 120]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: worldbosses:overworld_shrine -> using default)
-[01:12:38] [Server thread/WARN]: alkeys moved too quickly! 8.642795529487557,-2.125504439045926,-15.060871157342717
-[01:12:59] [Server thread/WARN]: alkeys moved too quickly! 9.26206230380194,-2.4652026754279177,-15.38249814587789
-[01:13:04] [Server thread/WARN]: alkeys moved too quickly! 9.436991366763323,-4.005718263478229,-15.67302156013011
-[01:13:24] [Server thread/WARN]: alkeys moved too quickly! 9.786190121619256,-2.22758895573088,-15.875165447248378
-[01:13:31] [Server thread/WARN]: alkeys moved too quickly! 9.478395751544667,-3.835273372575557,-14.839422415357944
-[01:13:38] [Server thread/WARN]: alkeys moved too quickly! 9.531135221865043,-3.4299291159868517,-14.758512290744875
-[01:13:42] [Server thread/WARN]: alkeys moved too quickly! 9.234165086306348,-7.185541478171672,-13.331525168995427
-[01:13:51] [Server thread/WARN]: alkeys moved too quickly! 8.72457413173015,-4.4139706091323205,-16.2686098429366
-[01:13:59] [Server thread/WARN]: alkeys moved too quickly! 8.73072328406306,-3.628202497923212,-15.895754955476718
-[01:14:08] [Server thread/WARN]: alkeys moved too quickly! 9.13948132992391,-3.3707539295601237,-15.45253160909266
-[01:14:20] [Server thread/WARN]: alkeys moved too quickly! 8.497073190197625,-2.9672302558838055,-15.55050219916771
-[01:14:23] [Server thread/WARN]: alkeys moved too quickly! 7.468345214070723,-7.795566973861241,-13.668189374716547
-[01:14:33] [Server thread/WARN]: alkeys moved too quickly! 8.519761775572078,-2.967061995365384,-15.592439026057136
-[01:14:43] [Server thread/WARN]: alkeys moved too quickly! 8.593931569542292,-2.6703562040693214,-15.728180848482438
-[01:14:50] [Server thread/WARN]: alkeys moved too quickly! 9.044942027220713,-3.2637671999000304,-16.553597479451327
-[01:14:58] [Server thread/WARN]: alkeys moved too quickly! 8.627026365982601,-3.2637635344308364,-15.788749278583111
-[01:15:08] [Server thread/WARN]: alkeys moved too quickly! 8.77476987996397,-2.9670622892294887,-16.059142018892203
-[01:15:16] [Server thread/WARN]: alkeys moved too quickly! 8.519761775572078,-2.967061995365384,-15.592439026057036
-[01:15:25] [Server thread/WARN]: alkeys moved too quickly! 8.77476987996397,-2.9670622892294887,-16.059142018892203
-[01:15:33] [Server thread/WARN]: alkeys moved too quickly! 8.492822908013295,-2.9670619457472185,-15.543136867040175
-[01:15:42] [Server thread/WARN]: alkeys moved too quickly! 8.519761775572078,-2.967061995365384,-15.592439026057036
-[01:15:52] [Server thread/WARN]: alkeys moved too quickly! 8.77476987996397,-2.9670622892294887,-16.059142018891862
-[01:16:01] [Server thread/WARN]: alkeys moved too quickly! 9.005394722994424,-2.9670623939828147,-16.481219994490857
-[01:16:10] [Server thread/WARN]: alkeys moved too quickly! 10.093778621852834,-6.523822801466622,-14.54527570134428
-[01:16:12] [Server thread/WARN]: alkeys moved too quickly! 6.867117103673991,-13.087453449024906,-9.878761119497085
-[01:16:19] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=795, y=-35, z=-87}
-[01:16:19] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=799, y=-23, z=-87}
-[01:16:19] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=799, y=-23, z=-86}
-[01:16:19] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=799, y=-23, z=-85}
-[01:16:19] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=787, y=-23, z=-82}
-[01:16:19] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=785, y=-29, z=-83}
-[01:16:19] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=795, y=-24, z=-86}
-[01:16:19] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=795, y=-13, z=-86}
-[01:16:19] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=800, y=-35, z=-87}
-[01:16:19] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=800, y=-30, z=-88}
-[01:16:19] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=800, y=-23, z=-84}
-[01:16:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3741ms or 74 ticks behind
-[01:16:20] [Server thread/WARN]: alkeys moved too quickly! 8.452588621510586,-11.278232785686214,-12.15955728912968
-[01:16:21] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=809, y=-30, z=-84}
-[01:16:21] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=805, y=-12, z=-88}
-[01:16:21] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=802, y=-31, z=-79}
-[01:16:25] [Server thread/WARN]: alkeys moved too quickly! 7.145641094936764,-12.141564023272394,-10.279434638557632
-[01:16:29] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=795, y=-36, z=-105}
-[01:16:29] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=791, y=-37, z=-105}
-[01:16:29] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=798, y=-27, z=-102}
-[01:16:29] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=793, y=-31, z=-101}
-[01:16:29] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=793, y=-35, z=-96}
-[01:16:29] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=791, y=-35, z=-96}
-[01:16:29] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=798, y=-41, z=-92}
-[01:16:29] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=800, y=-24, z=-99}
-[01:16:30] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=778, y=-26, z=-96}
-[01:16:30] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=774, y=-31, z=-95}
-[01:16:30] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=773, y=-30, z=-92}
-[01:16:30] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=784, y=-35, z=-97}
-[01:16:30] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=802, y=-28, z=-106}
-[01:16:30] [Server thread/WARN]: alkeys moved too quickly! 9.850755371699051,-7.334695102515525,-14.170904281151252
-[01:16:37] [Server thread/WARN]: alkeys moved too quickly! 9.99062488733125,-5.879929781346391,-14.37211499475302
-[01:16:46] [Server thread/WARN]: alkeys moved too quickly! 7.32122723084467,-13.487775202211424,-11.748585011420118
-[01:16:55] [Server thread/WARN]: alkeys moved too quickly! 6.61990577816232,-15.769473243649827,-10.429622734063287
-[01:17:04] [Server thread/WARN]: alkeys moved too quickly! 6.4329215155303245,-15.665644232017144,-10.135030124760306
-[01:17:17] [Server thread/WARN]: alkeys moved too quickly! -13.05616973990709,-4.638624112341134,-13.738942551704895
-[01:18:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2978ms or 59 ticks behind
-[01:23:03] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER alkeys-afk
-[01:23:04] [Server thread/INFO]: alkeys-afk[local] logged in with entity id 60770 at (-1154.6590478089554, 164.0, 408.46900859045235)
-[01:23:04] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[01:23:04] [Server thread/INFO]: alkeys-afk joined the game
-[01:23:04] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[01:23:04] [ForkJoinPool.commonPool-worker-5/INFO]: Loaded 1 player data objects (took 0s 588ms)
-[01:37:38] [Server thread/INFO]: alkeys-afk lost connection: Killed
-[01:37:38] [Server thread/INFO]: alkeys-afk left the game
-[02:12:39] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER alkeys-afk
-[02:12:39] [Server thread/INFO]: alkeys-afk[local] logged in with entity id 98211 at (-1155.300000011921, 240.0, 407.93815607193795)
-[02:12:39] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[02:12:39] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[02:12:39] [Server thread/INFO]: alkeys-afk joined the game
-[02:12:39] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[02:13:10] [Server thread/INFO]: alkeys lost connection: Disconnected
-[02:13:10] [Server thread/INFO]: alkeys left the game
-[02:25:49] [Server thread/INFO]: alkeys[/127.250.60.245:53049] logged in with entity id 99802 at (-1155.825186617386, 240.5, 405.7515208412087)
-[02:25:49] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[02:25:49] [Server thread/INFO]: alkeys joined the game
-[02:25:49] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[02:25:49] [ForkJoinPool.commonPool-worker-10/INFO]: Loaded 1 player data objects (took 0s 345ms)
-[02:26:23] [Server thread/INFO]: alkeys-afk lost connection: Killed
-[02:26:23] [Server thread/INFO]: alkeys-afk left the game
-[02:27:04] [Server thread/INFO]: alkeys was slain by Magma Cube
-[02:27:07] [Server thread/INFO]: alkeys was not rescued in time
-[02:27:08] [Server thread/INFO]: Created new backpack backup file for alkeys with unique ID travelersbackpack.dragon_20.09.2026-02.27.07.dat
-[02:27:59] [Server thread/INFO]: alkeys was slain by Magma Cube
-[02:28:02] [Server thread/INFO]: alkeys was not rescued in time
-[02:29:04] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[02:29:04] [Server thread/INFO]: /kill @e[type=!player]<--[HERE]
-[02:29:19] [Server thread/INFO]: Killed 252 entities
-[02:29:28] [Server thread/INFO]: Killed 276 entities
-[02:29:33] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[02:29:33] [Server thread/INFO]: ç/kill @e[type=!player]<--[HERE]
-[02:29:37] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[02:29:37] [Server thread/INFO]: ç/kill @e[type=!player]<--[HERE]
-[02:29:42] [Server thread/INFO]: Killed 292 entities
-[02:34:21] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER alkeys-afk
-[02:34:21] [Server thread/INFO]: alkeys-afk[local] logged in with entity id 108833 at (-8206.5, 69.5, 2291.5)
-[02:34:21] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[02:34:21] [Server thread/INFO]: alkeys-afk joined the game
-[02:34:21] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[02:34:21] [ForkJoinPool.commonPool-worker-14/INFO]: Loaded 1 player data objects (took 0s 320ms)
-[02:34:24] [Server thread/INFO]: alkeys-afk lost connection: Killed
-[02:34:24] [Server thread/INFO]: alkeys-afk left the game
-[02:34:24] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER alkeys-afk
-[02:34:24] [Server thread/INFO]: alkeys-afk[local] logged in with entity id 108990 at (-8206.5, 69.5, 2291.5)
-[02:34:24] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[02:34:24] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[02:34:24] [Server thread/INFO]: alkeys-afk joined the game
-[02:34:24] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[02:34:26] [Server thread/INFO]: alkeys-afk lost connection: Killed
-[02:34:26] [Server thread/INFO]: alkeys-afk left the game
-[02:34:27] [Server thread/INFO]: alkeys lost connection: Disconnected
-[02:34:27] [Server thread/INFO]: alkeys left the game
-[02:34:31] [Server thread/INFO]: alkeys[/127.250.60.245:36325] logged in with entity id 109053 at (-1154.4806897447818, 145.0, 408.4897706601966)
-[02:34:31] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[02:34:31] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[02:34:31] [Server thread/INFO]: alkeys joined the game
-[02:34:31] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[02:34:34] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER alkeys-afk
-[02:34:34] [Server thread/INFO]: alkeys-afk[local] logged in with entity id 109155 at (-1154.4806897447818, 145.0, 408.4897706601966)
-[02:34:34] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[02:34:34] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[02:34:34] [Server thread/INFO]: alkeys-afk joined the game
-[02:34:34] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[02:37:36] [Server thread/WARN]: alkeys moved too quickly! 16.866950955810353,-1.1195230239972886,-7.469945313750941
-[02:37:38] [Server thread/WARN]: alkeys moved too quickly! 16.44749656661952,-1.9557451202464335,-6.7070260499335745
-[02:37:49] [Server thread/WARN]: alkeys moved too quickly! 16.76366671481719,-0.7511116257556694,-7.272377983431397
-[02:37:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
-[02:37:54] [Server thread/WARN]: alkeys moved too quickly! 16.004604737279806,-0.7127724883709163,-7.074166924038309
-[02:38:01] [Server thread/WARN]: alkeys moved too quickly! 16.428079919955962,-0.5163921272936705,-7.180134521602213
-[02:38:14] [Server thread/WARN]: alkeys moved too quickly! 17.09200548322451,-0.3377660129500839,-6.920916272230443
-[02:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[02:38:22] [Server thread/WARN]: alkeys moved too quickly! 16.33455470215631,-0.8820569485373255,-7.067034207770121
-[02:38:25] [Server thread/WARN]: alkeys moved too quickly! 16.406444738830942,-0.4969590379958504,-7.135921128038717
-[02:38:30] [Server thread/WARN]: alkeys moved too quickly! 16.534317713923883,-1.4489295882256954,-7.831792152211165
-[02:38:37] [Server thread/WARN]: alkeys moved too quickly! 16.15055138042908,-1.0914746287803325,-6.945403121239451
-[02:38:42] [Server thread/WARN]: alkeys moved too quickly! 15.95235538861516,-1.1810580806994722,-6.901675223354687
-[02:38:48] [Server thread/WARN]: alkeys moved too quickly! 16.770329547211077,-1.9432222950167812,-7.464577108491085
-[02:38:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3934ms or 78 ticks behind
-[02:38:56] [Server thread/WARN]: alkeys moved too quickly! 17.127483558212134,-1.7758831058896902,-7.623548565672081
-[02:39:03] [Server thread/WARN]: alkeys moved too quickly! 16.783664731716726,-1.8033888995020533,-7.366018483307926
-[02:39:07] [Server thread/WARN]: alkeys moved too quickly! 17.112961600083963,-1.4865564452681923,-7.35123507400931
-[02:39:12] [Server thread/WARN]: alkeys moved wrongly!
-[02:39:12] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=795, y=-35, z=-87}
-[02:39:12] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=799, y=-23, z=-87}
-[02:39:12] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=799, y=-23, z=-86}
-[02:39:12] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=799, y=-23, z=-85}
-[02:39:12] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=787, y=-23, z=-82}
-[02:39:12] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=785, y=-29, z=-83}
-[02:39:12] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=795, y=-24, z=-86}
-[02:39:12] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=795, y=-13, z=-86}
-[02:39:12] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=800, y=-35, z=-87}
-[02:39:12] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=809, y=-30, z=-84}
-[02:39:12] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=800, y=-30, z=-88}
-[02:39:12] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=800, y=-23, z=-84}
-[02:39:12] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=805, y=-12, z=-88}
-[02:39:12] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=802, y=-31, z=-79}
-[02:39:13] [Server thread/WARN]: alkeys moved wrongly!
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=778, y=-26, z=-96}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=774, y=-31, z=-95}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=773, y=-30, z=-92}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=795, y=-36, z=-105}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=791, y=-37, z=-105}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=784, y=-35, z=-97}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=798, y=-27, z=-102}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=793, y=-31, z=-101}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=793, y=-35, z=-96}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=791, y=-35, z=-96}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=798, y=-41, z=-92}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=800, y=-24, z=-99}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=778, y=-31, z=-118}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=778, y=-36, z=-109}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=772, y=-28, z=-110}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=797, y=-32, z=-118}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=787, y=-27, z=-113}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=795, y=-27, z=-114}
-[02:39:14] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=784, y=-26, z=-111}
-[02:39:15] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=800, y=-35, z=-113}
-[02:39:15] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=802, y=-28, z=-106}
-[02:39:23] [Server thread/WARN]: alkeys moved too quickly! 17.050668849592512,-0.8303778815529483,-8.076186781515844
-[02:39:29] [Server thread/WARN]: alkeys moved too quickly! 17.11335042290966,-1.7951910827068218,-7.047700926716516
-[02:41:46] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-50, z=-195}
-[02:41:46] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-51, z=-202}
-[02:41:46] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-50, z=-195}
-[02:41:46] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-51, z=-202}
-[02:41:58] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=73, y=-50, z=-196}
-[02:41:58] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=78, y=-50, z=-197}
-[02:42:46] [Server thread/INFO]: alkeys-afk lost connection: Killed
-[02:42:46] [Server thread/INFO]: alkeys-afk left the game
-[02:47:22] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER alkeys-afk
-[02:47:22] [Server thread/INFO]: alkeys-afk[local] logged in with entity id 123783 at (-1154.2038020065381, 240.5, 408.6447646152921)
-[02:47:22] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[02:47:22] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[02:47:22] [Server thread/INFO]: alkeys-afk joined the game
-[02:47:22] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[02:47:36] [Server thread/INFO]: alkeys lost connection: Disconnected
-[02:47:36] [Server thread/INFO]: alkeys left the game
-[02:53:52] [Server thread/INFO]: alkeys[/127.250.60.245:51893] logged in with entity id 126337 at (-1148.0329802239105, 128.0, 403.4964991117967)
-[02:53:52] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[02:53:52] [Server thread/INFO]: Loaded 1 player data objects (took 0s 1ms)
-[02:53:52] [Server thread/INFO]: alkeys joined the game
-[02:53:52] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[02:54:07] [Server thread/INFO]: alkeys-afk lost connection: Killed
-[02:54:07] [Server thread/INFO]: alkeys-afk left the game
-[03:04:01] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER alkeys-afk
-[03:04:01] [Server thread/INFO]: alkeys-afk[local] logged in with entity id 137737 at (-1154.5210293682917, 240.5, 409.4779460914276)
-[03:04:01] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[03:04:01] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[03:04:01] [Server thread/INFO]: alkeys-afk joined the game
-[03:04:01] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[03:04:05] [Server thread/INFO]: alkeys lost connection: Disconnected
-[03:04:05] [Server thread/INFO]: alkeys left the game
-[03:04:44] [Server thread/ERROR]: Failed to parse statistics for ./world/stats/f58785a7-6f31-3493-86e0-bef8c4556536.json: Unknown registry key in ResourceKey[minecraft:root / minecraft:entity_type]: worldbosses:nekhraz missed input: {"worldbosses:nekhraz":1}; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: worldbosses:storm_sigil; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: worldbosses:boss_codex; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: worldbosses:shrine_locator_compass; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: worldbosses:dune_raid_cache; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: worldbosses:dune_element missed input: {"worldbosses:dune_element":2,"worldbosses:dune_raid_cache":1,"worldbosses:shrine_locator_compass":1,"worldbosses:boss_codex":4,"worldbosses:storm_sigil":1}; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: worldbosses:storm_sigil; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: worldbosses:boss_codex; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: worldbosses:dune_element; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: worldbosses:dune_raid_cache missed input: {"worldbosses:dune_raid_cache":1,"worldbosses:dune_element":1,"worldbosses:boss_codex":1,"worldbosses:storm_sigil":1} missed input: {"minecraft:dropped":{"minecraft:observer":15,"minecraft:oak_leaves":6,"minecraft:andesite":8,"minecraft:sweet_berries":10,"minecraft:nether_brick":13,"minecraft:wooden_sword":2,"minecraft:smooth_stone_slab":106,"minecraft:bone":2609,"minecraft:glass":50,"minecraft:poppy":32,"minecraft:cobblestone_slab":10,"minecraft:blackstone":128,"minecraft:spire_armor_trim_smithing_template":1,"minecraft:azure_bluet":1,"minecraft:horn_coral_fan":19,"minecraft:mace":7,"minecraft:name_tag":1,"minecraft:cornflower":2,"minecraft:amethyst_block":26,"minecraft:redstone":42,"minecraft:music_disc_precipice":1,"minecraft:golden_carrot":93,"minecraft:tuff":384,"minecraft:book":36,"minecraft:netherite_leggings":1,"minecraft:yellow_shulker_box":1,"waystones:attuned_shard":3,"minecraft:white_bed":12,"minecraft:rooted_dirt":7,"minecraft:soul_campfire":24,"minecraft:gold_ingot":361,"minecraft:smooth_basalt":18,"minecraft:iron_pickaxe":1,"minecraft:cooked_mutton":6,"minecraft:baked_potato":261,"minecraft:diorite":144,"minecraft:pale_moss_carpet":8,"minecraft:ancient_debris":1,"minecraft:torch":234,"minecraft:pale_oak_boat":1,"minecraft:stone_sword":152,"minecraft:leather_leggings":6,"travelersbackpack:dragon":1,"waystones:warp_plate":2,"minecraft:bow":51,"minecraft:end_stone":9,"minecraft:bucket":2,"minecraft:raw_copper":175,"minecraft:crimson_planks":1,"minecraft:ominous_bottle":1,"minecraft:sand":73,"minecraft:chest":21,"minecraft:dark_oak_fence":12,"minecraft:shears":2,"minecraft:ender_chest":2,"minecraft:music_disc_creator":1,"minecraft:spruce_boat":2,"farmersdelight:smoked_ham":1,"minecraft:apple":2,"minecraft:cooked_beef":21,"minecraft:iron_block":2,"minecraft:yellow_bed":1,"minecraft:wooden_pickaxe":1,"minecraft:raw_iron":8,"minecraft:slime_ball":13,"minecraft:crafting_table":2,"minecraft:polished_deepslate":4,"minecraft:golden_helmet":5,"minecraft:netherrack":19601,"minecraft:mutton":2,"minecraft:white_banner":9,"minecraft:iron_axe":2,"minecraft:iron_shovel":3,"minecraft:packed_ice":1,"waystones:waystone":2,"minecraft:cobbled_deepslate":7710,"minecraft:egg":10,"minecraft:sugar_cane":3,"minecraft:flint_and_steel":1,"travelersbackpack:hose":1,"minecraft:paper":2,"minecraft:stone_pickaxe":9,"minecraft:trident":1,"minecraft:shield":1,"minecraft:chainmail_chestplate":5,"minecraft:birch_fence_gate":1,"travelersbackpack:blaze":1,"minecraft:calcite":22,"minecraft:white_carpet":9,"waystones:bound_scroll":16,"minecraft:nether_star":5,"travelersbackpack:quartz":4,"minecraft:string":21,"minecraft:oxidized_cut_copper_stairs":1,"minecraft:golden_boots":1,"minecraft:polished_blackstone_bricks":127,"minecraft:deepslate_tile_stairs":4,"minecraft:waxed_oxidized_copper_door":1,"minecraft:iron_spear":2,"minecraft:purpur_block":4,"minecraft:bread":421,"minecraft:snowball":34,"waystones:sandy_waystone":1,"minecraft:polished_blackstone_brick_stairs":1,"minecraft:netherite_pickaxe":2,"minecraft:cobblestone":3633,"minecraft:birch_leaves":6,"minecraft:yellow_stained_glass":8,"minecraft:spruce_planks":24,"minecraft:leather_boots":1,"minecraft:cobblestone_stairs":6,"minecraft:lime_candle":3,"minecraft:potion":2,"minecraft:diamond_helmet":1,"minecraft:white_wool":1,"minecraft:weeping_vines":1,"minecraft:leather":3,"minecraft:diamond_boots":1,"minecraft:chainmail_boots":10,"minecraft:comparator":39,"minecraft:waxed_copper_block":7,"minecraft:cobblestone_wall":3,"minecraft:bone_meal":1,"minecraft:mossy_cobblestone_slab":1,"minecraft:wildflowers":2,"minecraft:netherite_sword":5,"minecraft:chiseled_tuff_bricks":7,"minecraft:pale_oak_log":267,"minecraft:beef":1,"minecraft:shulker_box":2,"minecraft:snow_block":79,"minecraft:iron_sword":4,"minecraft:jungle_door":3,"minecraft:spruce_door":6,"minecraft:red_shulker_box":1,"minecraft:dark_oak_planks":7,"minecraft:writable_book":2,"minecraft:cake":1,"minecraft:stone_stairs":4,"minecraft:shroomlight":1,"minecraft:soul_soil":7,"minecraft:waxed_oxidized_copper_grate":3,"minecraft:cracked_polished_blackstone_bricks":110,"minecraft:mossy_stone_brick_slab":1,"minecraft:lime_carpet":1,"minecraft:netherite_helmet":2,"minecraft:gravel":419,"minecraft:crimson_trapdoor":14,"minecraft:pale_moss_block":3,"minecraft:netherite_chestplate":3,"minecraft:glowstone":29,"minecraft:wooden_shovel":2,"minecraft:bowl":2,"universal_graves:grave_compass":1,"minecraft:enchanted_book":30,"minecraft:pale_hanging_moss":4,"worldbosses:dune_raid_cache":1,"minecraft:polished_granite":4,"minecraft:nether_bricks":11,"minecraft:crossbow":17,"minecraft:golden_hoe":1,"minecraft:soul_sand":92,"minecraft:filled_map":11,"minecraft:emerald_block":50,"enchantinginfuser:enchanting_infuser":1,"minecraft:leather_chestplate":9,"minecraft:grass_block":599,"minecraft:bush":1,"minecraft:fire_charge":1,"minecraft:arrow":811,"minecraft:carrot":1481,"minecraft:redstone_torch":64,"minecraft:golden_apple":4,"minecraft:tipped_arrow":6,"minecraft:rotten_flesh":5417,"minecraft:stone_shovel":1,"minecraft:chainmail_leggings":4,"minecraft:golden_pickaxe":1,"minecraft:dirt":1826,"minecraft:iron_nautilus_armor":1,"minecraft:dune_armor_trim_smithing_template":1,"minecraft:golden_chestplate":5,"minecraft:smooth_stone":186,"minecraft:obsidian":110,"minecraft:music_disc_5":1,"minecraft:leather_horse_armor":2,"minecraft:ender_pearl":9,"minecraft:deepslate_bricks":1,"minecraft:emerald":3,"minecraft:deepslate_brick_stairs":1,"minecraft:bookshelf":8,"minecraft:coal":64,"minecraft:potato":4979,"minecraft:silence_armor_trim_smithing_template":1,"travelersbackpack:magma_cube":2,"minecraft:netherite_axe":1,"minecraft:copper_chestplate":6,"minecraft:sticky_piston":17,"minecraft:end_rod":1,"minecraft:lapis_lazuli":2,"minecraft:pale_oak_slab":8,"waystones:blank_scroll":2,"minecraft:slime_block":3,"minecraft:blaze_rod":4,"minecraft:diamond_shovel":1,"minecraft:blackstone_wall":4,"minecraft:oak_planks":167,"minecraft:powered_rail":64,"minecraft:wheat":8,"minecraft:repeater":17,"worldbosses:dune_element":1,"minecraft:lead":2,"minecraft:basalt":651,"minecraft:diamond_spear":1,"minecraft:chainmail_helmet":2,"minecraft:oxidized_copper":1,"minecraft:iron_ingot":24,"minecraft:wheat_seeds":349,"minecraft:spruce_trapdoor":3,"minecraft:dark_oak_boat":1,"minecraft:netherite_ingot":8,"minecraft:chorus_flower":11,"minecraft:spruce_slab":4,"minecraft:jungle_slab":1,"minecraft:enchanting_table":1,"minecraft:orange_shulker_box":1,"minecraft:oak_log":2,"minecraft:hay_block":2,"minecraft:diamond_pickaxe":1,"minecraft:dandelion":6,"minecraft:hopper":15,"minecraft:blaze_powder":12,"minecraft:stick":479,"minecraft:pale_oak_planks":26,"travelersbackpack:magnet_upgrade":3,"minecraft:white_terracotta":2,"minecraft:tnt":112,"minecraft:netherite_boots":2,"minecraft:fletching_table":1,"minecraft:mossy_stone_bricks":1,"minecraft:leather_helmet":1,"minecraft:totem_of_undying":19,"minecraft:nether_wart_block":1,"minecraft:wooden_hoe":3,"minecraft:pumpkin_seeds":12,"minecraft:diamond_axe":1,"minecraft:golden_axe":1,"minecraft:copper_boots":8,"minecraft:bundle":3,"minecraft:firework_rocket":160,"minecraft:gold_block":1,"minecraft:diamond_leggings":1,"minecraft:quartz":81,"minecraft:granite":13,"minecraft:cherry_log":55,"minecraft:copper_helmet":5,"minecraft:ward_armor_trim_smithing_template":1,"minecraft:diamond":6,"minecraft:feather":16,"minecraft:golden_sword":2,"minecraft:oxidized_cut_copper":1,"minecraft:suspicious_stew":1,"minecraft:poisonous_potato":1,"minecraft:chiseled_tuff":1,"minecraft:dragon_head":2,"minecraft:trial_key":2,"minecraft:stone_bricks":7,"minecraft:leaf_litter":75,"worldbosses:boss_codex":1,"minecraft:flint":1,"minecraft:diamond_sword":15,"waystones:warp_scroll":6,"minecraft:firework_star":5,"minecraft:golden_leggings":6,"minecraft:gold_nugget":77,"minecraft:netherite_upgrade_smithing_template":9,"worldbosses:storm_sigil":1,"minecraft:copper_leggings":5,"minecraft:elytra":2,"minecraft:fern":1},"minecraft:picked_up":{"minecraft:purple_dye":6,"minecraft:music_disc_wait":4,"minecraft:enchanting_table":5,"minecraft:sweet_berries":228,"minecraft:pale_oak_log":3517,"minecraft:light_weighted_pressure_plate":2,"minecraft:smooth_stone_slab":471,"minecraft:shears":2,"minecraft:cobblestone":25446,"worldbosses:dune_element":2,"minecraft:brick":1007,"minecraft:acacia_sapling":1,"minecraft:snow_block":559,"minecraft:golden_spear":1,"minecraft:cooked_mutton":156,"minecraft:waxed_copper_grate":8,"minecraft:clay_ball":414,"minecraft:end_stone_brick_stairs":2,"minecraft:sculk_catalyst":22,"minecraft:iron_bars":10,"minecraft:white_banner":125,"minecraft:white_terracotta":64,"minecraft:blaze_rod":353,"minecraft:emerald":752,"minecraft:pale_oak_sapling":491,"minecraft:chainmail_chestplate":17,"minecraft:sugar":50,"minecraft:explorer_pottery_sherd":2,"minecraft:ink_sac":91,"minecraft:crimson_fungus":7,"minecraft:chainmail_helmet":17,"minecraft:shroomlight":37,"minecraft:soul_campfire":7,"minecraft:arrow":5062,"minecraft:smooth_basalt":47,"minecraft:stone_shovel":3,"minecraft:orange_shulker_box":4,"minecraft:cactus":11,"waystones:attuned_shard":26,"waystones:end_stone_waystone":3,"minecraft:azalea":3,"minecraft:mace":7,"minecraft:dandelion":198,"minecraft:lava_bucket":6,"minecraft:mutton":34,"minecraft:cut_sandstone":5,"minecraft:golden_carrot":264,"minecraft:iron_chestplate":10,"minecraft:diamond_leggings":7,"minecraft:spruce_leaves":107,"minecraft:polished_blackstone_bricks":1588,"minecraft:pearlescent_froglight":8,"minecraft:rabbit_hide":1,"minecraft:stonecutter":10,"minecraft:angler_pottery_sherd":2,"minecraft:big_dripleaf":2,"minecraft:copper_leggings":39,"minecraft:red_shulker_box":1,"minecraft:oak_stairs":158,"minecraft:oak_log":958,"minecraft:copper_helmet":64,"minecraft:sand":7632,"minecraft:furnace":22,"minecraft:oak_door":8,"minecraft:wheat_seeds":5704,"minecraft:black_bed":7,"minecraft:leather_leggings":33,"minecraft:firework_star":4,"minecraft:egg":208,"minecraft:iron_leggings":3,"minecraft:red_bed":2,"minecraft:iron_chain":6,"minecraft:iron_spear":12,"minecraft:copper_boots":36,"minecraft:red_mushroom":23,"minecraft:snowball":3138,"minecraft:red_nether_bricks":1,"minecraft:chainmail_boots":25,"minecraft:ender_pearl":89,"minecraft:string":464,"minecraft:stone_bricks":286,"minecraft:obsidian":441,"minecraft:leather_boots":37,"minecraft:white_carpet":3232,"minecraft:waxed_copper_bulb":2,"minecraft:end_crystal":3,"minecraft:iron_helmet":9,"minecraft:comparator":118,"minecraft:dark_oak_slab":29,"minecraft:warped_fungus":44,"minecraft:ender_chest":5,"minecraft:spruce_sapling":320,"minecraft:plenty_pottery_sherd":1,"minecraft:scrape_pottery_sherd":10,"minecraft:yellow_terracotta":3,"farmersdelight:diamond_knife":1,"minecraft:slime_block":73,"minecraft:honey_bottle":21,"minecraft:brown_mushroom":8,"minecraft:music_disc_blocks":4,"minecraft:shelter_pottery_sherd":2,"minecraft:glass_pane":45,"minecraft:peony":4,"minecraft:iron_horse_armor":1,"minecraft:scaffolding":154,"minecraft:netherite_upgrade_smithing_template":9,"universal_graves:grave_compass":1,"minecraft:prismarine":18,"minecraft:mossy_cobblestone_slab":3,"minecraft:spruce_sign":7,"minecraft:music_disc_precipice":2,"minecraft:stick":2202,"minecraft:wooden_sword":3,"minecraft:bamboo":155,"minecraft:deepslate_redstone_ore":4,"minecraft:diamond_boots":6,"minecraft:moss_block":96,"minecraft:twisting_vines":1,"minecraft:iron_axe":50,"minecraft:deepslate":45,"minecraft:item_frame":4,"minecraft:stone_brick_wall":2,"minecraft:raw_iron":516,"minecraft:shulker_box":38,"minecraft:music_disc_far":4,"minecraft:honeycomb":22,"minecraft:waxed_oxidized_copper_grate":3,"minecraft:music_disc_5":4,"minecraft:oxidized_copper":12,"minecraft:leather_helmet":29,"minecraft:cherry_planks":7,"minecraft:end_rod":35,"minecraft:netherite_sword":4,"minecraft:sculk":26,"minecraft:netherrack":29764,"travelersbackpack:bat":6,"minecraft:purpur_slab":17,"minecraft:brain_coral":1,"minecraft:skeleton_skull":3,"minecraft:pale_oak_slab":37,"minecraft:wither_rose":331,"minecraft:stone":87,"minecraft:gravel":1968,"minecraft:jungle_planks":1,"minecraft:bell":4,"minecraft:waxed_oxidized_copper_door":7,"travelersbackpack:standard":9,"minecraft:deepslate_tile_stairs":83,"minecraft:netherite_hoe":1,"minecraft:snort_pottery_sherd":1,"minecraft:redstone_block":36,"minecraft:lime_carpet":2,"minecraft:dark_oak_stairs":12,"minecraft:shield":9,"waystones:blank_scroll":9,"waystones:waystone":33,"minecraft:cherry_sapling":58,"minecraft:netherite_chestplate":3,"minecraft:flint_and_steel":12,"minecraft:dispenser":5,"minecraft:red_candle":21,"minecraft:rotten_flesh":16735,"minecraft:ancient_debris":89,"minecraft:apple":67,"minecraft:iron_nugget":216,"minecraft:jukebox":1,"waystones:bound_scroll":40,"minecraft:dead_horn_coral_block":13,"minecraft:black_stained_glass_pane":63,"minecraft:purpur_stairs":55,"minecraft:tropical_fish":2,"minecraft:brewing_stand":19,"minecraft:polished_andesite":45,"minecraft:mossy_stone_brick_slab":2,"minecraft:composter":2,"minecraft:glass":874,"lootr:trophy":3,"minecraft:candle":35,"minecraft:suspicious_stew":3,"minecraft:warped_roots":27,"farmersdelight:smoked_ham":1,"minecraft:redstone":3079,"minecraft:deepslate_tiles":272,"minecraft:black_candle":10,"minecraft:gray_bed":2,"minecraft:music_disc_creator_music_box":1,"minecraft:horn_coral":2,"minecraft:jungle_button":1,"minecraft:orange_terracotta":9,"minecraft:glow_berries":8,"worldbosses:dune_raid_cache":1,"minecraft:diamond":805,"minecraft:slime_ball":1827,"farmersdelight:golden_knife":5,"minecraft:smoker":4,"minecraft:granite":1449,"minecraft:dark_oak_sapling":15,"minecraft:lily_pad":1,"minecraft:crimson_roots":24,"minecraft:creaking_heart":4,"minecraft:bush":3,"minecraft:packed_ice":239,"minecraft:powered_rail":3,"minecraft:charcoal":3,"minecraft:gold_block":62,"minecraft:red_sand":2,"minecraft:observer":40,"minecraft:enchanted_golden_apple":4,"minecraft:wooden_shovel":1,"minecraft:hay_block":17,"minecraft:polished_blackstone_brick_stairs":14,"minecraft:raw_gold":461,"travelersbackpack:quartz":9,"minecraft:stone_sword":262,"waystones:sandy_waystone":11,"minecraft:deepslate_bricks":20,"minecraft:mossy_stone_bricks":40,"minecraft:polished_blackstone":3,"minecraft:spruce_planks":468,"minecraft:crying_obsidian":44,"minecraft:pale_oak_sign":16,"waystones:deepslate_waystone":12,"enchantinginfuser:enchanting_infuser":1,"minecraft:dirt":18384,"minecraft:basalt":3427,"minecraft:prismarine_stairs":7,"minecraft:bone_block":94,"minecraft:torch":691,"minecraft:cherry_log":74,"minecraft:ender_eye":9,"minecraft:bread":109,"minecraft:iron_boots":4,"minecraft:cactus_flower":8,"minecraft:music_disc_strad":3,"globalxp:xp_block":58,"minecraft:birch_leaves":6,"minecraft:coal":6349,"minecraft:snow":67,"minecraft:music_disc_otherside":3,"minecraft:sculk_sensor":13,"minecraft:splash_potion":11,"minecraft:tnt":47,"minecraft:seagrass":25,"minecraft:weeping_vines":16,"minecraft:anvil":4,"minecraft:milk_bucket":2,"minecraft:bookshelf":8,"minecraft:wooden_hoe":4,"minecraft:waxed_copper_block":35,"minecraft:poppy":63,"minecraft:blade_pottery_sherd":1,"minecraft:iron_trapdoor":1,"minecraft:mangrove_propagule":3,"minecraft:jack_o_lantern":2,"travelersbackpack:nether":5,"minecraft:potion":123,"minecraft:spruce_fence":1,"minecraft:polished_granite":14,"minecraft:deepslate_tile_slab":24,"minecraft:nether_brick_slab":34,"minecraft:music_disc_mellohi":3,"minecraft:sandstone":108,"minecraft:beetroot_soup":11,"minecraft:breeze_rod":81,"minecraft:end_stone_brick_wall":3,"minecraft:gold_nugget":2485,"minecraft:gilded_blackstone":10,"minecraft:resin_clump":11,"minecraft:water_bucket":4,"minecraft:stone_pickaxe":18,"minecraft:chorus_fruit":20,"minecraft:baked_potato":299,"minecraft:copper_block":1,"minecraft:coast_armor_trim_smithing_template":12,"minecraft:oak_leaves":6,"minecraft:waxed_oxidized_cut_copper":5,"minecraft:polished_andesite_slab":1,"minecraft:oak_trapdoor":1,"worldbosses:shrine_locator_compass":1,"minecraft:dragon_head":23,"minecraft:fire_charge":19,"minecraft:waxed_oxidized_copper_bulb":2,"minecraft:clay":173,"minecraft:red_terracotta":4,"minecraft:cooked_salmon":1,"minecraft:golden_chestplate":46,"minecraft:honey_block":5,"minecraft:acacia_leaves":2,"minecraft:golden_hoe":4,"minecraft:pointed_dripstone":59,"travelersbackpack:wither":3,"minecraft:lapis_block":1,"minecraft:glowstone_dust":739,"minecraft:pumpkin_seeds":462,"waystones:warp_plate":10,"minecraft:stone_axe":4,"minecraft:end_stone_bricks":110,"minecraft:wheat":1429,"travelersbackpack:magnet_upgrade":2,"farmersdelight:fried_egg":7,"minecraft:damaged_anvil":3,"minecraft:gunpowder":1461,"minecraft:elytra":28,"minecraft:blackstone":1792,"minecraft:pale_moss_carpet":17,"minecraft:magenta_dye":2,"minecraft:fire_coral_fan":3,"minecraft:coarse_dirt":14,"minecraft:lever":6,"minecraft:tinted_glass":1,"minecraft:smooth_stone":404,"minecraft:short_grass":11,"minecraft:blue_ice":2,"minecraft:heavy_weighted_pressure_plate":4,"minecraft:leather_horse_armor":1,"minecraft:leaf_litter":722,"minecraft:pale_oak_boat":2,"minecraft:grass_block":9770,"minecraft:music_disc_creator":1,"minecraft:bamboo_planks":15,"minecraft:piston":4,"minecraft:bone_meal":257,"minecraft:green_carpet":2,"minecraft:chorus_flower":11,"minecraft:decorated_pot":2,"minecraft:copper_chestplate":53,"minecraft:oak_sapling":498,"minecraft:bundle":16,"minecraft:warped_stem":354,"minecraft:pale_oak_fence_gate":6,"minecraft:wither_skeleton_skull":117,"minecraft:cake":4,"minecraft:wind_charge":68,"minecraft:copper_axe":1,"minecraft:netherite_ingot":6,"minecraft:dried_ghast":15,"minecraft:cocoa_beans":33,"minecraft:cobblestone_wall":401,"minecraft:saddle":16,"minecraft:sugar_cane":621,"minecraft:crimson_fence":2,"minecraft:bone":11765,"minecraft:mossy_cobblestone_wall":1,"minecraft:blackstone_slab":1,"minecraft:diamond_shovel":3,"minecraft:iron_sword":11,"minecraft:deepslate_diamond_ore":1,"minecraft:book":606,"minecraft:oxidized_cut_copper":9,"minecraft:purpur_pillar":66,"minecraft:armor_stand":3,"minecraft:light_blue_wool":27,"minecraft:wildflowers":26,"ironchest:gold_chest":2,"minecraft:spectral_arrow":155,"minecraft:bow":318,"minecraft:iron_ingot":762,"minecraft:spruce_slab":10,"minecraft:crossbow":89,"minecraft:spore_blossom":4,"minecraft:heavy_core":1,"minecraft:golden_leggings":50,"minecraft:firework_rocket":183,"minecraft:pale_oak_fence":10,"minecraft:music_disc_chirp":5,"travelersbackpack:villager":4,"minecraft:guster_pottery_sherd":9,"minecraft:music_disc_11":6,"minecraft:light_gray_carpet":10,"minecraft:black_dye":2,"minecraft:crimson_stem":262,"minecraft:brain_coral_fan":2,"minecraft:birch_fence_gate":1,"minecraft:cobblestone_stairs":60,"minecraft:oxeye_daisy":23,"minecraft:oxidized_cut_copper_stairs":2,"minecraft:heart_of_the_sea":1,"travelersbackpack:diamond":6,"minecraft:music_disc_13":5,"minecraft:quartz":1841,"minecraft:granite_slab":6,"minecraft:diamond_sword":17,"farmersdelight:cabbage_seeds":12,"minecraft:warped_wart_block":658,"minecraft:closed_eyeblossom":14,"minecraft:blast_furnace":12,"minecraft:dried_kelp":1,"minecraft:chiseled_tuff_bricks":31,"minecraft:oak_sign":1,"minecraft:red_dye":2,"minecraft:music_disc_pigstep":4,"minecraft:golden_sword":21,"minecraft:honeycomb_block":4,"minecraft:smithing_table":27,"minecraft:writable_book":4,"minecraft:polished_basalt":4,"minecraft:nether_wart_block":663,"minecraft:mushroom_stew":1,"minecraft:pale_oak_trapdoor":2,"minecraft:cornflower":21,"minecraft:enchanted_book":28,"minecraft:iron_block":291,"minecraft:tripwire_hook":9,"minecraft:glowstone":2,"minecraft:white_bed":66,"minecraft:fishing_rod":1,"minecraft:stripped_oak_log":16,"minecraft:bucket":21,"minecraft:guster_banner_pattern":1,"minecraft:chiseled_stone_bricks":9,"waystones:return_scroll":1,"minecraft:leather":225,"minecraft:cyan_wool":1,"minecraft:cracked_deepslate_tiles":4,"minecraft:shulker_shell":101,"minecraft:lime_candle":6,"minecraft:lead":22,"minecraft:dead_brain_coral_block":1,"minecraft:glistering_melon_slice":37,"minecraft:moss_carpet":14,"minecraft:sculk_vein":2,"minecraft:ghast_tear":8,"minecraft:birch_button":4,"minecraft:sea_pickle":37,"minecraft:prismarine_crystals":10,"minecraft:golden_horse_armor":5,"minecraft:porkchop":35,"minecraft:carved_pumpkin":242,"minecraft:redstone_torch":124,"minecraft:polished_tuff":12,"minecraft:dark_oak_fence":55,"minecraft:yellow_shulker_box":1,"minecraft:turtle_egg":9,"minecraft:cooked_porkchop":112,"minecraft:cauldron":14,"minecraft:cookie":1,"minecraft:red_carpet":46,"minecraft:diamond_chestplate":5,"minecraft:allium":1,"minecraft:dead_bush":1,"minecraft:mossy_cobblestone":217,"minecraft:muddy_mangrove_roots":4,"minecraft:nether_brick":177,"minecraft:netherite_leggings":1,"minecraft:spruce_door":34,"minecraft:chest":162,"minecraft:lectern":232,"minecraft:diamond_horse_armor":6,"minecraft:yellow_bed":15,"minecraft:dark_oak_trapdoor":32,"minecraft:trident":4,"minecraft:pale_oak_pressure_plate":22,"minecraft:note_block":3,"minecraft:golden_pickaxe":9,"minecraft:jungle_boat":43,"minecraft:tuff":2520,"minecraft:phantom_membrane":66,"minecraft:potato":7759,"minecraft:terracotta":42,"minecraft:lapis_lazuli":1298,"minecraft:crimson_trapdoor":53,"minecraft:jungle_log":266,"minecraft:spruce_stairs":2,"farmersdelight:minced_beef":2,"minecraft:waxed_weathered_cut_copper":1,"travelersbackpack:ghast":2,"minecraft:ominous_bottle":25,"minecraft:trial_key":28,"minecraft:netherite_shovel":1,"minecraft:oak_boat":5,"minecraft:cobweb":2,"minecraft:copper_horse_armor":3,"minecraft:oak_planks":327,"minecraft:netherite_scrap":15,"minecraft:ice":679,"minecraft:raw_copper":1651,"minecraft:purple_bed":9,"minecraft:stone_brick_stairs":12,"minecraft:cherry_trapdoor":51,"minecraft:blue_carpet":2,"minecraft:fern":1,"minecraft:calcite":127,"minecraft:smooth_sandstone":10,"travelersbackpack:magma_cube":33,"minecraft:cracked_stone_bricks":96,"minecraft:iron_door":12,"minecraft:brush":2,"minecraft:poisonous_potato":32,"minecraft:nether_brick_wall":1,"minecraft:name_tag":18,"minecraft:stone_button":5,"travelersbackpack:hose":1,"worldbosses:boss_codex":4,"minecraft:music_disc_ward":5,"minecraft:flint":588,"minecraft:purpur_block":178,"minecraft:redstone_lamp":1,"minecraft:flow_banner_pattern":2,"minecraft:beehive":3,"waystones:blackstone_waystone":2,"minecraft:firefly_bush":13,"minecraft:lantern":20,"minecraft:sandstone_slab":1,"minecraft:chipped_anvil":1,"travelersbackpack:fox":12,"minecraft:pale_hanging_moss":4,"minecraft:spruce_button":138,"minecraft:jungle_door":24,"minecraft:flow_armor_trim_smithing_template":2,"minecraft:nether_wart":43,"minecraft:copper_chest":4,"minecraft:spruce_boat":33,"minecraft:spyglass":2,"minecraft:cobbled_deepslate_stairs":1,"minecraft:dark_oak_button":334,"minecraft:magma_cream":205,"minecraft:iron_nautilus_armor":1,"minecraft:mossy_stone_brick_stairs":12,"minecraft:bowl":7,"minecraft:end_stone":227,"minecraft:dark_oak_planks":50,"farmersdelight:rich_soil":3,"minecraft:emerald_block":33,"farmersdelight:apple_cider":2,"minecraft:pale_oak_leaves":14,"minecraft:beetroot":34,"minecraft:blue_egg":1,"minecraft:rail":31,"minecraft:pale_oak_door":2,"minecraft:blue_wool":29,"minecraft:diamond_helmet":11,"minecraft:iron_shovel":32,"minecraft:golden_boots":46,"minecraft:azure_bluet":15,"minecraft:diamond_pickaxe":12,"minecraft:dripstone_block":59,"waystones:mossy_waystone":1,"minecraft:spruce_log":679,"minecraft:stone_stairs":1,"minecraft:acacia_boat":3,"minecraft:netherite_pickaxe":2,"minecraft:oak_fence":32,"minecraft:birch_planks":25,"minecraft:deepslate_brick_stairs":47,"minecraft:smooth_quartz":6,"worldbosses:storm_sigil":1,"minecraft:iron_pickaxe":4,"minecraft:music_disc_mall":4,"minecraft:oxidized_copper_door":5,"minecraft:golden_axe":8,"minecraft:nether_bricks":838,"minecraft:hopper":202,"minecraft:birch_sapling":26,"travelersbackpack:blaze":15,"minecraft:totem_of_undying":96,"minecraft:stone_hoe":1,"minecraft:cooked_beef":183,"minecraft:nether_star":11,"minecraft:white_wool":310,"minecraft:feather":67,"minecraft:mossy_cobblestone_stairs":7,"minecraft:fletching_table":22,"minecraft:warped_nylium":10,"minecraft:rooted_dirt":16,"minecraft:chiseled_deepslate":2,"minecraft:andesite":1115,"minecraft:stone_spear":2,"minecraft:copper_ingot":215,"minecraft:amethyst_shard":836,"minecraft:filled_map":24,"minecraft:waxed_chiseled_copper":1,"minecraft:vine":3,"minecraft:stone_pressure_plate":16,"minecraft:soul_sand":498,"minecraft:diamond_spear":3,"minecraft:diamond_axe":4,"minecraft:carrot":3211,"minecraft:rabbit":9,"minecraft:soul_soil":163,"minecraft:flow_pottery_sherd":10,"minecraft:cracked_polished_blackstone_bricks":866,"minecraft:netherite_boots":2,"minecraft:chiseled_tuff":10,"minecraft:gold_ingot":266,"minecraft:horn_coral_fan":19,"minecraft:black_stained_glass":16,"minecraft:glow_ink_sac":8,"minecraft:golden_apple":19,"minecraft:green_candle":12,"minecraft:blackstone_wall":4,"minecraft:black_wool":10,"minecraft:leather_chestplate":40,"minecraft:nether_brick_stairs":12,"minecraft:repeater":56,"minecraft:kelp":134,"minecraft:cooked_chicken":96,"minecraft:grindstone":3,"minecraft:cobbled_deepslate":23905,"minecraft:jungle_slab":13,"minecraft:bamboo_hanging_sign":4,"minecraft:jungle_sapling":31,"minecraft:amethyst_block":120,"minecraft:tuff_bricks":226,"waystones:warp_scroll":4,"minecraft:pumpkin_pie":1,"minecraft:netherite_helmet":3,"minecraft:spruce_trapdoor":392,"minecraft:deepslate_tile_wall":2,"minecraft:blaze_powder":47,"farmersdelight:tomato_seeds":7,"minecraft:chainmail_leggings":16,"travelersbackpack:dragon":3,"minecraft:magma_block":175,"minecraft:light_gray_wool":1,"minecraft:polished_deepslate":128,"minecraft:pale_oak_planks":271,"minecraft:nether_brick_fence":42,"minecraft:birch_log":18,"minecraft:mud":133,"minecraft:sticky_piston":83,"minecraft:music_disc_stal":4,"minecraft:pumpkin":20,"minecraft:diamond_block":1,"minecraft:spider_eye":131,"minecraft:dark_oak_log":142,"minecraft:netherite_axe":1,"minecraft:tipped_arrow":203,"minecraft:diorite":1220,"minecraft:flower_pot":17,"minecraft:pale_moss_block":45,"minecraft:golden_helmet":53,"minecraft:copper_nautilus_armor":3,"minecraft:crafting_table":25,"minecraft:ominous_trial_key":10,"minecraft:beef":53,"minecraft:cobblestone_slab":376,"minecraft:dark_oak_boat":2,"travelersbackpack:iron_golem":1,"minecraft:music_disc_cat":4,"minecraft:glass_bottle":75,"minecraft:oak_slab":35,"minecraft:blue_bed":19,"minecraft:waxed_oxidized_copper":7,"minecraft:barrel":1,"minecraft:cracked_nether_bricks":6,"minecraft:stripped_oak_wood":1,"minecraft:paper":20,"minecraft:gray_wool":23,"minecraft:dead_tube_coral_block":6},"minecraft:killed":{"minecraft:stray":5,"minecraft:pig":30,"minecraft:zombie_villager":23,"minecraft:cow":69,"minecraft:squid":25,"minecraft:drowned":74,"minecraft:endermite":63,"minecraft:slime":738,"minecraft:skeleton":4223,"minecraft:zombie_nautilus":2,"minecraft:tropical_fish":4,"minecraft:iron_golem":9,"minecraft:bogged":15,"minecraft:zombie_horse":1,"minecraft:enderman":39,"minecraft:sheep":67,"minecraft:evoker":93,"minecraft:polar_bear":1,"minecraft:magma_cube":384,"minecraft:ghast":2,"minecraft:breeze":10,"minecraft:blaze":209,"worldbosses:nekhraz":1,"minecraft:zombified_piglin":75,"minecraft:parched":6,"minecraft:piglin_brute":17,"minecraft:piglin":14,"minecraft:vindicator":368,"minecraft:ravager":8,"minecraft:wandering_trader":1,"minecraft:cat":1,"minecraft:silverfish":12,"minecraft:shulker":171,"minecraft:salmon":1,"minecraft:zombie":11949,"minecraft:chicken":55,"minecraft:pillager":690,"minecraft:phantom":33,"minecraft:witch":91,"minecraft:villager":1,"minecraft:frog":2,"minecraft:spider":47,"minecraft:ender_dragon":1,"minecraft:wither":3,"minecraft:husk":25,"minecraft:cave_spider":6,"minecraft:wither_skeleton":2365,"minecraft:copper_golem":2,"minecraft:creeper":819,"minecraft:hoglin":6,"minecraft:vex":8}}
-[03:04:44] [Server thread/WARN]: Ignored advancement 'worldbosses:root' in progress file ./world/advancements/f58785a7-6f31-3493-86e0-bef8c4556536.json - it doesn't exist anymore?
-[03:04:44] [Server thread/INFO]: bryan13[/127.42.141.221:54343] logged in with entity id 137963 at (-8147.300000011921, 69.0, 2301.941436258629)
-[03:04:44] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'f58785a7-6f31-3493-86e0-bef8c4556536'.
-[03:04:44] [Server thread/INFO]: bryan13 joined the game
-[03:04:44] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'f58785a7-6f31-3493-86e0-bef8c4556536'.
-[03:04:45] [ForkJoinPool.commonPool-worker-19/INFO]: Loaded 1 player data objects (took 0s 364ms)
-[03:04:56] [Server thread/INFO]: [Not Secure] <bryan13> que ondas xd
-[03:05:17] [Server thread/INFO]: alkeys[/127.250.60.245:34887] logged in with entity id 138457 at (-1153.8484433453648, 240.5, 410.08672929689976)
-[03:05:17] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[03:05:17] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[03:05:17] [Server thread/INFO]: alkeys joined the game
-[03:05:17] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[03:05:37] [Server thread/INFO]: [Not Secure] <bryan13> donde estas xd
-[03:05:40] [Server thread/INFO]: [Not Secure] <alkeys> hoy
-[03:05:44] [Server thread/INFO]: [Not Secure] <alkeys> a farmeando aja
-[03:05:47] [Server thread/INFO]: [Not Secure] <alkeys> jaaja
-[03:06:02] [Server thread/INFO]: [Not Secure] <bryan13> xd oro
-[03:06:08] [Server thread/INFO]: [Not Secure] <alkeys> no otra madre
-[03:06:09] [Server thread/INFO]: [Not Secure] <alkeys> jajaja
-[03:06:12] [Server thread/INFO]: [Not Secure] <bryan13> xd
-[03:08:43] [Server thread/INFO]: [Not Secure] <bryan13> xd
-[03:08:47] [Server thread/INFO]: [Not Secure] <alkeys> jajaja
-[03:08:55] [Server thread/INFO]: [Not Secure] <alkeys> aqui valiendo madre ajja
-[03:09:03] [Server thread/INFO]: [Not Secure] <bryan13> donde xd
-[03:09:09] [Server thread/INFO]: [Not Secure] <alkeys> queres perlas del end?
-[03:09:16] [Server thread/INFO]: [Not Secure] <bryan13> see
-[03:09:28] [Server thread/INFO]: [Not Secure] <bryan13> en el end estas
-[03:09:53] [Server thread/INFO]: [Not Secure] <alkeys> no akaka
-[03:10:09] [Server thread/INFO]: [Not Secure] <alkeys> donde estas
-[03:10:14] [Server thread/INFO]: [Not Secure] <bryan13> xd que veo un punto xd el afk a de ser va
-[03:10:23] [Server thread/INFO]: [Not Secure] <alkeys> a si
-[03:10:27] [Server thread/INFO]: [Not Secure] <alkeys> en end e dejado aja
-[03:10:42] [Server thread/INFO]: [Not Secure] <alkeys> a no nehter ajja
-[03:11:16] [Server thread/INFO]: [Not Secure] <alkeys> bueno pero donde stas
-[03:11:30] [Server thread/INFO]: [Not Secure] <bryan13> end
-[03:11:38] [Server thread/INFO]: [Not Secure] <alkeys> io en mi casa ajaj
-[03:11:47] [Server thread/INFO]: [Not Secure] <bryan13> xd
-[03:12:21] [Server thread/WARN]: Tried to over-fill a container
-[03:12:21] [Server thread/WARN]: Tried to over-fill a container
-[03:12:21] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
-[03:12:59] [Server thread/INFO]: [Not Secure] <alkeys> si vas en busca de la granja esta re lejos wei aaj
-[03:13:13] [Server thread/INFO]: [Not Secure] <bryan13> seeeee ya me imagino
-[03:13:16] [Server thread/INFO]: [Not Secure] <alkeys> jajaja
-[03:14:03] [Server thread/INFO]: [Not Secure] <alkeys> jue que relajo tenog ahorita aqui ajja
-[03:14:21] [Server thread/INFO]: [Not Secure] <bryan13> en cofres
-[03:14:24] [Server thread/INFO]: [Not Secure] <alkeys> see
-[03:15:25] [Server thread/INFO]: [Not Secure] <bryan13> busco tp y regreso
-[03:15:33] [Server thread/INFO]: [Not Secure] <alkeys> kjajaa
-[03:15:34] [Server thread/INFO]: [Not Secure] <bryan13> que sin pergamino ando
-[03:15:41] [Server thread/INFO]: [Not Secure] <alkeys> ,madre
-[03:15:54] [Server thread/INFO]: [Not Secure] <alkeys> ,madre
-[03:15:59] [Server thread/INFO]: alkeys-afk lost connection: Killed
-[03:15:59] [Server thread/INFO]: alkeys-afk left the game
-[03:16:07] [Server thread/INFO]: [Not Secure] <bryan13> xd
-[03:16:17] [Server thread/INFO]: [Not Secure] <alkeys> jaja
-[03:17:28] [Server thread/INFO]: [Not Secure] <bryan13> man que hay como cuevas va porque vi ahorita volabdo una mix debajo de las piedras
-[03:17:34] [Server thread/WARN]: Tried to over-fill a container
-[03:17:34] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
-[03:17:39] [Server thread/INFO]: [Not Secure] <alkeys> si en end hay cosa nuevas ajja
-[03:17:50] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
-[03:18:08] [Server thread/INFO]: [Not Secure] <bryan13> esta perron tons
-[03:18:10] [Server thread/INFO]: [Not Secure] <alkeys> seee
-[03:18:22] [Server thread/INFO]: [Not Secure] <alkeys> peligroso me armo iuna casa ahi en el dend ajja
-[03:18:48] [Server thread/INFO]: [Not Secure] <bryan13> seee
-[03:19:33] [Server thread/INFO]: [Not Secure] <bryan13> como que si es una de las mix de cuevas hasta rieles hay
-[03:19:38] [Server thread/INFO]: [Not Secure] <alkeys> jaja
-[03:19:39] [Server thread/INFO]: [Not Secure] <alkeys> see
-[03:21:05] [Server thread/WARN]: Tried to over-fill a container
-[03:21:05] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 1 extra loot rolls
-[03:21:23] [Server thread/INFO]: alkeys was slain by Magma Cube
-[03:21:25] [Server thread/INFO]: [Not Secure] <bryan13> mannn mochila de mursielago encontre en cofre xd
-[03:21:27] [Server thread/INFO]: alkeys was not rescued in time
-[03:21:27] [Server thread/INFO]: Created new backpack backup file for alkeys with unique ID travelersbackpack.dragon_20.09.2026-03.21.27.dat
-[03:21:29] [Server thread/INFO]: [Not Secure] <alkeys> jajaja
-[03:21:35] [Server thread/INFO]: [Not Secure] <alkeys> a la
-[03:21:39] [Server thread/INFO]: [Not Secure] <bryan13> seeee
-[03:22:05] [Server thread/WARN]: Tried to over-fill a container
-[03:22:05] [Server thread/WARN]: Tried to over-fill a container
-[03:22:05] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
-[03:22:53] [Server thread/INFO]: [Not Secure] <bryan13> se ve perron pero aqui con cuidado xq caes mamas
-[03:24:36] [Server thread/INFO]: [Not Secure] <alkeys> madre
-[03:26:00] [Server thread/INFO]: [Not Secure] <bryan13> xaero-waypoint:veni xd:V:-3042:62:-768:14:false:0:Internal-the-end
-[03:26:03] [Server thread/INFO]: [Not Secure] <alkeys> orale
-[03:26:24] [Server thread/INFO]: [Not Secure] <bryan13> todo es de obsidiana
-[03:26:28] [Server thread/INFO]: [Not Secure] <alkeys> uy
-[03:26:40] [Server thread/INFO]: [Not Secure] <bryan13> seeee
-[03:26:46] [Server thread/INFO]: [Not Secure] <bryan13> caes o nel xd
-[03:27:10] [Server thread/INFO]: [Not Secure] <bryan13> qye abajo hay cofres pero capas es de los que en medio hay tnt
-[03:28:51] [Server thread/INFO]: [Not Secure] <alkeys> ta chivo
-[03:28:56] [Server thread/INFO]: [Not Secure] <alkeys> a jajajajaja
-[03:28:59] [Server thread/INFO]: [Not Secure] <bryan13> ya quite toda la tnt xd
-[03:29:10] [Server thread/INFO]: [Not Secure] <alkeys> ajaj
-[03:29:26] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER alkeys-afk
-[03:29:26] [Server thread/INFO]: alkeys-afk[local] logged in with entity id 183214 at (-8206.5, 69.5, 2291.5)
-[03:29:26] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[03:29:26] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[03:29:26] [Server thread/INFO]: alkeys-afk joined the game
-[03:29:26] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[03:29:28] [Server thread/WARN]: Tried to over-fill a container
-[03:29:28] [Server thread/WARN]: Tried to over-fill a container
-[03:29:28] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
-[03:29:30] [Server thread/INFO]: alkeys-afk lost connection: Killed
-[03:29:30] [Server thread/INFO]: alkeys-afk left the game
-[03:29:32] [Server thread/INFO]: alkeys lost connection: Disconnected
-[03:29:32] [Server thread/INFO]: alkeys left the game
-[03:29:35] [Server thread/INFO]: alkeys[/127.250.60.245:48845] logged in with entity id 183281 at (-1154.7865564591502, 240.5, 408.31079568243206)
-[03:29:35] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[03:29:35] [Server thread/INFO]: alkeys joined the game
-[03:29:35] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
-[03:29:36] [ForkJoinPool.commonPool-worker-21/INFO]: Loaded 1 player data objects (took 0s 337ms)
-[03:29:38] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER alkeys-afk
-[03:29:38] [Server thread/INFO]: alkeys-afk[local] logged in with entity id 183340 at (-1154.1475975087665, 240.5, 408.25027513490295)
-[03:29:38] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[03:29:38] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[03:29:38] [Server thread/INFO]: alkeys-afk joined the game
-[03:29:38] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[03:29:48] [Server thread/WARN]: Tried to over-fill a container
-[03:29:48] [Server thread/WARN]: Tried to over-fill a container
-[03:29:48] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
-[03:30:03] [Server thread/WARN]: Tried to over-fill a container
-[03:30:03] [Server thread/WARN]: Tried to over-fill a container
-[03:30:03] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
-[03:30:14] [Server thread/INFO]: [Not Secure] <alkeys> pasa cordenada otra vez
-[03:30:25] [Server thread/INFO]: [Not Secure] <bryan13> xaero-waypoint:veni xd:V:-3042:62:-768:14:false:0:Internal-the-end
-[03:30:28] [Server thread/WARN]: Tried to over-fill a container
-[03:30:28] [Server thread/WARN]: Tried to over-fill a container
-[03:30:28] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
-[03:31:06] [Server thread/INFO]: [Not Secure] <alkeys> boy
-[03:31:08] [Server thread/INFO]: [Not Secure] <alkeys> voy
-[03:31:19] [Server thread/INFO]: [Not Secure] <bryan13> 1 stack de diamante y 55 ojos del en reuni solo aqui xd
-[03:31:22] [Server thread/INFO]: [Not Secure] <bryan13> va va
-[03:31:33] [Server thread/INFO]: [Not Secure] <alkeys> a la
-[03:31:44] [Server thread/WARN]: Tried to over-fill a container
-[03:31:44] [Server thread/INFO]: Player alkeys with 4 emerald trims got 2 extra loot rolls
-[03:31:52] [Server thread/INFO]: [Not Secure] <alkeys> men que buen loot
-[03:31:54] [Server thread/WARN]: Tried to over-fill a container
-[03:31:54] [Server thread/INFO]: Player alkeys with 4 emerald trims got 1 extra loot rolls
-[03:31:58] [Server thread/WARN]: Tried to over-fill a container
-[03:31:58] [Server thread/INFO]: Player alkeys with 4 emerald trims got 1 extra loot rolls
-[03:32:00] [Server thread/WARN]: Tried to over-fill a container
-[03:32:00] [Server thread/WARN]: Tried to over-fill a container
-[03:32:00] [Server thread/INFO]: Player alkeys with 4 emerald trims got 2 extra loot rolls
-[03:32:04] [Server thread/INFO]: Player alkeys with 4 emerald trims got 1 extra loot rolls
-[03:32:09] [Server thread/INFO]: [Not Secure] <bryan13> seeee te pusiste armadura complta va
-[03:32:11] [Server thread/INFO]: [Not Secure] <alkeys> toma
-[03:32:26] [Server thread/INFO]: [Not Secure] <alkeys> jaja
-[03:32:36] [Server thread/INFO]: [Not Secure] <bryan13> madre
-[03:32:38] [Server thread/INFO]: [Not Secure] <alkeys> jaja
-[03:33:05] [Server thread/INFO]: [Not Secure] <alkeys> jajaj
-[03:33:44] [Server thread/INFO]: [Not Secure] <alkeys> a ajja
-[03:34:04] [Server thread/INFO]: [Not Secure] <bryan13> xd
-[03:34:10] [Server thread/INFO]: [Not Secure] <alkeys> por gusto aja
-[03:34:19] [Server thread/INFO]: [Not Secure] <alkeys> me segis para el portal ?
-[03:34:21] [Server thread/INFO]: [Not Secure] <bryan13> se
-[03:34:26] [Server thread/INFO]: [Not Secure] <bryan13> vamo
-[03:35:28] [Server thread/WARN]: Tried to over-fill a container
-[03:35:28] [Server thread/WARN]: Tried to over-fill a container
-[03:35:28] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
-[03:35:42] [Server thread/INFO]: [Not Secure] <bryan13> y esa mix que sale xd
-[03:35:50] [Server thread/INFO]: [Not Secure] <alkeys> kaka
-[03:36:04] [Server thread/INFO]: [Not Secure] <alkeys> welcome to granja aja
-[03:36:11] [Server thread/INFO]: [Not Secure] <bryan13> madre
-[03:36:14] [Server thread/INFO]: [Not Secure] <alkeys> see me mame ajja
-[03:36:26] [Server thread/INFO]: bryan13 has made the advancement [The Useless Portal]
-[03:36:28] [Server thread/WARN]: Tried to over-fill a container
-[03:36:28] [Server thread/WARN]: Tried to over-fill a container
-[03:36:28] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
-[03:36:36] [Server thread/WARN]: Tried to over-fill a container
-[03:36:36] [Server thread/INFO]: Player alkeys with 4 emerald trims got 1 extra loot rolls
-[03:36:54] [Server thread/INFO]: [Not Secure] <bryan13> seeee cmamo
-[03:37:02] [Server thread/INFO]: [Not Secure] <alkeys> ajajaj
-[03:37:11] [Server thread/INFO]: [Not Secure] <alkeys> segime
-[03:37:24] [Server thread/INFO]: [Not Secure] <bryan13> coetes no absdo
-[03:37:45] [Server thread/INFO]: [Not Secure] <alkeys> dicor
-[03:37:50] [Server thread/INFO]: [Not Secure] <bryan13> voy
-[03:44:12] [Server thread/WARN]: bryan13 moved wrongly!
-[03:44:39] [Server thread/INFO]: alkeys-afk is now AFK.
-[03:45:45] [Server thread/INFO]: [Not Secure] <alkeys> te saliste
-[03:48:24] [Server thread/WARN]: alkeys moved too quickly! -9.120520175342904,-1.2652624140709747,-15.185965009536858
-[03:48:27] [Server thread/WARN]: alkeys moved too quickly! -9.343846398949836,-0.6964626485572012,-16.17744536938335
-[03:49:30] [Server thread/INFO]: alkeys-afk lost connection: Killed
-[03:49:30] [Server thread/INFO]: [AFK] alkeys-afk left the game
-[04:00:13] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER bryan13-afk
-[04:00:13] [Server thread/WARN]: Ignored advancement 'worldbosses:root' in progress file ./world/advancements/4e420353-6ad8-34fb-b67b-2e5c83be704d.json - it doesn't exist anymore?
-[04:00:13] [Server thread/INFO]: bryan13-afk[local] logged in with entity id 224803 at (-7804.218777497757, 63.0, 2203.584937313173)
-[04:00:13] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '4e420353-6ad8-34fb-b67b-2e5c83be704d'.
-[04:00:13] [Server thread/INFO]: bryan13-afk joined the game
-[04:00:13] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '4e420353-6ad8-34fb-b67b-2e5c83be704d'.
-[04:00:13] [ForkJoinPool.commonPool-worker-23/INFO]: Loaded 1 player data objects (took 0s 396ms)
-[04:03:50] [Server thread/INFO]: bryan13-afk died
-[04:04:38] [Server thread/INFO]: bryan13-afk lost connection: Killed
-[04:04:38] [Server thread/INFO]: bryan13-afk left the game
-[04:04:53] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER bryan13-afk
-[04:04:53] [Server thread/INFO]: bryan13-afk[local] logged in with entity id 227752 at (-7811.937358485003, 63.0, 2208.924046255648)
-[04:04:53] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '4e420353-6ad8-34fb-b67b-2e5c83be704d'.
-[04:04:53] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[04:04:53] [Server thread/INFO]: bryan13-afk joined the game
-[04:04:53] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '4e420353-6ad8-34fb-b67b-2e5c83be704d'.
-[04:05:53] [Server thread/INFO]: bryan13-afk lost connection: Killed
-[04:05:53] [Server thread/INFO]: bryan13-afk left the game
-[04:06:00] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER bryan13-afk
-[04:06:00] [Server thread/INFO]: bryan13-afk[local] logged in with entity id 229077 at (-7810.803255933826, 63.0, 2207.690535646185)
-[04:06:00] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '4e420353-6ad8-34fb-b67b-2e5c83be704d'.
-[04:06:00] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[04:06:00] [Server thread/INFO]: bryan13-afk joined the game
-[04:06:00] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '4e420353-6ad8-34fb-b67b-2e5c83be704d'.
-[04:06:13] [Server thread/INFO]: bryan13-afk was not rescued in time
-[04:06:13] [Server thread/INFO]: bryan13-afk lost connection: bryan13-afk died
-[04:06:13] [Server thread/INFO]: bryan13-afk left the game
-[04:06:22] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER bryan13-afk
-[04:06:22] [Server thread/INFO]: bryan13-afk[local] logged in with entity id 229573 at (-7811.080644733132, 63.0, 2209.9874959800422)
-[04:06:22] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '4e420353-6ad8-34fb-b67b-2e5c83be704d'.
-[04:06:22] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[04:06:22] [Server thread/INFO]: bryan13-afk joined the game
-[04:06:22] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '4e420353-6ad8-34fb-b67b-2e5c83be704d'.
-[04:11:55] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER alkeys-afk
-[04:11:56] [Server thread/INFO]: alkeys-afk[local] logged in with entity id 238277 at (-3447.0844759882434, 196.0, 336.68493524029424)
-[04:11:56] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[04:11:56] [Server thread/INFO]: alkeys-afk joined the game
-[04:11:56] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
-[04:11:57] [ForkJoinPool.commonPool-worker-27/INFO]: Loaded 1 player data objects (took 0s 336ms)
-[04:15:31] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzz
-[04:15:42] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzzzzzz
-[04:21:24] [Server thread/INFO]: bryan13-afk is now AFK.
-[04:26:56] [Server thread/INFO]: alkeys-afk is now AFK.
-[04:28:32] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8180.836007118225, 57.0, 2279.1144205331802) too far away from hit block class_2338{x=-8185, y=56, z=2279}.
-[04:28:33] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8180.6624546051025, 57.0, 2280.0754942670465) too far away from hit block class_2338{x=-8185, y=56, z=2280}.
-[04:28:36] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8180.659862041473, 57.0, 2279.680870473385) too far away from hit block class_2338{x=-8185, y=56, z=2279}.
-[04:28:37] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8180.592577457428, 57.0, 2280.4539416730404) too far away from hit block class_2338{x=-8185, y=56, z=2280}.
-[04:31:46] [Server thread/INFO]: [Not Secure] <alkeys> a c me apagaron los audifons ajja
-[04:31:51] [Server thread/INFO]: [Not Secure] <alkeys> estare mudo un rato aja
-[04:32:10] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8196.629140615463, 57.0, 2235.9059401750565) too far away from hit block class_2338{x=-8199, y=56, z=2235}.
-[04:32:13] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8195.273943901062, 57.0, 2235.9507223963737) too far away from hit block class_2338{x=-8198, y=56, z=2235}.
-[04:32:24] [Server thread/INFO]: [Not Secure] <bryan13> xd
-[04:32:39] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8193.523879766464, 57.0, 2235.8344247341156) too far away from hit block class_2338{x=-8196, y=56, z=2235}.
-[04:32:45] [Server thread/INFO]: [Not Secure] <bryan13> yo sin audifonos estoy xd
-[04:32:48] [Server thread/INFO]: [Not Secure] <alkeys> ajaja
-[04:36:42] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8193.0, 57.567114770412445, 2237.7876205444336) too far away from hit block class_2338{x=-8197, y=57, z=2237}.
-[04:39:17] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzzz
-[04:47:28] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8183.250853538513, 57.42984336614609, 2247.9375) too far away from hit block class_2338{x=-8192, y=57, z=2247}.
-[04:49:18] [Server thread/INFO]: [Not Secure] <alkeys> xd
-[04:49:37] [Server thread/INFO]: alkeys-afk lost connection: Killed
-[04:49:37] [Server thread/INFO]: [AFK] alkeys-afk left the game
-[04:56:24] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8207.122803211212, 58.0, 2255.538459599018) too far away from hit block class_2338{x=-8212, y=57, z=2255}.
-[04:56:38] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8207.5346493721, 58.0, 2243.7309691905975) too far away from hit block class_2338{x=-8212, y=57, z=2243}.
-[04:58:23] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8213.701069355011, 57.000022613839974, 2258.0625) too far away from hit block class_2338{x=-8220, y=57, z=2258}.
-[05:15:12] [Server thread/INFO]: bryan13 lost connection: Disconnected
-[05:15:12] [Server thread/INFO]: bryan13 left the game
-[05:15:14] [Server thread/INFO]: alkeys lost connection: Disconnected
-[05:15:14] [Server thread/INFO]: alkeys left the game
-[05:15:28] [Server thread/INFO]: Stopping the server
-[05:15:28] [Server thread/INFO]: Stopping server
-[05:15:28] [Server thread/INFO]: Saving players
-[05:15:28] [Server thread/INFO]: Saving worlds
-[05:15:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:15:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:15:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:19:41] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.19.2
+[03:19:42] [ForkJoinPool-1-worker-2/WARN]: Mod roguelike uses the version fabric-2.1.2+mc1.21.11 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:19:44] [main/WARN]: Warnings were found!
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.11.1 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[03:19:44] [main/INFO]: Loading 141 mods:
+	- antixray 1.4.14
+	   |-- com_moandjiezana_toml_toml4j 0.7.2
+	   \-- fabric-permissions-api-v0 0.6.1
+	- balm 21.11.9
+	   \-- kuma_api 21.11.12
+	- cardinal-components 7.3.1
+	   |-- cardinal-components-base 7.3.1
+	   |-- cardinal-components-block 7.3.1
+	   |-- cardinal-components-chunk 7.3.1
+	   |-- cardinal-components-entity 7.3.1
+	   |-- cardinal-components-item 7.3.1
+	   |-- cardinal-components-level 7.3.1
+	   |-- cardinal-components-scoreboard 7.3.1
+	   \-- cardinal-components-world 7.3.1
+	- carpet 1.4.194+v251223
+	- carryon 2.9.0
+	- chisel 2.2.0+mc1.21.11
+	- cloth-config 21.11.153
+	   \-- cloth-basic-math 0.6.1
+	- commandblocker 1.0.0
+	- coolrain 1.4.0-1.21.11
+	- cryonicconfig 1.0.0+mc1.21.11
+	- dynamiclights 1.9.2+mod
+	- enchantinginfuser 21.11.3
+	- essential_commands 0.38.6-mc1.21.11
+	   |-- ec-core 1.3.0-mc1.21.11
+	   |-- fabric-permissions-api-v0 0.6.1
+	   |-- org_yaml_snakeyaml 2.5
+	   |-- placeholder-api 2.8.1+1.21.10
+	   \-- playerabilitylib 1.15.0
+	- fabric-api 0.141.4+1.21.11
+	   |-- fabric-api-base 1.0.5+4ebb5c083e
+	   |-- fabric-api-lookup-api-v1 1.6.114+20dc27073e
+	   |-- fabric-biome-api-v1 17.1.1+4fc5413f3e
+	   |-- fabric-block-api-v1 1.1.10+4ebb5c083e
+	   |-- fabric-block-view-api-v2 1.0.39+4ebb5c083e
+	   |-- fabric-command-api-v2 2.4.7+6b42a6003e
+	   |-- fabric-content-registries-v0 10.2.14+4fc5413f3e
+	   |-- fabric-convention-tags-v1 2.1.55+7f945d5b3e
+	   |-- fabric-convention-tags-v2 2.17.3+8ef948ba3e
+	   |-- fabric-crash-report-info-v1 0.3.23+4ebb5c083e
+	   |-- fabric-data-attachment-api-v1 1.8.48+eed0806f3e
+	   |-- fabric-data-generation-api-v1 23.4.1+69974c4e3e
+	   |-- fabric-dimensions-v1 4.0.28+4fc5413f3e
+	   |-- fabric-entity-events-v1 3.1.1+1d0ab4303e
+	   |-- fabric-events-interaction-v0 4.1.1+3b89ecf63e
+	   |-- fabric-game-rule-api-v1 2.0.3+4fc5413f3e
+	   |-- fabric-item-api-v1 11.5.20+d0c46b9e3e
+	   |-- fabric-item-group-api-v1 4.2.36+4fc5413f3e
+	   |-- fabric-key-binding-api-v1 1.1.7+4fc5413f3e
+	   |-- fabric-lifecycle-events-v1 2.6.15+4ebb5c083e
+	   |-- fabric-loot-api-v2 3.0.73+3f89f5a53e
+	   |-- fabric-loot-api-v3 2.0.20+78c8b4663e
+	   |-- fabric-message-api-v1 6.1.12+4ebb5c083e
+	   |-- fabric-model-loading-api-v1 6.0.15+4fc5413f3e
+	   |-- fabric-networking-api-v1 5.1.6+6b6d71a53e
+	   |-- fabric-object-builder-api-v1 21.1.40+4fc5413f3e
+	   |-- fabric-particles-v1 4.2.12+4fc5413f3e
+	   |-- fabric-recipe-api-v1 8.2.4+4ebb5c083e
+	   |-- fabric-registry-sync-v0 6.2.6+1718722b3e
+	   |-- fabric-renderer-api-v1 8.0.3+f4ffd2e53e
+	   |-- fabric-renderer-indigo 5.0.3+f4ffd2e53e
+	   |-- fabric-rendering-fluids-v1 3.1.43+4ebb5c083e
+	   |-- fabric-rendering-v1 16.2.10+0290ad933e
+	   |-- fabric-resource-conditions-api-v1 5.0.35+4fc5413f3e
+	   |-- fabric-resource-loader-v0 3.3.4+4fc5413f3e
+	   |-- fabric-resource-loader-v1 1.0.10+78c8b4663e
+	   |-- fabric-screen-api-v1 3.1.7+4ebb5c083e
+	   |-- fabric-screen-handler-api-v1 1.3.162+4fc5413f3e
+	   |-- fabric-serialization-api-v1 1.0.5+4ebb5c083e
+	   |-- fabric-sound-api-v1 1.0.51+4fc5413f3e
+	   |-- fabric-tag-api-v1 1.2.20+4fc5413f3e
+	   |-- fabric-transfer-api-v1 6.0.25+4fc5413f3e
+	   \-- fabric-transitive-access-wideners-v1 7.1.0+014c8cec3e
+	- fabric-language-kotlin 1.13.11+kotlin.2.3.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.3.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.3.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.3.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.3.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.32.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.11.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.11.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.11.0
+	- fabricloader 0.19.2
+	   \-- mixinextras 0.5.4
+	- fake-afk 1.0.6-1.21.11
+	- fallingtree 1.21.11.3
+	- farmersdelight 1.21.11-3.4.9+refabricated
+	   \-- mm 2.3
+	- ferritecore 8.2.0
+	- forgeconfigapiport 21.11.1
+	   |-- com_electronwill_night-config_core 3.8.3
+	   \-- com_electronwill_night-config_toml 3.8.3
+	- functional_trims 2.1.0
+	- geckolib 5.4.5
+	- globalxp 1.12.2
+	- hardcorerevival 21.11.5
+	- ironchest 2.0.5
+	   \-- libgui 15.1.0+1.21.11
+	        |-- jankson 11.0.0+j1.2.3
+	        |    \-- blue_endless_jankson 1.2.3
+	        \-- libninepatch 1.2.0
+	- java 25
+	- krypton 0.2.10
+	   \-- com_velocitypowered_velocity-native 3.4.0-SNAPSHOT
+	- lithium 0.21.4+mc1.21.11
+	- lithostitched 1.7.2
+	- lootr 1.21.11-1.20.34.103
+	- midnightlib 1.9.3
+	- minecraft 1.21.11
+	- mr_dungeons_andtaverns 1-v5.1.0
+	- mr_epic_structuresdungeons 1.2.4
+	- nemos_woodcutter 1.21.11-1.14.1
+	- polymer-bundled 0.15.2+1.21.11
+	   |-- polymer-autohost 0.15.2+1.21.11
+	   |-- polymer-blocks 0.15.2+1.21.11
+	   |-- polymer-common 0.15.2+1.21.11
+	   |    \-- packet_tweaker 0.6.0+1.21.10
+	   |-- polymer-core 0.15.2+1.21.11
+	   |    |-- polymer-networking 0.15.2+1.21.11
+	   |    |    \-- polymer-common 0.15.2+1.21.11
+	   |    |         \-- packet_tweaker 0.6.0+1.21.10
+	   |    \-- polymer-registry-sync-manipulator 0.15.2+1.21.11
+	   |-- polymer-resource-pack 0.15.2+1.21.11
+	   |    \-- polymer-common 0.15.2+1.21.11
+	   |         \-- packet_tweaker 0.6.0+1.21.10
+	   |-- polymer-resource-pack-extras 0.15.2+1.21.11
+	   |-- polymer-sound-patcher 0.15.2+1.21.11
+	   \-- polymer-virtual-entity 0.15.2+1.21.11
+	        \-- polymer-common 0.15.2+1.21.11
+	             \-- packet_tweaker 0.6.0+1.21.10
+	- puzzleslib 21.11.13
+	- repurposed_structures 7.6.2+1.21.11-fabric
+	- roguelike fabric-2.1.2+mc1.21.11
+	- servercore 1.5.15+1.21.11
+	   |-- org_yaml_snakeyaml 2.5
+	   |-- placeholder-api 2.8.1+1.21.10
+	   |-- space_arim_dazzleconf_dazzleconf-core 1.3.0-M2
+	   \-- space_arim_dazzleconf_dazzleconf-ext-snakeyaml 1.3.0-M2
+	- skinrestorer 2.7.0+1.21.11-fabric
+	   \-- org_mineskin_java-client 3.2.1-SNAPSHOT
+	- strawberrylib 1.21.11-r4
+	   \-- datasync_minecraft 0.10.3
+	- travelersbackpack 10.11.9
+	- universal-graves 3.10.2+1.21.11
+	   |-- common-protection-api 1.0.0
+	   |-- placeholder-api 2.8.1+1.21.10
+	   |-- predicate-api 0.7.0+1.21.11
+	   |-- server_translations_api 2.5.2+1.21.9-pre3
+	   \-- sgui 1.11.0+1.21.9
+	- waystones 21.11.9
+	- xaerominimap 25.3.10
+	   \-- xaerolib 1.1.0
+[03:19:44] [main/WARN]: Found 1 non-fabric mod:
+	- LuckPerms-Bukkit-5.5.17.jar
+[03:19:45] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/elserversex/libraries/net/fabricmc/sponge-mixin/0.17.2+mixin.0.8.7/sponge-mixin-0.17.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:19:45] [main/INFO]: Compatibility level set to JAVA_17
+[03:19:45] [main/INFO]: Compatibility level set to JAVA_21
+[03:19:45] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:45] [main/WARN]: Reference map 'balm.refmap.json' for balm.api.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:45] [main/WARN]: Reference map 'balm.refmap.json' for balm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:45] [main/WARN]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:46] [main/WARN]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:46] [main/WARN]: Reference map 'globalxp.refmap.json' for globalxp.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:46] [main/WARN]: Reference map 'hardcorerevival.refmap.json' for hardcorerevival.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:46] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:46] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:46] [main/INFO]: Loaded configuration file for Lithium: 171 options available, 0 override(s) found.
+[03:19:46] [main/WARN]: Reference map 'nemos_woodcutter.refmap.json' for nemos_woodcutter.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:46] [main/WARN]: Reference map 'nemos_woodcutter.refmap.json' for nemos_woodcutter.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:46] [main/WARN]: Reference map 'skinrestorer.refmap.json' for skinrestorer.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:46] [main/WARN]: Reference map 'skinrestorer.refmap.json' for skinrestorer.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:46] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:46] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:46] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:46] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:46] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:46] [main/WARN]: Reference map 'xaerominimap.refmap.json' for xaerominimap.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:19:47] [main/WARN]: Error loading class: net/minecraft/class_9976 (java.lang.ClassNotFoundException: net/minecraft/class_9976)
+[03:19:47] [main/WARN]: @Mixin target net.minecraft.class_9976 was not found coolrain.mixins.json:RainMixin from mod coolrain
+[03:19:47] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[03:19:47] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[03:19:48] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[03:19:48] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[03:19:54] [main/WARN]: Method overwrite conflict for getClimateSettings in lithostitched.mixins.json:common.BiomeAccessor from mod lithostitched, previously written by carpet.mixins.Biome_scarpetMixin. Skipping method.
+[03:20:01] [main/INFO]: Successfully initialized antixray for fabric
+[03:20:02] [main/INFO]: [CommandBlocker] Mod cargado! Comandos bloqueados: [op, give, gm, teleport, xp, experience, tp, gamemode]
+[03:20:03] [main/INFO]: [Dynamic Lights] MidnightLib detected!
+[03:20:03] [main/INFO]: [Dynamic Lights] Registering server started event ...
+[03:20:03] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[03:20:03] [main/INFO]: Constructing components for enchantinginfuser:common
+[03:20:04] [main/INFO]: [EssentialCommands]: Mod Load Initiated.
+[03:20:04] [main/INFO]: [EssentialCommands]: Mod Load Complete.
+[03:20:04] [ForkJoinPool.commonPool-worker-1/INFO]: Essential Commands is up to date!
+[03:20:04] [main/INFO]: Loaded config farmersdelight-common.json
+[03:20:05] [main/INFO]: Registered Functional Trims effects.
+[03:20:05] [main/INFO]: Functional Trims initialized.
+[03:20:05] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 3.x.x (Linux x86_64)
+[03:20:05] [main/INFO]: Definitely not up to no good
+[03:20:05] [main/INFO]: Thank you for using Nemo's Woodcutter!
+[03:20:05] [main/INFO]: Registering creative mode tabs
+[03:20:05] [main/INFO]: Registering recipe serializer
+[03:20:05] [main/INFO]: Register recipe types
+[03:20:05] [main/INFO]: Registering recipe book categories
+[03:20:05] [main/INFO]: Registering recipe displays
+[03:20:05] [main/INFO]: Registering menu types
+[03:20:05] [main/INFO]: Constructing components for puzzleslib:common
+[03:20:06] [main/INFO]: [ServerCore] Loaded V1.5.15+1.21.11!
+[03:20:07] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[03:20:07] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[03:20:07] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[03:20:07] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[03:20:08] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[03:20:08] [main/INFO]: Registering common data for channel xaerolib:main!
+[03:20:08] [main/INFO]: Loading primary common config for channel xaerolib:main!
+[03:20:08] [main/INFO]: Loading server config profiles for channel xaerolib:main!
+[03:20:08] [main/INFO]: Loading XaeroLib common 1/2!
+[03:20:08] [main/INFO]: Loading XaeroLib server 1/2!
+[03:20:08] [main/INFO]: Registering common data for channel xaerominimap:main!
+[03:20:08] [main/INFO]: Loading primary common config for channel xaerominimap:main!
+[03:20:08] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
+[03:20:08] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[03:20:08] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[03:20:15] [main/INFO]: Loaded 2318 recipes
+[03:20:15] [main/INFO]: Loaded 2461 advancements
+[03:20:15] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
+[03:20:15] [main/INFO]: Applied 324 biome modifications to 64 of 65 new biomes in 18.69 ms
+[03:20:15] [Server thread/INFO]: Dispatching loading event for config enchantinginfuser-server.toml
+[03:20:16] [Server thread/INFO]: Loading XaeroLib common 2/2!
+[03:20:16] [Server thread/INFO]: Loading XaeroLib server 2/2!
+[03:20:16] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[03:20:16] [Server thread/INFO]: Loading properties
+[03:20:16] [Server thread/INFO]: Default game type: SURVIVAL
+[03:20:16] [Server thread/INFO]: Generating keypair
+[03:20:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:20:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:20:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:20:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:20:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:20:16] [Server thread/INFO]: Preparing level "world"
+[03:20:18] [Server thread/INFO]: Loading 63 persistent chunks...
+[03:20:18] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:18] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:19] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:19] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:20] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:20] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:21] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:21] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:22] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:22] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:23] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:23] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:24] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:24] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:25] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:25] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:26] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:26] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:27] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:27] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:28] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:28] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:29] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:29] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:30] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:30] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:31] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:31] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:32] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:32] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:33] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:33] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:34] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:34] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:35] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:39] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:39] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:39] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:39] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:39] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:39] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:39] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:39] [Server thread/INFO]: Preparing spawn area: 13%
+[03:20:39] [Server thread/INFO]: Time elapsed: 21138 ms
+[03:20:39] [Server thread/INFO]: Done (22.659s)! For help, type "help"
+[03:20:39] [Server thread/INFO]: [Dynamic Lights] Sending global config to world ...
+[03:20:39] [Server thread/INFO]: Possible world ids: minecraft:overworld,minecraft:the_end,minecraft:the_nether
+[03:20:39] [Server thread/INFO]: Configured `rtp_enabled_worlds` world ids: minecraft:overworld
+[03:20:39] [Server thread/INFO]: All configured `rtp_enabled_worlds` world ids are valid.
+[03:20:39] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[03:21:10] [Server thread/INFO]: bryan13[/127.42.141.221:60177] logged in with entity id 54 at (-8148.276338287451, 69.0, 2301.6450394053845)
+[03:21:10] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'f58785a7-6f31-3493-86e0-bef8c4556536'.
+[03:21:11] [Server thread/INFO]: bryan13 joined the game
+[03:21:11] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'f58785a7-6f31-3493-86e0-bef8c4556536'.
+[03:21:11] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 1 player data objects (took 0s 486ms)
+[03:21:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[03:21:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5226ms or 104 ticks behind
+[03:24:35] [Server thread/INFO]: alkeys[/127.250.60.245:49853] logged in with entity id 3043 at (-8194.226367130688, 57.0, 2246.652672155223)
+[03:24:35] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[03:24:35] [Server thread/INFO]: alkeys joined the game
+[03:24:35] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'a705d6a9-583d-33ac-8ecf-59691f80d283'.
+[03:24:35] [ForkJoinPool.commonPool-worker-3/INFO]: Loaded 1 player data objects (took 0s 410ms)
+[03:24:43] [Server thread/INFO]: [Not Secure] <alkeys> hoy
+[03:24:48] [Server thread/INFO]: [Not Secure] <bryan13> hoy xd
+[03:24:57] [Server thread/INFO]: [Not Secure] <alkeys> donde andas ajaj
+[03:25:02] [Server thread/INFO]: [Not Secure] <bryan13> end
+[03:25:05] [Server thread/INFO]: [Not Secure] <alkeys> ajajaja
+[03:25:08] [Server thread/INFO]: [Not Secure] <alkeys> c mamut
+[03:25:15] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[03:25:47] [Server thread/WARN]: bryan13 moved too quickly! -17.583101364562026,-1.7037995890380984,4.258697425311084
+[03:26:11] [Server thread/WARN]: alkeys moved too quickly! -9.013316553529876,-2.932601030273929,15.906947255699833
+[03:26:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[03:26:12] [Server thread/WARN]: alkeys moved too quickly! -15.662491999388294,-2.231498117019953,7.785856659123965
+[03:26:12] [Server thread/WARN]: bryan13 moved too quickly! 12.601501044450742,5.193863796436716,12.05273366821416
+[03:27:28] [Server thread/INFO]: [Not Secure] <bryan13> otra mix de aquellas como templo de oxodiana
+[03:27:32] [Server thread/INFO]: [Not Secure] <alkeys> ajaj
+[03:27:42] [Server thread/INFO]: [Not Secure] <bryan13> xaero-waypoint:otra xd:O:-4145:58:1119:14:false:0:Internal-the-end
+[03:28:55] [Server thread/INFO]: [Not Secure] <bryan13> quito los spaw o no xd
+[03:29:00] [Server thread/INFO]: [Not Secure] <alkeys> dale ajaj
+[03:29:21] [Server thread/ERROR]: Received message packet for screen handler com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@2af16f33 which is not a SyncedGuiDescription
+[03:30:13] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 1 extra loot rolls
+[03:30:52] [Server thread/WARN]: Tried to over-fill a container
+[03:30:52] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 1 extra loot rolls
+[03:31:07] [Server thread/WARN]: Tried to over-fill a container
+[03:31:07] [Server thread/WARN]: Tried to over-fill a container
+[03:31:07] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
+[03:31:13] [Server thread/WARN]: Tried to over-fill a container
+[03:31:13] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
+[03:31:30] [Server thread/WARN]: Tried to over-fill a container
+[03:31:30] [Server thread/WARN]: Tried to over-fill a container
+[03:31:30] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
+[03:32:01] [Server thread/INFO]: [Not Secure] <alkeys> xdxd
+[03:32:09] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[03:32:16] [Server thread/INFO]: [Not Secure] <alkeys> me ponde afk
+[03:32:21] [Server thread/INFO]: [Not Secure] <alkeys> un rato ajaj si no contesto jaja
+[03:32:26] [Server thread/INFO]: [Not Secure] <bryan13> va
+[03:32:32] [Server thread/INFO]: [Not Secure] <alkeys> need madera ajajja
+[03:33:55] [Server thread/WARN]: Tried to over-fill a container
+[03:33:55] [Server thread/WARN]: Tried to over-fill a container
+[03:33:55] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
+[03:37:13] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
+[03:37:33] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 1 extra loot rolls
+[03:40:01] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 1 extra loot rolls
+[03:40:19] [Server thread/WARN]: Tried to over-fill a container
+[03:40:19] [Server thread/WARN]: Tried to over-fill a container
+[03:40:19] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
+[03:41:59] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
+[03:42:11] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
+[03:43:07] [Server thread/WARN]: Tried to over-fill a container
+[03:43:07] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 1 extra loot rolls
+[03:43:16] [Server thread/WARN]: Tried to over-fill a container
+[03:43:16] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 1 extra loot rolls
+[03:44:20] [Server thread/WARN]: Tried to over-fill a container
+[03:44:20] [Server thread/WARN]: Tried to over-fill a container
+[03:44:20] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
+[03:44:38] [Server thread/WARN]: Tried to over-fill a container
+[03:44:38] [Server thread/WARN]: Tried to over-fill a container
+[03:44:38] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
+[03:46:04] [Server thread/WARN]: Tried to over-fill a container
+[03:46:04] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 1 extra loot rolls
+[03:46:14] [Server thread/WARN]: Tried to over-fill a container
+[03:46:14] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 1 extra loot rolls
+[03:48:50] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
+[03:48:58] [Server thread/WARN]: Tried to over-fill a container
+[03:48:58] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
+[03:50:13] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
+[03:50:24] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 1 extra loot rolls
+[03:50:46] [Server thread/INFO]: [Not Secure] <alkeys> xd
+[03:50:58] [Server thread/INFO]: [Not Secure] <alkeys> men tengo demaciada madera ajaj
+[03:50:58] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[03:51:07] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[03:51:13] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 1 extra loot rolls
+[03:51:30] [Server thread/INFO]: [Not Secure] <alkeys> jaaj
+[03:51:34] [Server thread/INFO]: [Not Secure] <alkeys> buena fameada
+[03:51:51] [Server thread/INFO]: [Not Secure] <bryan13> yo elitras xd
+[03:51:54] [Server thread/INFO]: [Not Secure] <alkeys> jajaad
+[03:52:05] [Server thread/INFO]: [Not Secure] <alkeys> aprobechja el bug de reinicio del mapa ajja
+[03:52:35] [Server thread/INFO]: [Not Secure] <bryan13> xd no e ido a otras sino las que e encontrado
+[03:53:13] [Server thread/INFO]: [Not Secure] <alkeys> men c me apago el mouse aaajaaj
+[03:53:23] [Server thread/INFO]: [Not Secure] <alkeys> tengo como 3 semanasd sin cargarlos jaa
+[03:53:34] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[03:55:09] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 1 extra loot rolls
+[03:55:22] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
+[03:56:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5277ms or 105 ticks behind
+[03:57:21] [Server thread/INFO]: [Not Secure] <bryan13> me encontre un tp xd y me regrese jaja que era una de esas mix que allamos la ves pasada como mansion grande que en medio avia un portal del end
+[03:57:35] [Server thread/INFO]: [Not Secure] <alkeys> a la por eso senti el gran jalon jajaja
+[03:57:59] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[03:58:28] [Server thread/INFO]: [Not Secure] <bryan13> 21 cabezas de dragon tengo xd
+[03:58:31] [Server thread/INFO]: [Not Secure] <alkeys> madre
+[04:03:47] [Server thread/INFO]: [Not Secure] <alkeys> jaja
+[04:04:37] [Server thread/INFO]: [Not Secure] <alkeys> a
+[04:04:39] [Server thread/INFO]: [Not Secure] <alkeys> kaak
+[04:04:41] [Server thread/INFO]: [Not Secure] <alkeys> jaja
+[04:04:47] [Server thread/INFO]: [Not Secure] <bryan13> xd perron se ve
+[04:04:52] [Server thread/INFO]: [Not Secure] <alkeys> falta monton jaa
+[04:05:34] [Server thread/INFO]: [Not Secure] <alkeys> hasta berryga del infierno ocupare
+[04:05:36] [Server thread/INFO]: [Not Secure] <alkeys> ajja
+[04:05:38] [Server thread/INFO]: [Not Secure] <alkeys> suete que tenog
+[04:05:39] [Server thread/WARN]: bryan13 moved too quickly! 18.231249720411142,-1.793314640884148,-3.5483510854128326
+[04:05:41] [Server thread/INFO]: [Not Secure] <bryan13> madree
+[04:05:44] [Server thread/WARN]: alkeys moved too quickly! 16.174242065853832,-3.143129865012881,-5.920926325095479
+[04:05:44] [Server thread/WARN]: bryan13 moved too quickly! 5.3544538816995555,-16.09183357296854,-6.768118417455753
+[04:05:55] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-50, z=-195}
+[04:05:56] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=83, y=-48, z=-318}
+[04:05:56] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-50, z=-195}
+[04:05:56] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-51, z=-202}
+[04:05:56] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=82, y=-48, z=-320}
+[04:05:56] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=81, y=-48, z=-316}
+[04:05:56] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=63, y=-33, z=-328}
+[04:05:56] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=61, y=-33, z=-319}
+[04:05:56] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=183, y=-46, z=-185}
+[04:05:59] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=78, y=-50, z=-268}
+[04:05:59] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=110, y=-50, z=-233}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=78, y=-34, z=-305}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=78, y=-34, z=-303}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=81, y=-38, z=-306}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=199, y=-40, z=-197}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=57, y=-15, z=-304}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=172, y=-45, z=-195}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=179, y=-38, z=-191}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=179, y=-37, z=-191}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=169, y=-45, z=-206}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=179, y=-37, z=-211}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=179, y=-38, z=-211}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=227, y=-40, z=-197}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=110, y=-50, z=-233}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-51, z=-202}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=212, y=-51, z=-194}
+[04:06:00] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=221, y=-50, z=-201}
+[04:06:02] [Server thread/INFO]: [Not Secure] <bryan13> seee igual tengo yo
+[04:06:06] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=211, y=-51, z=-188}
+[04:06:06] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=78, y=-35, z=-290}
+[04:06:06] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=78, y=-34, z=-290}
+[04:06:06] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=74, y=-35, z=-286}
+[04:06:07] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=60, y=-49, z=-290}
+[04:06:07] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=60, y=-49, z=-288}
+[04:06:07] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=161, y=-37, z=-191}
+[04:06:07] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=88, y=-32, z=-141}
+[04:06:07] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=161, y=-37, z=-211}
+[04:06:07] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=161, y=-38, z=-211}
+[04:06:07] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-50, z=-195}
+[04:06:07] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-51, z=-202}
+[04:06:07] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=160, y=-46, z=-223}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-50, z=-195}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=110, y=-50, z=-233}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-51, z=-202}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=200, y=-40, z=-258}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=78, y=-50, z=-197}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=73, y=-50, z=-196}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=9, y=-34, z=-172}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=13, y=-21, z=-175}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=4, y=-34, z=-162}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=12, y=-32, z=-161}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=11, y=-32, z=-162}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=12, y=-11, z=-162}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=14, y=-36, z=-148}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=2, y=-33, z=-153}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=6, y=-19, z=-150}
+[04:06:14] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=10, y=-24, z=-134}
+[04:06:16] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=78, y=-50, z=-268}
+[04:06:16] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=200, y=-40, z=-258}
+[04:06:18] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=73, y=-50, z=-196}
+[04:06:18] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-50, z=-195}
+[04:06:18] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=78, y=-50, z=-197}
+[04:06:18] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-50, z=-195}
+[04:06:18] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-51, z=-202}
+[04:06:18] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-51, z=-202}
+[04:06:20] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=110, y=-50, z=-233}
+[04:06:20] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=78, y=-50, z=-197}
+[04:06:20] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=73, y=-50, z=-196}
+[04:06:20] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=78, y=-50, z=-197}
+[04:06:20] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=73, y=-50, z=-196}
+[04:06:24] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=110, y=-50, z=-233}
+[04:06:24] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-51, z=-202}
+[04:06:24] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=110, y=-50, z=-233}
+[04:06:25] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=78, y=-50, z=-268}
+[04:06:26] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=161, y=-37, z=-191}
+[04:06:26] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=78, y=-50, z=-268}
+[04:06:26] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-50, z=-195}
+[04:06:26] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=161, y=-37, z=-211}
+[04:06:26] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=161, y=-38, z=-211}
+[04:06:26] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=160, y=-46, z=-223}
+[04:06:26] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=194, y=-50, z=-144}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=38, y=-33, z=-175}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=32, y=-33, z=-175}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=37, y=-16, z=-172}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=197, y=-51, z=-148}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=194, y=-50, z=-144}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=179, y=-38, z=-191}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=179, y=-37, z=-191}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=47, y=-33, z=-157}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=34, y=-32, z=-157}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=183, y=-46, z=-185}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=169, y=-45, z=-206}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=172, y=-45, z=-195}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=21, y=-32, z=-147}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=30, y=-24, z=-137}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=110, y=-50, z=-233}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=43, y=-27, z=-145}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=37, y=-35, z=-144}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=41, y=-32, z=-140}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=37, y=-12, z=-144}
+[04:06:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=129, y=-32, z=-148}
+[04:06:28] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=110, y=-50, z=-233}
+[04:06:28] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=179, y=-37, z=-211}
+[04:06:28] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=179, y=-38, z=-211}
+[04:06:28] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-50, z=-195}
+[04:06:28] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=101, y=-51, z=-202}
+[04:06:28] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=197, y=-51, z=-148}
+[04:06:37] [Server thread/INFO]: [Not Secure] <alkeys> jaaj
+[04:06:37] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=110, y=-50, z=-233}
+[04:06:44] [Server thread/INFO]: [Not Secure] <alkeys> men me tocara cultivar mas ajaj
+[04:06:52] [Server thread/INFO]: [Not Secure] <alkeys> los ladrillos chupan como nunc ajaja
+[04:06:53] [Server thread/INFO]: [Not Secure] <bryan13> voy xd
+[04:07:13] [Server thread/INFO]: [Not Secure] <bryan13> te ayudare xd
+[04:07:24] [Server thread/INFO]: [Not Secure] <alkeys> discor
+[04:07:29] [Server thread/INFO]: [Not Secure] <bryan13> voy
+[04:07:43] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[04:08:58] [Server thread/INFO]: [Not Secure] <bryan13> xd
+[04:09:04] [Server thread/INFO]: [Not Secure] <alkeys> pera ajaj
+[04:13:15] [Server thread/WARN]: alkeys moved too quickly! -7.5547477244981565,-0.6001468190977306,16.589536310881613
+[04:13:35] [Server thread/WARN]: alkeys moved too quickly! 9.528853080494628,0.04745988474094531,-15.621446203268533
+[04:20:34] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=161, y=-50, z=-448}
+[04:20:35] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=161, y=-50, z=-448}
+[04:20:36] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=94, y=-49, z=-421}
+[04:20:36] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=88, y=-49, z=-420}
+[04:20:36] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=86, y=-49, z=-410}
+[04:20:38] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=202, y=47, z=211}
+[04:20:38] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=159, y=-48, z=-468}
+[04:20:39] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=80, y=-49, z=-401}
+[04:20:39] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=92, y=-42, z=-402}
+[04:20:39] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=91, y=-50, z=-396}
+[04:20:39] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=93, y=-42, z=-390}
+[04:20:40] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=218, y=-49, z=-468}
+[04:20:41] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=94, y=-49, z=-386}
+[04:20:41] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=226, y=-49, z=-466}
+[04:20:41] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=218, y=-49, z=-468}
+[04:20:42] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER alkeys-afk
+[04:20:44] [Server thread/INFO]: alkeys-afk[local] logged in with entity id 68236 at (-8408.536982926444, 241.0, 2229.4789078369586)
+[04:20:44] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
+[04:20:45] [Server thread/INFO]: alkeys-afk joined the game
+[04:20:45] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
+[04:20:45] [ForkJoinPool.commonPool-worker-5/INFO]: Loaded 1 player data objects (took 0s 478ms)
+[04:20:47] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=226, y=-49, z=-466}
+[04:20:47] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=161, y=-50, z=-448}
+[04:20:48] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=159, y=-48, z=-468}
+[04:20:52] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=161, y=-50, z=-448}
+[04:20:52] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=159, y=-48, z=-468}
+[04:20:52] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=159, y=-48, z=-468}
+[04:20:52] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=159, y=-48, z=-468}
+[04:21:24] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=159, y=-48, z=-468}
+[04:21:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=207, y=-51, z=-403}
+[04:21:27] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=179, y=-49, z=-433}
+[04:21:54] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzz
+[04:23:40] [Server thread/INFO]: ArmandoMtrz[/127.48.232.16:51253] logged in with entity id 75044 at (-8033.5, 76.0, 2463.5)
+[04:23:40] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '01437efa-ff8e-3a5b-b190-b0e07f4d0887'.
+[04:23:40] [Server thread/INFO]: ArmandoMtrz joined the game
+[04:23:40] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '01437efa-ff8e-3a5b-b190-b0e07f4d0887'.
+[04:23:40] [ForkJoinPool.commonPool-worker-7/INFO]: Loaded 1 player data objects (took 0s 331ms)
+[04:23:46] [Server thread/INFO]: [Not Secure] <alkeys> ve un mudoi
+[04:23:50] [Server thread/INFO]: [Not Secure] <ArmandoMtrz> buenas noches mudos
+[04:25:54] [Server thread/WARN]: alkeys moved too quickly! 0.1622482144357491,-16.50277641163514,1.2739018378142646
+[04:26:16] [Server thread/INFO]: [Not Secure] <alkeys> ola que tal
+[04:26:19] [Server thread/INFO]: [Not Secure] <alkeys> estamos en discor
+[04:28:13] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=207, y=-51, z=-403}
+[04:32:53] [Server thread/INFO]: [Not Secure] <alkeys> jajaja me sali sin querere le di recargar ajaj
+[04:34:24] [Server thread/INFO]: alkeys-afk lost connection: Killed
+[04:34:24] [Server thread/INFO]: alkeys-afk left the game
+[04:36:21] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER alkeys-afk
+[04:36:22] [Server thread/INFO]: alkeys-afk[local] logged in with entity id 103882 at (-7815.140491629307, 63.0, 2198.046544085831)
+[04:36:22] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
+[04:36:22] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
+[04:36:22] [Server thread/INFO]: alkeys-afk joined the game
+[04:36:22] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '48c9d56f-f7ed-3078-b487-2aa1ea0a3482'.
+[04:41:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2309ms or 46 ticks behind
+[04:42:06] [Server thread/WARN]: bryan13 moved too quickly! -3.392607301279895,0.0,-9.637962842577053
+[04:42:14] [Server thread/INFO]: COULDNT SUMMON FAKE PLAYER bryan13-afk
+[04:42:14] [Server thread/INFO]: bryan13-afk[local] logged in with entity id 111412 at (-8114.281395533575, 64.0, 2272.3111980157323)
+[04:42:14] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '4e420353-6ad8-34fb-b67b-2e5c83be704d'.
+[04:42:14] [Server thread/INFO]: bryan13-afk joined the game
+[04:42:14] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '4e420353-6ad8-34fb-b67b-2e5c83be704d'.
+[04:42:15] [ForkJoinPool.commonPool-worker-10/INFO]: Loaded 1 player data objects (took 0s 406ms)
+[04:43:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3276ms or 65 ticks behind
+[04:44:10] [Server thread/WARN]: ArmandoMtrz moved too quickly! 9.809262435380333,0.0,-2.9076123061086037
+[04:44:10] [Server thread/WARN]: alkeys moved too quickly! -9.869066395189293,0.7531999805212024,-1.8462177034161869
+[04:44:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3083ms or 61 ticks behind
+[04:44:34] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzzzzzz
+[04:44:45] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzzzzzzzzzzz
+[04:44:47] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzzzzzzzzzzzzzz
+[04:44:48] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzzzzzzzzzzzzzz
+[04:44:50] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzzzzzzzzzzzzzzzzz
+[04:44:52] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzzzzzzzzzz
+[04:44:53] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzzzzzzzzzzzzz
+[04:44:54] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzzzzzzz
+[04:44:56] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzzzzzzzzzzzzz
+[04:44:58] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzzzzzzzzzzzzz
+[04:45:00] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[04:49:04] [Server thread/WARN]: bryan13 moved too quickly! 2.587946028168517,16.708776222405902,-5.7709001678849745
+[04:51:30] [Server thread/INFO]: alkeys-afk is now AFK.
+[04:51:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3762ms or 75 ticks behind
+[04:53:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6874ms or 137 ticks behind
+[04:53:29] [Server thread/WARN]: alkeys moved too quickly! -3.5591433680333466,1.125,-9.405399658871488
+[04:53:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2989ms or 59 ticks behind
+[04:54:02] [Server thread/WARN]: Tried to over-fill a container
+[04:54:02] [Server thread/WARN]: Tried to over-fill a container
+[04:54:02] [Server thread/INFO]: Player bryan13 with 4 emerald trims got 2 extra loot rolls
+[04:55:17] [Server thread/WARN]: alkeys moved too quickly! -0.3890111892249024,-1.833311364183757,-18.249166899403633
+[04:55:57] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzzzzzzzzzzzzz
+[04:56:06] [Server thread/INFO]: [Not Secure] <alkeys> zzzzzzzzzzzzzzzzzzzz
+[05:06:27] [Server thread/INFO]: bryan13-afk is now AFK.
+[05:10:21] [Server thread/INFO]: bryan13-afk is no longer AFK.
+[05:16:13] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8204.589347362518, 58.36326774954796, 2236.0) too far away from hit block class_2338{x=-8211, y=58, z=2235}.
+[05:16:13] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8204.625154018402, 59.17893400788307, 2236.0) too far away from hit block class_2338{x=-8211, y=59, z=2235}.
+[05:16:16] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8187.011900424957, 58.34939223527908, 2236.0) too far away from hit block class_2338{x=-8194, y=58, z=2235}.
+[05:16:16] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8187.3907952308655, 59.16536958515644, 2236.0) too far away from hit block class_2338{x=-8194, y=59, z=2235}.
+[05:16:19] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8178.0, 58.25040391087532, 2237.4648553431034) too far away from hit block class_2338{x=-8180, y=58, z=2237}.
+[05:16:19] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8178.0, 59.25449284911156, 2237.682208240032) too far away from hit block class_2338{x=-8180, y=59, z=2237}.
+[05:16:20] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8175.839027404785, 58.51380133628845, 2236.0) too far away from hit block class_2338{x=-8182, y=58, z=2235}.
+[05:16:20] [Server thread/WARN]: Rejecting UseItemOnPacket from alkeys: Location (-8175.287980079651, 59.43557822704315, 2236.0) too far away from hit block class_2338{x=-8182, y=59, z=2235}.
+[05:20:40] [Worker-Main-3/WARN]: Couldn't find template pool reference: nova_structures:hamlet/jockey (Jigsaw block location: -420, 81, 83)

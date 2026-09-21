@@ -10617,7 +10617,8 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_end": "2026-09-20 03:31:40 +0000"
+      "in_pyramid_end": "2026-09-20 03:31:40 +0000",
+      "in_pyramid_nether": "2026-09-21 04:54:02 +0000"
     },
     "done": false
   },
