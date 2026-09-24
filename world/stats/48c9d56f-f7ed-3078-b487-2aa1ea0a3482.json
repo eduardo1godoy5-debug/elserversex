@@ -7,8 +7,8 @@
       "minecraft:leather_chestplate": 1,
       "minecraft:golden_helmet": 3,
       "minecraft:golden_chestplate": 1,
-      "minecraft:arrow": 6,
       "minecraft:bone": 7,
+      "minecraft:arrow": 6,
       "minecraft:copper_leggings": 1,
       "minecraft:rotten_flesh": 106,
       "minecraft:obsidian": 1,
@@ -18,16 +18,16 @@
     },
     "minecraft:custom": {
       "hardcorerevival:knockouts": 6,
-      "minecraft:time_since_rest": 410053,
+      "minecraft:time_since_rest": 417054,
       "minecraft:fall_one_cm": 1775,
-      "minecraft:total_world_time": 870914,
-      "minecraft:leave_game": 87,
+      "minecraft:total_world_time": 877915,
+      "minecraft:leave_game": 88,
       "minecraft:damage_taken": 1650,
       "hardcorerevival:times_rescued": 2,
-      "minecraft:play_time": 870914,
-      "minecraft:deaths": 3,
+      "minecraft:play_time": 877915,
       "minecraft:damage_absorbed": 3625,
-      "minecraft:time_since_death": 410053
+      "minecraft:deaths": 3,
+      "minecraft:time_since_death": 417054
     }
   },
   "DataVersion": 4671

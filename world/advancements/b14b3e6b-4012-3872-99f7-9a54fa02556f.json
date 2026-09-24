@@ -47,12 +47,6 @@
     },
     "done": true
   },
-  "worldbosses:root": {
-    "criteria": {
-      "tick": "2026-09-16 04:33:03 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:root": {
     "criteria": {
       "tick": "2026-09-16 04:33:03 +0000"
@@ -362,6 +356,18 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2026-09-16 04:38:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2026-09-24 03:59:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2026-09-24 03:59:48 +0000"
     },
     "done": true
   },

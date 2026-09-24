@@ -8613,6 +8613,7 @@
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
       "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2026-06-30 18:41:09 +0000",
+      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "2026-09-24 04:13:23 +0000",
       "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2026-06-14 05:00:31 +0000"
     },
     "done": false
@@ -10621,6 +10622,42 @@
       "in_pyramid_nether": "2026-09-21 04:54:02 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2026-09-24 03:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-09-24 03:35:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2026-09-24 03:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2026-09-24 03:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2026-09-24 03:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2026-09-24 03:59:03 +0000"
+    },
+    "done": true
   },
   "DataVersion": 4671
 }
