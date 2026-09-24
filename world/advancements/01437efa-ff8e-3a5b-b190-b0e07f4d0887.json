@@ -6017,6 +6017,108 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-09-19 18:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-09-19 18:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-09-19 18:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2026-09-19 18:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2026-09-19 18:11:30 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/stripped_cherry_log_from_cherry_log_woodcutting": {
+    "criteria": {
+      "has_cherry_log": "2026-09-19 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/cherry_button_from_cherry_logs_woodcutting": {
+    "criteria": {
+      "cherry_logs": "2026-09-19 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/cherry_pressure_plate_from_cherry_logs_woodcutting": {
+    "criteria": {
+      "cherry_logs": "2026-09-19 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/cherry_sign_from_cherry_logs_woodcutting": {
+    "criteria": {
+      "cherry_logs": "2026-09-19 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/cherry_door_from_cherry_logs_woodcutting": {
+    "criteria": {
+      "cherry_logs": "2026-09-19 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/transportation/cherry_boat_from_cherry_logs_woodcutting": {
+    "criteria": {
+      "cherry_logs": "2026-09-19 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/cherry_fence_gate_from_cherry_logs_woodcutting": {
+    "criteria": {
+      "cherry_logs": "2026-09-19 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/cherry_trapdoor_from_cherry_logs_woodcutting": {
+    "criteria": {
+      "cherry_logs": "2026-09-19 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/cherry_fence_from_cherry_logs_woodcutting": {
+    "criteria": {
+      "cherry_logs": "2026-09-19 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/cherry_planks_from_cherry_logs_woodcutting": {
+    "criteria": {
+      "cherry_logs": "2026-09-19 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/cherry_stairs_from_cherry_logs_woodcutting": {
+    "criteria": {
+      "cherry_logs": "2026-09-19 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/cherry_slab_from_cherry_logs_woodcutting": {
+    "criteria": {
+      "cherry_logs": "2026-09-19 19:38:55 +0000"
+    },
+    "done": true
+  },
   "nemos_woodcutter:recipes/building_blocks/cherry_stairs_from_cherry_planks_woodcutting": {
     "criteria": {
       "has_cherry_planks": "2026-09-19 19:39:12 +0000"
@@ -6032,12 +6134,6 @@
   "nemos_woodcutter:recipes/decorations/cherry_sign_from_cherry_planks_woodcutting": {
     "criteria": {
       "has_cherry_planks": "2026-09-19 19:39:12 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/building_blocks/stripped_cherry_log_from_cherry_log_woodcutting": {
-    "criteria": {
-      "has_cherry_log": "2026-09-19 19:38:55 +0000"
     },
     "done": true
   },
@@ -6083,12 +6179,6 @@
     },
     "done": true
   },
-  "nemos_woodcutter:recipes/redstone/cherry_button_from_cherry_logs_woodcutting": {
-    "criteria": {
-      "cherry_logs": "2026-09-19 19:38:55 +0000"
-    },
-    "done": true
-  },
   "nemos_woodcutter:recipes/redstone/cherry_door_from_cherry_planks_woodcutting": {
     "criteria": {
       "has_cherry_planks": "2026-09-19 19:39:12 +0000"
@@ -6101,51 +6191,9 @@
     },
     "done": true
   },
-  "nemos_woodcutter:recipes/redstone/cherry_pressure_plate_from_cherry_logs_woodcutting": {
-    "criteria": {
-      "cherry_logs": "2026-09-19 19:38:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2026-09-19 18:09:26 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/decorations/cherry_sign_from_cherry_logs_woodcutting": {
-    "criteria": {
-      "cherry_logs": "2026-09-19 19:38:55 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/cherry_door_from_cherry_logs_woodcutting": {
-    "criteria": {
-      "cherry_logs": "2026-09-19 19:38:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2026-09-19 18:09:26 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/transportation/cherry_boat_from_cherry_logs_woodcutting": {
-    "criteria": {
-      "cherry_logs": "2026-09-19 19:38:55 +0000"
-    },
-    "done": true
-  },
   "nemos_woodcutter:recipes/building_blocks/cherry_slab_from_cherry_planks_woodcutting": {
     "criteria": {
       "has_cherry_planks": "2026-09-19 19:39:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leaf_litter": {
-    "criteria": {
-      "has_leaves": "2026-09-19 19:41:30 +0000"
     },
     "done": true
   },
@@ -6167,57 +6215,9 @@
     },
     "done": true
   },
-  "nemos_woodcutter:recipes/redstone/cherry_fence_gate_from_cherry_logs_woodcutting": {
-    "criteria": {
-      "cherry_logs": "2026-09-19 19:38:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2026-09-19 18:11:30 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/cherry_trapdoor_from_cherry_logs_woodcutting": {
-    "criteria": {
-      "cherry_logs": "2026-09-19 19:38:55 +0000"
-    },
-    "done": true
-  },
   "nemos_woodcutter:recipes/redstone/cherry_trapdoor_from_cherry_planks_woodcutting": {
     "criteria": {
       "has_cherry_planks": "2026-09-19 19:39:12 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/decorations/cherry_fence_from_cherry_logs_woodcutting": {
-    "criteria": {
-      "cherry_logs": "2026-09-19 19:38:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2026-09-19 18:11:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2026-09-19 18:09:26 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/building_blocks/cherry_planks_from_cherry_logs_woodcutting": {
-    "criteria": {
-      "cherry_logs": "2026-09-19 19:38:55 +0000"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/building_blocks/cherry_stairs_from_cherry_logs_woodcutting": {
-    "criteria": {
-      "cherry_logs": "2026-09-19 19:38:55 +0000"
     },
     "done": true
   },
@@ -6227,15 +6227,93 @@
     },
     "done": true
   },
-  "nemos_woodcutter:recipes/building_blocks/cherry_slab_from_cherry_logs_woodcutting": {
-    "criteria": {
-      "cherry_logs": "2026-09-19 19:38:55 +0000"
-    },
-    "done": true
-  },
   "nemos_woodcutter:recipes/decorations/cherry_fence_from_cherry_planks_woodcutting": {
     "criteria": {
       "has_cherry_planks": "2026-09-19 19:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2026-09-19 19:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-09-22 04:33:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2026-09-23 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_black_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-09-23 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-09-23 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/black_bundle": {
+    "criteria": {
+      "has_black_dye": "2026-09-23 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-09-23 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2026-09-23 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2026-09-23 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:dye_backpack": {
+    "criteria": {
+      "dye_backpack": "2026-09-23 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2026-09-23 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-09-23 03:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2026-09-23 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-09-23 04:21:51 +0000"
     },
     "done": true
   },
